@@ -3,6 +3,8 @@ Group Project for Data Preparation and Analysis
 
 
 ## Relevant links 
+Predicting Restaurant inspections problem
+http://drivendata.co/case-studies/using-yelp-reviews-to-flag-restaurant-health-risks/
 
 ### The Yelp Dataset
 https://www.yelp.com/dataset
