@@ -13,7 +13,7 @@ https://www.yelp.com/dataset
 ### Food Inspections Chicago
 https://data.cityofchicago.org/Health-Human-Services/Food-Inspections/4ijn-s7e5
 
-[Food Inspections NYC](https://health.data.ny.gov/Health/Food-Service-Establishment-Last-Inspection/cnih-y5dw/data)
+[Food Inspections NYC](https://data.cityofnewyork.us/Health/DOHMH-New-York-City-Restaurant-Inspection-Results/43nn-pn8j/data)
 
 ### Weather Dataset
 https://www.meteoblue.com/en/weather/archive/export/chicago_united-states-of-america_4887398
