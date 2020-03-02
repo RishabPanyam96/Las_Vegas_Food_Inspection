@@ -6,10 +6,10 @@ Project Goal: Find relationship between Yelp reviews and whether or not a restau
 
 Structure of the Repository:
 
-- [Contributors](./#contributors)
-- [Project Overview](./#project-overview)
-- [Problem Statement](./#problem-statement)
-- [Relevant Links](./#relevant-links)
+- [Contributors](#contributors)
+- [Project Overview](#project-overview)
+- [Problem Statement](#problem-statement)
+- [Relevant Links](#relevant-links)
 
 To see the data we worked on, click [here](./data).
 
