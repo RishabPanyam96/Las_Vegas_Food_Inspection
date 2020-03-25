@@ -49,8 +49,29 @@ https://www.southernnevadahealthdistrict.org/permits-and-regulations/restaurant-
 
 ## Weather Dataset
 
-Insert weather dataset link and information here.
+Weather data contains daily weather data for locations all over the world starting from the year 1763 through 2020. We will only
+consider the weather data for the cities, Las Vegas, North Las Vegas and Henderson, for the years 2004 through 2019.
 
+We will use the following files for our analysis:
+
+2004.tar.gz
+2005.tar.gz
+2006.tar.gz
+2007.tar.gz
+2008.tar.gz
+2009.tar.gz
+2010.tar.gz
+2011.tar.gz
+2012.tar.gz
+2013.tar.gz
+2014.tar.gz
+2015.tar.gz
+2016.tar.gz
+2017.tar.gz
+2018.tar.gz
+2019.tar.gz
+
+The dataset can be found here: https://www1.ncdc.noaa.gov/pub/data/ghcn/daily/by_year/
 
 ## CDC Dataset
 
