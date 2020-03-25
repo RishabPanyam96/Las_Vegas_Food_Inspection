@@ -15,6 +15,8 @@ To see the data we worked on, click [here](./data).
 
 To see the code we used, click [here](./code).
 
+To see the administrative work behind the project, click [here](./administrative)
+
 ## Contributors
   - Olugbenga Abdulai
   - Vaibhav Ramesh Kunkerkar
