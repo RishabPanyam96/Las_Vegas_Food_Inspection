@@ -2,18 +2,13 @@
 
 This directory contains all of the data we analyze in our [code subfolder](../code).
 
-What I would like to see in this folder.
-  - links to data
-  - links to meta data (or) our own meta data
-  - maybe some EDA findings
-
 The links to the datasets and some high level analysis can be found below. For more quantitative analysis please see our [Exploratory Data Analysis](../code#exploratory-data-analysis)
 
 ## Yelp Dataset
 
 The link to the Yelp Dataset we used for this study can be found [here](https://www.yelp.com/dataset).
 
-This dataset was provided by Yelp as part of a challenge... and it contains:
+This dataset was provided by Yelp as part of a challenge and it contains:
 
 - **business.json**
 - checkin.json
@@ -72,7 +67,3 @@ We will use the following files for our analysis:
 2019.tar.gz
 
 The dataset can be found here: https://www1.ncdc.noaa.gov/pub/data/ghcn/daily/by_year/
-
-## CDC Dataset
-
-To be decided...

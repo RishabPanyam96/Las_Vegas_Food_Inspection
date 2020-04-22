@@ -6,13 +6,16 @@ This directory houses our code, which we used to do the following:
 - [Data Pre Processing](#data-pre-processing)
   - [Cleaning](#cleaning)
   - [Filtering](#filtering)
-  - [Joining](#joining)
+  - [Joining](#joining-the-data)
+- [Modeling](#modeling)
 
 To see what data we used, click [here](../data).
 
 ## Exploratory Data Analysis
 
-Before we began creating models
+Before we began creating models we wanted to see what we could find out about the data we were working with.
+
+The following graphs were helpful for us to determine what the general trends in our data were.
 
 ## Data Pre Processing
 
@@ -20,7 +23,9 @@ In its original state, the data is mostly unusable; There are a lot of columns t
 
 ### Cleaning
 
-Remove null columns.
+#### Removing Nulls
+
+If a column is null then it is useless, and if an inpsection is missing it's data then we cannot pass it into a model. We removed those values using this code:
 
 ```
 # Which columns have all missing values
@@ -30,7 +35,9 @@ null_columns = inspections_df.columns[inspections_df.isna().all()].tolist()
 inspections_df.drop(columns=null_columns, axis=1, inplace=True)
 ```
 
-If there are instances of transforming data values, please let me know.
+#### Text Cleaning
+
+In order for us to properly join the two datasets and to extract information from the reviews, we would like the text to be as clean as possible. We decided to lower case the reviews and strip the tokens for white space.
 
 ### Filtering
 
@@ -49,9 +56,7 @@ yelp_df = yelp_df[yelp_df.categories.notna()]
 yelp_df = yelp_df[yelp_df.categories.str.contains('Restaurant' or 'food' or 'bar')]
 ```
 
-There is definitely more filtering to be done and this section can probaly go after joining
-
-### Joining
+### Joining the Data
 
 In order to analyze the relationship between yelp reviews and the potential for a food inspection, we need to join these five tables:
 
@@ -71,7 +76,7 @@ Next, join the inspection data with types on the the establishments dataset base
 
 Each review has a business id that can easily be joined to the business.json file. This gives us a table of reviews that have detailed business information.
 
-#### Joining the Sets Together
+#### Creating the Mapping File
 
 This process is difficult because the text data we would want to use to match the business name to the establishment name is not always the same.
 
@@ -93,8 +98,18 @@ In the end we created an automated script that tried to create a mapping. We use
 - Find the longest matching substring
 - Filter out common restaurant words
 
-We manually validated a small subset (x rows) of these rows and found that in y% of the time, the script gave a correct match.
+After finding the closed possible match for each business and establishment pair, we manually validated every single business. If the business matched correctly to an establishment we kept the row, if it did not we ignored that business.
 
-### Aggregating Yelp Reviews
+#### Joining the Two Datasets
 
-Not yet
+After creating a list of valid mappings of business_id's and facility_id's it was quite easy to merge both halves of the dataset. We combined the business.csv from yelp and the establishments from the SNHD based on the mapping file.
+
+### Aggregating the Inspections
+
+Multiple inspections could occur at the same business at the same day and could cause duplicate reviews to appear in our final dataset. In order to solve this problem we took combined all the inspections that happened at the same business_id and the same date and we took the average of the demerits.
+
+## Modeling
+
+### Feature Engineering
+
+### Variable Selection

@@ -44,7 +44,7 @@ https://docs.google.com/document/d/1w-LSiae4_tRLNMnLZENf1jWiFXP_9tq4ScAD8FhnRMA/
 
 ### Our Project Plan
 
-TBD
+https://docs.google.com/document/d/1DCchORF93azwe97bItrNXb1GRt5IfqUVMVMywQXtWLc/
 
 ### Predicting Restaurant inspections problem
 
