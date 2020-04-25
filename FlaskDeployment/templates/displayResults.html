@@ -1,0 +1,49 @@
+<!DOCTYPE html>
+<html >
+<head>
+  <meta charset="utf-8">
+  <title>Yelp Restaurant Food Inspections</title>
+  <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/bulma/0.8.2/css/bulma.css">
+  <link rel="stylesheet" href="https://stackpath.bootstrapcdn.com/bootstrap/4.4.1/css/bootstrap.min.css" integrity="sha384-Vkoo8x4CGsO3+Hhxv8T/Q5PaXtkKtu6ug5TOeNV6gBiFeWPGFN9MuhOf23Q9Ifjh" crossorigin="anonymous">
+
+ <!-- Internal style sheet ** Not good practice but not able to read external css  **-->
+  <style>
+  .container{
+    margin: 30px auto;
+    text-align: center;
+  }
+  .table{
+    margin: 0px auto;
+    margin-left: 100px;
+  }
+  </style>
+<!--
+  <link href="{{url_for('static', filename='css/style.css')}}" rel="stylesheet"/>
+-->
+</head>
+
+<body>
+
+  
+  <div class="container">
+    <h1 class = "title is-1">Restaurant Grade Predictions</h1>
+    <div class = "top-button-container">
+      <a class="button is-success is-large" href="/getCSV" role="button">Download Output</a>
+    </div>
+  </div>
+
+
+  <div class = "container">
+    <div class="box">
+      <div class="table">
+       {% block body %}
+       {{ data|safe }}
+       {% endblock %}
+      </div>
+    </div>
+  </div>
+
+
+
+</body>
+</html>
