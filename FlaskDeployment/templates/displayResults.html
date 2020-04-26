@@ -1,0 +1,17 @@
+{% extends "index.html" %}
+
+{% block content %}
+<div class="box">
+  <div class = "container tableContainer">
+
+      <div class="table">
+       {% block body %}
+       {{ data|safe }}
+       {% endblock %}
+      </div>
+    </div>
+  </div>
+
+  {% endblock %}
+
+# https://flask.palletsprojects.com/en/1.1.x/patterns/templateinheritance/#base-template

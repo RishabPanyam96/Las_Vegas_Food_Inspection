@@ -1,0 +1,14 @@
+
+.container{
+	margin: 30px auto;
+	text-align: center;
+
+}
+.table{
+	margin: 0px auto;
+	margin-left: 100px;
+}
+
+#progressBar {
+	visibility: hidden;
+}

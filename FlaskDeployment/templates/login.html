@@ -1,0 +1,31 @@
+<!DOCTYPE HTML>
+<html>
+<head>
+        <meta charset="UTF-8">
+        <title>Login</title>
+        <link href="https://stackpath.bootstrapcdn.com/font-awesome/4.7.0/css/font-awesome.min.css" rel="stylesheet" integrity="sha384-wvfXpqpZZVQGK6TAh5PVlGOfQNHSoD2xbE+QkPxCAFlNEevoEH3Sl0sibVcOQVnN" crossorigin="anonymous">
+        <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/bulma/0.8.2/css/bulma.css">
+
+</head>
+
+<div class = "columns is-centered" style="margin-top:100px;">
+<div class = "box is-half">
+        <h1 class = "title is-1"> Team Outliers Login </h1>
+        {% if loginfail%}
+            <h2 class = "title is-5" style="color: red"> LOGIN FAILURE </h2>
+        {% endif %}
+        <div class = "field">
+                <form action="{{ url_for('login')}}" method="POST">
+                        <class = "label"> Username</class>
+                        <input class = "input" type = "text" placeholder = "Username" name = "username">
+                        <class = "label"> Password</class>
+                        <input class="input" type = "password" placeholder="Password" name = "password">
+                        </div>
+                        <input class = "button is-link"type="submit">
+                </form>
+        <br><br>
+        <p> </p>
+        </div>
+
+</div>
+</html>
