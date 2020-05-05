@@ -107,9 +107,3 @@ After creating a list of valid mappings of business_id's and facility_id's it wa
 ### Aggregating the Inspections
 
 Multiple inspections could occur at the same business at the same day and could cause duplicate reviews to appear in our final dataset. In order to solve this problem we took combined all the inspections that happened at the same business_id and the same date and we took the average of the demerits.
-
-## Modeling
-
-### Feature Engineering
-
-### Variable Selection
