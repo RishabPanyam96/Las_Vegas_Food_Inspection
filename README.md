@@ -2,7 +2,7 @@
 
 Final Project Repository for CSP-571: Data Preparation and Analysis
 
-Project Goal: Find relationship between Yelp reviews and whether or not a restaurant needs a food inspection.
+Project Goal: Find relationship between (inspection data and Yelp reviews) and whether or not a restaurant needs a food inspection.
 
 Structure of the Repository:
 
@@ -14,8 +14,6 @@ Structure of the Repository:
 To see the data we worked on, click [here](./data).
 
 To see the code we used, click [here](./code).
-
-To see the administrative work behind the project, click [here](./administrative)
 
 ## Contributors
   - Olugbenga Abdulai
@@ -46,10 +44,6 @@ https://docs.google.com/document/d/1w-LSiae4_tRLNMnLZENf1jWiFXP_9tq4ScAD8FhnRMA/
 
 https://docs.google.com/document/d/1DCchORF93azwe97bItrNXb1GRt5IfqUVMVMywQXtWLc/
 
-### Predicting Restaurant inspections problem
+### Our Final Report
 
-http://drivendata.co/case-studies/using-yelp-reviews-to-flag-restaurant-health-risks/
-
-### Previous Competition Winners Repo
-
-https://github.com/drivendataorg/keeping-it-fresh/tree/17fa93f5ecafa0793ee005abd22092c173406479
+https://docs.google.com/document/d/1tt0rZ0FXRpEaTN2M2c90hwfx0_93ehBiuTwqAZDQIrw/
