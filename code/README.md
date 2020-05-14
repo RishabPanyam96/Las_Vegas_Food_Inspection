@@ -167,5 +167,9 @@ def get_features(b_id,date,y_file):
     else:
       return [temp_df.average_demerits.mean(),temp_df.average_demerits.count(),temp_df.average_demerits.max(),temp_df.average_demerits.min()] 
 ```
-### Modelling
+### Validation, Tuning, and Sampling
+We have an imbalanced dataset with 34413 inspections having a pass grade and 9731 inspections with a fail grade.We first divided our dataset in a train and test set with 20% of observations in the test set. Modelling without using any sampling techniques on our training dataset would lead to the model being biased against misclassification of the pass grade as the model would try to reduce the overall error in our model.Hence to remedy it, we used random undersampling to make the number of pass and fail records equal in our training dataset.
+To validate our model, we used 5-fold cross validation so as not to overestimate or underestimate our model performance. We used 5-fold GridSearch Cross Validation to choose the best hyperparameters for our model. Table 1 below  shows the difference in our model performance with and without any sampling techniques:
+
+
       
