@@ -7,6 +7,7 @@ This directory houses our code, which we used to do the following:
   - [Cleaning](#cleaning)
   - [Filtering](#filtering)
   - [Joining](#joining-the-data)
+  - [Feature Engineering](#Feature-Engineering)
 - [Modeling](#modeling)
 
 To see what data we used, click [here](../data).
@@ -107,3 +108,64 @@ After creating a list of valid mappings of business_id's and facility_id's it wa
 ### Aggregating the Inspections
 
 Multiple inspections could occur at the same business at the same day and could cause duplicate reviews to appear in our final dataset. In order to solve this problem we took combined all the inspections that happened at the same business_id and the same date and we took the average of the demerits.
+### Feature Engineering
+Our main focus was to obtain relevant features from Yelp reviews which would give us the information about the characteristics of those reviews. We also used past inspection records to generate features that would capture the performance of the restaurant during its past inspections. Finally we used weather data as weather can cause the food and safety performance to change (For example temperature and precipitation can cause some foods to spoil more easily).
+
+```
+lda_model = LdaModel(corpus=corpus,
+                         id2word=dct,
+                         random_state=100,
+                         num_topics=100,
+                         passes=3,
+                         chunksize=1000,
+                         alpha='auto',
+                         decay=0.5,
+                         offset=64,
+                         eta='auto',
+                         eval_every=0,
+                         iterations=100,
+                         gamma_threshold=0.001,
+                        per_word_topics=True)
+
+```
+To summarise our text reviews we used Latent Dirichlet Allocation (LDA) to get the topics represented in a particular text.We chose the number of topics to be 100 and the alpha to be asymmetric for the model which signifies that the topic distribution for the reviews could be of unequal length (Some reviews may talk about more topics than others). Finally, we used the LDA model to get the topic distribution for a particular review. It is represented as a 100 dimensional vector with each element representing the percentage of that topic in our document. We used these vectors as features in our model.
+
+We aggregated the reviews over the past 12 months of the inspection process to get an estimation of the topic distribution in the reviews over the past 12 months. These aggregations were finally used as features in our model.
+```
+def get_rows(df,time_period,b_id,date_input):
+    temp_df = df[df.business_id == b_id]
+    date_min = date_input - \
+       pd.offsets.DateOffset(months=time_period)
+    temp_df = temp_df[(temp_df['date'] < date_input) & (temp_df['date']>=date_min)].reset_index(drop = True)
+    return temp_df[[str(i) for i in range(100)]].mean()
+
+Dataset[list(range(100))] = Dataset.parallel_apply(lambda x : get_rows(review_Dataset,12,x['business_id'],x['Date']),axis=1,result_type ='expand')    
+```
+We also generated the following features to help in our modelling. They consist of a mix of information about the restaurants past inspection record and weather data:
+- The maximum, average, and minimum no. of violations by the restaurant previously
+- The total number of  previous inspections
+- Restaurant category
+- Results of the past 3 inspections for the restaurant
+- Average sentiment of the reviews over the past 12 months
+- Average of average, min and max temperature for the location over the past 30 days of inspection
+- Average precipitation and dew point for the location over the past 30 days of inspection
+
+```
+def get_sentimnet_Score(df,time_period,b_id,date_input):
+    temp_df = df[df.business_id == b_id]
+    date_min = date_input - \
+       pd.offsets.DateOffset(months=time_period)
+    temp_df = temp_df[(temp_df['date'] < date_input) & (temp_df['date']>=date_min)].reset_index(drop = True)
+    temp_df['polarity_scores'] = temp_df.text.apply(lambda x:sid_obj.polarity_scores(x).get('compound'))
+    return temp_df['polarity_scores'].mean()
+    
+def get_features(b_id,date,y_file):
+    temp_df= y_file[y_file.business_id == b_id]
+    temp_df = temp_df[temp_df.inspection_date < date]
+    if(temp_df.empty):
+      return [None,0,None,None]
+    else:
+      return [temp_df.average_demerits.mean(),temp_df.average_demerits.count(),temp_df.average_demerits.max(),temp_df.average_demerits.min()] 
+```
+### Modelling
+      
