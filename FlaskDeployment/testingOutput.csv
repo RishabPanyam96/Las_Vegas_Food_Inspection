@@ -1,21 +1,3809 @@
-,name,address,city,Grade
-7,Supercuts,"4545 E Tropicana Rd Ste 8, Tropicana",Las Vegas,B
-17,Carluccio's Tivoli Gardens,"1775 E Tropicana Ave, Ste 29",Las Vegas,A
-18,Myron Hensel Photography,,Las Vegas,A
-20,Fremont Arcade,"450 Fremont St, Ste 179",Las Vegas,A
-22,Hunk Mansion,6007 Dean Martin Dr,Las Vegas,C
-24,Maurices,"7981 W Tropical Pkwy, Ste 120",Las Vegas,B
-25,Maria's Mexican Restaurant & Bakery,6055 E Lake Mead Blvd,Las Vegas,C
-28,AW Collision,"3325 W Desert Inn Rd, Ste 101",Las Vegas,A
-30,Ross Dress for Less,8800 W Charleston Blvd,Las Vegas,B
-34,Bank of America,3150 N Rainbow Blvd,Las Vegas,C
-41,Wesley Friedman - FBC Mortgage,"6775 Edmond St, Ste 210",Las Vegas,C
-42,Pine Village Apartments,3011 Arville St,Las Vegas,A
-43,Three Square,4190 N Pecos Rd,Las Vegas,C
-64,Bank of America,4910 S Fort Apache Rd,Las Vegas,A
-67,La Fortuna,3339 Las Vegas Blvd S,Las Vegas,C
-69,Transformers Landscaping,6798 Cherry Grove Ave,Las Vegas,B
-70,Hair by Sharyn,8751 W Charleston Blvd,Las Vegas,C
-75,Dairy Queen,6125 Spring Mountain Rd,Las Vegas,C
-86,Llantera Del Norte,4380 N Lamb Blvd,Las Vegas,C
-93,Tiffany & Co - Forum Shops at Caesar's Palace,3500 Las Vegas Blvd,Las Vegas,A
+Restaurant Name,Address,Predictions
+Maria's Mexican Restaurant & Bakery,6055 E Lake Mead Blvd,Fail
+Macayo Vegas,1741 E Charleston Blvd,Fail
+Moe's Southwest Grill,"6910 S Rainbow Blvd, Ste 100",Fail
+Rigos Taco,3140 S Valley View Blvd,Fail
+Joker's,1631 N Decatur Blvd,Fail
+Cevicheria El Diamante,2457 E Tropicana Ave,Fail
+Culichi Town,2400 N Rancho Dr,Fail
+Chicken Now,7400 Las Vegas Blvd S,Fail
+China Roll,"3310 S Nellis Blvd, Unit 21",Fail
+Kimchi Korean Bbq,"3049 Las Vegas Blvd, Ste 20",Fail
+Shawarma Plus,6530 S Decatur Blvd,Fail
+Kinnaree Thai and Vegetarian,7365 W Sahara Ave,Fail
+Roberto's Taco Shop,"6320 Simmons St, Ste 130",Fail
+Blizz Frozen Yogurt - Bally's Hotel & Casino,3645 South Las Vegas Blvd,Fail
+Ross J's Aloha Grill,"4650 E Sunset Rd, Ste A",Fail
+Chin Chin,3790 Las Vegas Blvd S,Fail
+Fiesta Henderson,777 W Lake Mead Pkwy,Fail
+Pub 365,255 E Flamingo Rd,Fail
+Tacos Mexico,1800 Las Vegas Blvd S,Fail
+Daisho Sushi,7435 S Eastern Ave,Fail
+Ventano Italian Grill & Seafood,191 S Arroyo Grande Blvd,Fail
+Carl's Jr.,5080 E Bonanza Rd,Fail
+Thai Original BBQ,2680 S Maryland Pkwy,Fail
+Frankie's Pizza,"8505 S Eastern Ave, Ste 103",Fail
+Jollibee,"9430 W Sahara Ave, Ste 100A",Fail
+Chubby's Pub,4702 E Flamingo Rd,Fail
+Spicy Tuna Sushi,"10345 S Eastern Ave, Ste 190",Fail
+China One,2239 N Rampart Blvd,Fail
+Vegas Noodle House,3516 Wynn Rd,Fail
+Siena Italian Authentic Trattoria and Deli,9500 W Sahara Ave,Fail
+Macayo's Mexican Restaurant,8245 W Sahara Ave,Fail
+China Wan Wan,"771 E Horizon Dr, Unit 168",Fail
+Pieology Pizzeria,"365 Hughes Center Dr, Ste 130",Fail
+Kaba Curry,"5115 Spring Mountain Rd, Ste 234",Fail
+Noon's Boba Cafe,1650 W Warm Springs Rd,Fail
+La Original Michoacana,"5105 E Sahara Ave, Ste 102",Fail
+Hash House A Go Go,6800 W Sahara Ave,Fail
+Pho 88,7920 S Rainbow Blvd,Fail
+Mix Zone Cafe,"2202 W Charleston Blvd, Ste 5",Fail
+Goldilocks,"2797 S Maryland Pkwy, Ste 18",Fail
+Nobu Las Vegas,4455 Paradise Rd,Fail
+Greens and Proteins,9809 W Flamingo Rd,Fail
+China One,4990 W Craig Rd,Fail
+Griddlecakes,9480 S Eastern Ave,Fail
+Grand Café,2101 Texas Star Ln,Fail
+Gourmet Wok,7638 Westcliff Dr,Fail
+Go Vegan Cafe,"5875 S Rainbow Blvd, Ste 104",Fail
+Kusina Ni Lorraine,3275 W Ann Rd,Fail
+Santarosa Taco Stop,866 E Lake Mead Pkwy,Fail
+Tokyo Peking Asian Restaurant,"750 E Pyle Ave, Ste 108-109",Fail
+Johnny Mac's,842 S Boulder Hwy,Fail
+Chang's Hong Kong Cuisine,4670 S Decatur Blvd,Fail
+Harvest Cafe,4835 W Craig Rd,Fail
+Church's Chicken,1625 E Charleston Blvd,Fail
+Tacos El Jefe's,"6475 W Charleston Blvd, Ste 120",Fail
+Roberto's Taco Shop,2207 E Windmill Ln,Fail
+Rice Trax Teriyaki Grill,7745 S Rainbow Blvd,Fail
+Nanay Gloria,"5980 W Spring Mountain Rd, Ste 2 C",Fail
+McDonald's,3010 Las Vegas Blvd N,Fail
+Fukumimi Ramen,4860 S Eastern Ave,Fail
+Cold Stone Creamery,"9350 W Sahara Ave, Ste 140",Fail
+D'Pinoy Joint,"7680 S Las Vegas Blvd, Ste 202",Fail
+Cafe Rio,9002 W Sahara Ave,Fail
+Panda Express,7017 Spring Mountain Rd,Fail
+All Star Donuts,1615 Las Vegas Blvd S,Fail
+Gourmet China Bistro,"6360 N Simmons St, Ste 110",Fail
+Cardenas Market,4700 Meadows Ln,Fail
+Pt's Pub,"4825 W Flamingo Ave, Ste 3",Fail
+Burger King,1125 E Charleston Blvd,Fail
+Panda Express,2220 E Craig Rd,Fail
+Thai Place,4019 S Maryland Pkwy,Fail
+China Star,1075 W Craig Rd,Fail
+Capriotti's Sandwich Shop,"771 East Horizon Drive, Suite 128",Fail
+Eats Italian,3355 Las Vegas Blvd S,Fail
+L&L Hawaiian Barbecue,"2520 E Craig Rd, Ste 105",Fail
+Vesta Coffee Roasters,1114 S Casino Center Blvd,Fail
+Viet Bistro,7175 W Lake Mead Blvd,Fail
+Habaneros Taco Grill,4225 S Fort Apache Rd,Fail
+Roberto's Taco Shop,907 S Rainbow Blvd,Fail
+Fat Boy,"4425 Stewart St, Ste 107",Fail
+Brothers Pizza,"7575 S Rainbow Blvd, Ste 104",Fail
+Hikari,4175 S Buffalo Dr,Fail
+TC's Rib Crib,3655 S Durango Dr,Fail
+Streets of New York,7570 Norman Rockwell Lane,Fail
+Surang's Thai Kitchen,"5455 S Fort Apache Rd, Ste 105",Fail
+Jollibee,"3890 S Maryland Pkwy, Ste 137",Fail
+Tacos El Rey,3969 S Maryland Pkwy,Fail
+Chicago Style Taco Shop,5660 Boulder Hwy,Fail
+Mochiko Chicken,2101 S Decatur Blvd,Fail
+Pho Bosa,3711 S Valley View,Fail
+Capriotti's Sandwich Shop,"9210 S Eastern Ave, Ste 115",Fail
+PT's,6055 E Lake Mead Blvd,Fail
+Turmeric Flavors of India,700 E Fremont St,Fail
+El Tinajon Cuban Food,3762 E Flamingo Rd,Fail
+Amano,5601 N Tenaya Way,Fail
+Thai Thai Restaurant,"10890 S Eastern Ave, Ste 109",Fail
+Taco Time,8050 Dean Martin Dr,Fail
+Krung Thai Restaurant,4130 S Decatur Blvd,Fail
+Bob's East Side Deli,2900 E Patrick Ln,Fail
+IHOP,5170 S Fort Apache Rd,Fail
+Kapuso Kapamilya,4300 Spring Mountain Rd,Fail
+Restaurante Guadalajara,1725 N Nellis Blvd,Fail
+Aloha Specialties,12 E Ogden Ave,Fail
+Fat Boy,"1570 W Horizon Ridge, Ste 160",Fail
+Mandarin Express,"6895 E Lake Mead Blvd, Ste A3",Fail
+Golden Phoenix Chinese Cuisine,2345 E Centennial Pkwy,Fail
+Barbacoa Kings,2115 N Decatur Blvd,Fail
+Grand Sign Kitchen,"7480 S Rainbow Blvd, Ste B",Fail
+Thai Pan Cuisine,463 S Decatur Blvd,Fail
+The Jade Restaurant,"5300 Spring Mountain Rd, Ste 107",Fail
+La Bocce,310 E Warm Springs Rd,Fail
+Tasty China,"4444 W Craig Rd, Ste 126",Fail
+Panera Bread,9911 S Eastern Ave,Fail
+Pancho's,11020 Lavender Hills Dr,Fail
+El Pollo Mobile,"3347 E Russell Rd, Ste C2",Fail
+San Salvador Restaurant,2211 S Maryland Pkwy,Fail
+Boathouse Asian Eatery Las Vegas,2411 W Sahara Ave,Fail
+Florida Cafe Cuban Bar & Grill,1401 Las Vegas Blvd S,Fail
+Sushi Hero,"3870 E Flamingo Rd, Ste A1",Fail
+El Super,4610 W Sahara Ave,Fail
+Great Wall Chinese Restaurant,2202 W Charleston Blvd,Fail
+Bachi Burger,"470 E Windmill Ln, Ste 100",Fail
+Pt's Gold,6610 S Ft Apache Rd,Fail
+8th Ave Pizza,"11370 Southern Highlands Pkwy, Ste 110",Fail
+McDonald's,2340 S Rainbow,Fail
+Asian Garden,"560 N Nellis Blvd, Ste E10",Fail
+Greens and Proteins,6180 N Decatur,Fail
+Simon & Joe's Eatery,"3720 W Tropicana Ave, Ste 3",Fail
+Sakina Thai Cuisine,4251 W Sahara Ave,Fail
+KFC,4924 Boulder Hwy,Fail
+La Flor De Michoacan,3760 E Desert Inn Rd,Fail
+Dragon Wok,"3350 Novat St, Ste 135",Fail
+Carmine's Pizza Kitchen,2211 Maryland Pkwy,Fail
+Tortas El Rey,2300 E Lake Mead Blvd,Fail
+China Hot Wok,"7121 W Craig Rd, Ste 112",Fail
+Jersey Mike's Subs,"2101 N Rainbow Blvd, Ste 101",Fail
+Soul Foo Young,1216 W Owens Ave,Fail
+Rachel's Kitchen,3330 S Hualapai Way,Fail
+Thai Style Noodle House,2267 N Rampart Blvd,Fail
+Rumbi Island Grill,"4680 S Maryland Pkwy, Ste 300",Fail
+Snack Bar,"1220 E Harmon Ave, Ste A",Fail
+Capriotti's Sandwich Shop,4480 Paradise Rd,Fail
+Paina Cafe,"6870 Spring Mountain Rd, Ste G",Fail
+Sinaloa Tacos,"4040 W Craig Rd, Ste 117",Fail
+D' Pinoy Joint,"6820 W Flamingo Rd, Ste A",Fail
+Tea Space Sunset Park,"7425 S Eastern Ave, Ste 102",Fail
+Pizzarelli,1288 S Nellis Blvd,Fail
+Domino's Pizza,5124 Camino Al Norte,Fail
+Ohjah Japanese Steakhouse Sushi & Hibachi Flamingo,10144 W Flamingo Rd,Fail
+Pop Up Pizza,1 S Main St,Fail
+Wendy's,603 W Lake Mead Pkwy,Fail
+Tony's Mexican Food 2,"3053 W Craig Rd, Ste A",Fail
+Nagano Sushi & Grill,4161 S Eastern Ave,Fail
+Chocolate Chair- Las Vegas,3635 Las Vegas Blvd,Fail
+Domino's Pizza,4966 S Maryland Pkwy,Fail
+Natalie Littlefield's Catering Unlimited,"953 E Sahara Ave, Ste A1",Fail
+Sabatino's Authentic NY Pizzeria,7660 W Cheyenne Ave,Fail
+Angelina's Pizzeria,5750 S Decatur Blvd,Fail
+Papa John's Pizza,3460 E Sunset Rd,Fail
+1900 Asian Cuisine,"5115 Spring Mountain Rd, Ste 103",Fail
+Roberto's Taco Shop,3435 N Nellis Blvd,Fail
+Rachel's Kitchen,"150 Las Vegas Blvd N, Ste 160",Fail
+Teriyaki House,6181 S Rainbow Blvd,Fail
+Pizza Rock,201 N 3rd St,Fail
+Cafe Rio,2600 W Sahara Ave,Fail
+China A Gogo,170 N Boulder Hwy,Fail
+Roberto's Taco Shop,"10430 Bermuda Rd, Ste 1",Fail
+Giordanos - Las Vegas,"3619 Las Vegas Blvd S, Ste 200",Fail
+Mariscos Aguachiles Culichi,2462 N Las Vegas Blvd,Fail
+Fausto's Mexican Grill,2654 W Horizon Ridge Pkwy,Fail
+China Gourmet,"2585 S Nellis Blvd, Ste 7",Fail
+Cook On Wok,8380 W Cheyenne Ave,Fail
+Lino's Pizzeria & Italian Cuisine,"7240 W Azure Dr, Ste 145",Fail
+Bruxie,"3782 S Las Vegas Blvd, South Tenant Block, Bldg D1",Fail
+Gotta Love Cheesecake,"5081 N Rainbow Blvd, Ste 100",Fail
+Robertos Taco Shop,"4275 N Rancho Dr, Ste 150",Fail
+Nacho Daddy Downtown,113 N 4th St,Fail
+Pool Cafe,3600 S Las Vegas Blvd,Fail
+FAME,3545 Las Vegas Blvd S,Fail
+Pink Taco,4455 Paradise Rd,Fail
+Quality Mobile Food Service,29 N 30th St,Fail
+New York Pizza & Pasta,"2400 S Jones Blvd, Ste 13",Fail
+Luna Rossa,10 Via Bel Canto,Fail
+PublicUs,1126 Fremont St,Fail
+Panda Express,7470 S Las Vegas Blvd,Fail
+McDonald's,5111 Boulder Hwy,Fail
+Maui Rose Hawaiian BBQ,"2600 W Sahara Ave, Ste 101",Fail
+McDonald's,4411 W Sahara Ave,Fail
+Happy's Pizza,6110-A  Flamingo Rd,Fail
+Robertos Taco Shop,"2240 W Horizon Ridge Pkwy, Ste 140",Fail
+Best Billiards,3740 E Flamingo Rd,Fail
+Emperor's Garden,"4215 Spring Mountain Rd, Ste B203",Fail
+Hash House A Go Go,"The M Resort, 12300 Las Vegas Blvd S",Fail
+Mariscos El Puerto,1901 N Decatur Blvd,Fail
+Hanabi Sushi and Rolls,"9350 W Sahara Ave, Ste 150",Fail
+L & L Hawaiian BBQ,4030 S Maryland Pkwy,Fail
+Jasmine Express,5546 Camino Al Norte,Fail
+Buffalo's Pizza,"4045 S Buffalo Dr, Ste 108",Fail
+Long John Silver's,4675 W Charleston Blvd,Fail
+Pho MaiLan,"10895 S Eastern Ave, Ste 140",Fail
+Basil Thai Fusion,4341 N Rancho Dr,Fail
+Pokeman,"3735 Spring Mountain Rd, Ste 206",Fail
+Sushi Culiacan,"4420 E Charleston Blvd, Ste 5",Fail
+M&M Soul Food Cafe,3923 W Charleston Blvd,Fail
+Stacks & Yolks,3200 N Jones Blvd,Fail
+Viet Noodle Bar,5288 Spring Mountain Rd,Fail
+Yama Sushi,"1350 E Flamingo Rd, Ste 18",Fail
+L&L Hawaiian BBQ,"4770 W Ann Rd, Ste 6",Fail
+Dot's Southern Kitchen,4955 E Craig Rd,Fail
+Roberto's Taco Shop,4690 W Cactus Ave,Fail
+Dairy Queen,3850 S Las Vegas Blvd,Fail
+Rockin' Taco Mexican Grill,"3717 S Las Vegas Blvd, Ste 260",Fail
+Baja Fresh Mexican Grill,7930 W Tropical Pkwy,Fail
+Golden China,1750 N Buffalo Dr,Fail
+Donut Tyme,4268 E Charleston Blvd,Fail
+Del Taco,1197 E Tropicana Ave,Fail
+Pios Pios Ice Cream Shop,"2660 S Maryland Pkwy, Ste 20",Fail
+Checkers,1900 E. Charleston Blvd.,Fail
+Hawaiian Marketplace,3743 Las Vegas Blvd S,Fail
+Yalla Mediterranean Grill,"10895 S Eastern Ave, Ste 130",Fail
+PT's,3470 E Sunset Rd,Fail
+Beijing Chinese Cuisine,"9255 S Eastern Ave, Ste 330-4",Fail
+Little Caesars Pizza,"4825 S. Rainbow Blvd. #202, Ste 202",Fail
+Easy Life Boba Tea,"8560 W Desert Inn Rd, Ste D2",Fail
+Sapphire Pool & Dayclub,"3025 Sammy Davis Jr Dr, Ste 200",Fail
+Nina's Cafe,"4825 W Flamingo Rd, Ste 9-10",Fail
+Fat Choy,595 E Sahara Ave,Fail
+J & J Szechuan Cuisine川味坊,"5700 Spring Mountain Rd, Ste A",Fail
+Pho So 1,4745 Spring Mountain Rd,Fail
+Nutrition Rush,"4175 S Grand Canyon Dr, Ste 104",Fail
+Taqueria Los Pioneros,4800 S Nellis Blvd,Fail
+Flock & Fowl,380 W Sahara Ave,Fail
+Tropical Smoothie Cafe,"4503 Paradise Road, #310",Fail
+Sushi Bay,2603 Windmill Pkwy,Fail
+Subway,3519 S Maryland Pkwy,Fail
+Las Americas,2319 S Eastern Ave,Fail
+Hash House A Go Go,3535 Las Vegas Blvd,Fail
+Radio City Pizzeria,508  Fremont St,Fail
+El Canelo Restaurant,23 N Mojave,Fail
+Joe's New York Pizza,4480 Paradise Rd,Fail
+Nacho Daddy Henderson,9925 S Eastern Ave,Fail
+Applebee's Grill + Bar,4605 W Charleston Blvd,Fail
+Yunnan Tasty Garden,5115 Spring Mt Rd,Fail
+Rounders Anthem,2940 Bicentennial Pkwy,Fail
+La Mojarra Loca,"821 N Lamb Blvd, Ste 14",Fail
+MTO Café,500 S Main St,Fail
+Capriotti's Sandwich Shop,"8450 W Sahara Ave, Ste 116",Fail
+Arata Sushi & Bowl,"3250 N Tenaya Way, Ste 99",Fail
+McDonald's,1195 E Sahara Ave,Fail
+Roberto's Taco Shop,"72 W Horizon Ridge Pkwy, Ste B-150",Fail
+Joyful House Chinese Cuisine,4601 Spring Mountain Rd,Fail
+Soulfish Poké,"8680 W Warm Springs Rd, Ste 110",Fail
+McDonald's,2896 S Las Vegas Blvd,Fail
+Los Compadres Meat Market,"4545 E Tropicana Ave, Ste 6",Fail
+Carey Mini Market,1504 W Carey Ave,Fail
+Los Tacos,4001 W Sahara Ave,Fail
+Tokyo Sushi House,"10040 W Cheyenne Ave, Ste 150",Fail
+Roberto's Taco Shop,6650 Vegas Dr,Fail
+MTO Café,"10970 Rosemary Park Dr, Ste 100",Fail
+Sushi Tachi,"2745 W Centennial Pkwy, Ste 130",Fail
+Mariscos El Dorado,2021 E Charleston Blvd,Fail
+Samurai Sam's,"4175 S Grand Canyon Dr, Ste 103",Fail
+ProteinHouse,"9555 S Eastern Ave, Ste 125",Fail
+Taco Bell,8150 Blue Diamond Rd,Fail
+Therapy,518 E Fremont St,Fail
+McDonald's,6020 W Tropicana,Fail
+Tacos Los Toritos,861 N Nellis Blvd,Fail
+Bombay Indian Cuisine,3049 Las Vegas Blvd,Fail
+Pancho's Mexican Food,4886 W Lone Mountain,Fail
+Ori'Zaba's Scratch Mexican Grill,7210 S Durango Dr,Fail
+Rika Arepa Express,"3650 E Flamingo Rd, Ste 1",Fail
+Cheffini's Hot Dogs,"707 Fremont St, Ste 1050",Fail
+Salvadoreno Restaurant,720 N Main St,Fail
+Port of Subs,"840 S Rancho, Ste 13",Fail
+McDonald's,2248 Paradise Rd,Fail
+Las Pupusas,"7450 W Cheyenne Ave, Ste A108",Fail
+Pin Kaow Thai Restaurant,1974 N Rainbow Blvd,Fail
+Pepe's Tacos 3,4814 Boulder Hwy,Fail
+Taste Tea,10120 W Flamingo Rd,Fail
+Thai Grill,1901 N Decatur Blvd,Fail
+Port of Subs,"3281 S Highland Dr, Ste 802",Fail
+Michoacan,7870 W Tropical Pkwy,Fail
+Big Dog's Draft House,4543 N Rancho Dr,Fail
+Tony’s Slice House,2300 Paseo Verde Pkwy,Fail
+McDonald's,4505 W Charleston,Fail
+Roma Pizza,4310 E Tropicana Ave,Fail
+Happy Wok,"5479 S Rainbow Blvd, Ste A1",Fail
+Thai Style Noodle House,"7377 S Jones Blvd, Ste 113-114",Fail
+Pho Vegas,4251 W Sahara Ave,Fail
+LV Food Junky,"450 Fremont St, Ste 135",Fail
+Taqueria El Buen Pastor,530 N Las Vegas Blvd,Fail
+Arirang Korean BBQ,"1370 East Flamingo Rd, Ste 27",Fail
+Capriotti's,"1200 N Town Center Dr, Ste B",Fail
+Bonjour Euro Bakery,"4012 S Rainbow Blvd, Ste J",Fail
+Ori'Zaba's Scratch Mexican Grill,1263 E Silverado Ranch Blvd,Fail
+Blueberry Hill Family Restaurant,1280 S Decatur Blvd,Fail
+Kapit Bahay,"3743 Las Vegas Blvd, Ste 117B",Fail
+KFC,71 N Nellis Blvd,Fail
+Thai Room,"3355 E Tropicana Ave, Ste D",Fail
+Del Taco,1801 W Charleston Blvd,Fail
+Japaneiro,"7315 W Warm Springs Rd, Ste 170",Fail
+Wendy's,500 N Green Valley Pkwy,Fail
+Lino's Pizzeria & Italian Restaurant,4210 W Craig Rd,Fail
+Sonic Drive-In,6301 W Lake Mead Blvd,Fail
+Ok Chicken,6850 Spring Mountain Rd,Fail
+Auntee M's Market,"4275 Arville St, Ste A",Fail
+Pho Saigon 8,9055 S Eastern Ave,Fail
+Sushi Mon,"8320 W Sahara Ave, Ste 180",Fail
+Fuji Japanese Restaurant,"3430 E Tropicana Ave, Ste 30",Fail
+No. 1 Boba Tea,"9711 S Eastern Ave, Ste H-12",Fail
+Pink Box Doughnuts,7531 W Lake Mead Blvd,Fail
+La Cabana,526 S Martin L King Blvd,Fail
+Basil 'n Lime,"3665 Ft Apache Rd, Ste 100",Fail
+Patty's Tamales,"5061 East Sahara Ave, Ste 1C",Fail
+Great Harvest Bread Co,"4800 E Bonanza Rd, Unit 8",Fail
+Bronze Cafe at The Center,401 S Maryland Pkwy,Fail
+Vegas Best Pizza,384 E Tropicana,Fail
+Nittaya's Secret Kitchen,"2110 N Rampart, Ste 110",Fail
+Tony's Mexican Food,"5752 S Ft Apache Rd, Ste 100",Fail
+Dakao Sandwiches,5700 W Spring Mountain Rd,Fail
+California Noodle House,12 E Ogden Ave,Fail
+Baja Fresh,"1292 S Nellis Blvd, Ste A",Fail
+Rustica Pizzeria,"9730 W Tropicana Ave, Ste 140",Fail
+AmeriBrunch Cafe,"316 E Bridger Ave, Ste 102",Fail
+Angara India Spice Grill,"4165 S Grand Canyon Dr, Ste 105",Fail
+Hot Tofu,6850 Spring Mountain,Fail
+Tropical Smoothie Cafe,"6350 West Charleston Boulevard, Suite 130",Fail
+Aurelio's Pizza,"445 W Craig Rd, Ste 105",Fail
+Angelina's Pizzeria - Charleston,"5821 E Charleston Blvd, Ste 217",Fail
+Tacos El Burrito Loco,2401 S Valley View Blvd,Fail
+Lindo Michoacan,2655 E Desert Inn Rd,Fail
+Capriotti's Sandwich Shop,170 N Boulder Hwy,Fail
+Mount Everest India's Cuisine,3641 W Sahara Ave,Fail
+Chopstix Express,2625 S Decatur Blvd,Fail
+Panera Bread,7175 W Lake Mead Blvd,Fail
+Arata Sushi,"3250 N Tenaya Way, Ste 99",Fail
+McDonald's,2020 N Rainbow,Fail
+Taqueria El Buen Pastor,318 Fremont Street Experience,Fail
+Roberto's Taco Shop,4845 S Fort Apache,Fail
+Burger King,8699 W Sahara Ave,Fail
+Don Tortaco Mexican Grill,"1475 W Horizon Ridge Pkwy, Ste 140",Fail
+The Hush Puppy,7185 W Charleston Blvd,Fail
+Sushi House Goyemon,"5255 S Decatur Blvd, Ste 118-119",Fail
+Tea Station,"4355 Spring Mountain Rd, Ste 106",Fail
+Green Valley Mini Mart,690 N Valle Verde Dr,Fail
+Ohjah Noodle House,"7150 S Durango Dr, Ste 190",Fail
+Thai Spice,4433 W Flamingo Rd,Fail
+Hot Dog On A Stick,3850 Las Vegas Blvd S,Fail
+El Burrito Mexican Restaurant,8508 Del Webb Blvd,Fail
+Chicago Joe's,820 S 4th St,Fail
+Del Taco,5180 S Fort Apache Rd,Fail
+Rincon Catracho,4110 S Maryland Pkwy,Fail
+Tacos Los Toritos,"855 E Twain Ave, Ste 127",Fail
+BBQ King,5650 Spring Mountain Rd,Fail
+Marché Bacchus,"2620 Regatta Dr, Ste 106",Fail
+Club Platinum,311 E Flamingo Rd,Fail
+Teriyaki Madness,5749 E Russell Road,Fail
+Hawaiian Style Poke,3524 Wynn Rd,Fail
+JINYA Ramen Bar,4860 W Flamingo Rd,Fail
+Sakura Japanese Cuisine,6850 Spring Mountain Rd,Fail
+Magura,"3242 E Desert Inn Rd, Ste 15",Fail
+Lobster ME,"Grand Canal Shoppes at The Venetian, 3377 South Las Vegas Blvd",Fail
+Kazuki Sushi,10670 Southern Highlands Pkwy,Fail
+Rosati's,"72 W Horizon Ridge Pkwy, Ste 140",Fail
+Don Tortaco Mexican Grill,"430 E Silverado Ranch, Ste 100",Fail
+Lazeez,"8560 W Desert Inn Rd, Ste D-3",Fail
+Hot Dog on a Stick,4300 Meadows Ln,Fail
+Strip Jerky,"7450 W Cheyenne Ave, Ste 102",Fail
+Domino's Pizza,3395 E Tropicana Ave,Fail
+Palm Pizza,3411 E Charleston Blvd,Fail
+Yagyu Yakiniku,"4355 W Spring Mountain Rd, Ste 107",Fail
+Tacos El Compita 3,4455 E Tropicana St,Fail
+Sushi Koma,"8665 W Flamingo Rd, Ste 126 & 127",Fail
+Mariscos La Lomita De Culiacan,3330 Losee Rd,Fail
+Hachi,3410 S Jones Blvd,Fail
+Roberto's Taco Shop,7251 W Azure Dr,Fail
+Fausto's Mexican Grill,595 College Dr,Fail
+Trattoria Italia,"9905 S Eastern Ave, Ste 140",Fail
+Little Caesars Pizza,4559 W. Charleston Blvd. Suite D32,Fail
+Dimas Tacos,"5081 N Rainbow Blvd, Ste 103",Fail
+Chili's,7335 Arroyo Crossing Pkwy,Fail
+Denny's,1201 W Warm Springs Rd,Fail
+Rocco's NY Pizzeria,1910 Village Center Cir,Fail
+Ramen Arashi,"4555 S Fort Aache Rd, Ste 110",Fail
+Orchids Garden Chinese Restaurant,5485 W Sahara Ave,Fail
+Lotus Garden Cuisine,6435 S Rainbow Blvd,Fail
+Anthony & Mario's Broadway Pizzeria,"840 S Rancho Dr, Ste 15",Fail
+McDonald's,2886 S Nellis Blvd,Fail
+Cuba Cafe,2055 E Tropicana Ave,Fail
+Sofia's Pizza,3124 Las Vegas Blvd N,Fail
+American Coney Island Chili Dogs,301 Fremont St,Fail
+Aloha Hawaiian BBQ,"4990 W Craig Rd, Ste 4",Fail
+Lindo Michoacan,10082 W Flamingo Rd,Fail
+L & L Hawaiian Barbecue,2595 S Maryland Pkwy,Fail
+El Santaneco,"4632 S Maryland Pkwy, Ste 7",Fail
+Millside,5710 Losee Rd,Fail
+LULU Hawaiian BBQ 2,7120 North Durango Dr,Fail
+Volcano Tea House,"4215 Spring Mountain Rd, Ste B106B",Fail
+Denny's,7200 S Las Vegas Blvd,Fail
+Little Pampanga Filipino Cuisine,6325 E Russell Rd,Fail
+Tacos El Gordo,3260 Losee Rd,Fail
+Dairy Queen,3154 W Sahara Ave,Fail
+Ali Baba Cuisine,8826 S Eastern Ave,Fail
+Asian BBQ & Noodle,"3400 S Jones Blvd, Ste 5C",Fail
+Tropicana Pizza,"5841 E Lake Mead Blvd, Ste C",Fail
+Teriyaki Brother,6679 Smoke Ranch Rd,Fail
+Mariscos El Tapatio,1195 E Pyle Ave,Fail
+Church's Chicken,7925 S Rainbow Blvd,Fail
+Santa Rosa Taco Shop,23 E Basic Rd,Fail
+Joe's Crab Shack,1991 N Rainbow Blvd,Fail
+Golden Corral,1455 S Lamb Blvd,Fail
+Tropical Smoothie Cafe,"7375 South Durango Drive, #107",Fail
+Wings Restaurant,"6572 N Decatur Blvd, Ste 140",Fail
+Round Table Pizza,7141 South Eastern Avenue,Fail
+2 Scoops of Aloha LV,5030 Paradise Rd,Fail
+Cal Club Snack Bar,"California Hotel & Casino, 12 E Ogden Ave",Fail
+Krazy Buffet,3131 N Rainbow Blvd,Fail
+La Salsa,"3500 Las Vegas Blvd S, Ste R06, The Forum Shops At Caesars",Fail
+The Palazzo Las Vegas,3325 South Las Vegas Boulevard,Fail
+Capriotti's Sandwich Shop,7291 S Eastern Ave,Fail
+Piccadilly Pizza Fremont,322 Fremont St,Fail
+Mariscos El Pariente,6182 W Flamingo Rd,Fail
+Canaletto Ristorante Veneto,"The Venetian Resort-Hotel-Casino, 3377 Las Vegas Blvd. South, Ste 2440",Fail
+Panda Express,5595 Simmons St,Fail
+Papa John's Pizza,8840 W Farm Rd,Fail
+China Tango,"2850 Bicentennial Pkwy, Ste 100",Fail
+El Gran Taco,4924 E Tropicana Ave,Fail
+Teriyaki Madness,"72 W Horizon Ridge Pkwy, #B-105",Fail
+Pt's Pub,3935 S Durango Dr,Fail
+Subway,4915 E Charleston Blvd,Fail
+Other Mama,"3655 S Durango, Unit 6",Fail
+Hash House A Go Go,1 S Main St,Fail
+Le Village Buffet,3655 Las Vegas Blvd S,Fail
+The Memory Thai,4005 E Desert Inn Rd,Fail
+Cheffinis Hot Dogs- THE CART,520 Fremont St,Fail
+Little Dumpling,180 S Stephanie St,Fail
+Carl's Jr,1440 W Cheyenne,Fail
+Chili's,7530 Las Vegas Blvd S,Fail
+Del Taco,1802 E Charleston Blvd,Fail
+Krispy Kreme,1331 W Craig Rd,Fail
+Del Taco,2531 E Craig Rd N,Fail
+Earl of Sandwich,"2010 Festival Plaza Dr, Ste 180",Fail
+La Choza,1520 N Eastern Ave,Fail
+Los Molcajetes,1553 N Eastern Ave,Fail
+Viva Las Arepas,"1616 S Las Vegas Blvd, Ste 120",Fail
+Wasabi Jane's Venetiaen,3355 Las Vegas Blvd S,Fail
+Pho Kim Long,4029 Spring Mountain Rd,Fail
+Café Zupas,8850 W Charleston Blvd,Fail
+Olocuilta Restaurant,1756 E Charleston Blvd,Fail
+Tropical Smoothie Cafe,"9440 West Sahara Boulevard, Suite 105",Fail
+D E Thai Kitchen,1108 S 3rd St,Fail
+Outback Steakhouse,7380 Las Vegas Blvd S,Fail
+Kapit Bahay,"4115 Spring Mountain Rd, Ste 104",Fail
+Stir Krazy Mongolian Grill,"3345 E Patrick Ln, Ste 100",Fail
+Round Table Pizza,"7460 West Lake Mead Boulevard, Sutie E-8",Fail
+Red Rock Pizza,8455 W Lake Mead Blvd,Fail
+Capriotti's Sandwich Shop,"7240 W Azure Dr, Ste 155",Fail
+Peace Ethiopian Market & Cafe,"4850 W Flamingo Rd, Ste 48",Fail
+Full House BBQ,"9890 S Maryland Pkwy, Ste 19",Fail
+La Flor de Michoacan Ice Cream,"2670 N Las Vegas Blvd, Ste 107",Fail
+Nekter Juice Bar,"1990 Village Center Cir, Ste 3",Fail
+Chubby Cattle,"3400 S Jones Blvd, Ste 15",Fail
+Potato Corner,6605 Las Vegas Blvd,Fail
+Vila Algarve,"6120 W Tropicana Ave, Ste A 11/12",Fail
+China AAA,"9775 S Maryland Pkwy, Ste C",Fail
+Thai Pepper,2226 Paradise Rd,Fail
+The Original Pancake House,4170 S Ft Apache Rd,Fail
+Fat Moe's Pizza & Wings,"6125 W Tropicana Ave, Ste F",Fail
+Ichiza,4355 Spring Mountain Rd,Fail
+Teriyaki Madness,"4870 Blue Diamond Rd, Ste 110",Fail
+Cheeburger Cheeburger Express,7480 S Rainbow Blvd,Fail
+Barcelona Tapas,10690 Southern Highlands Pkwy,Fail
+No. 1 Boba Tea,"4255 Spring Mountain Rd, Ste C104",Fail
+Mark Rich's New York Pizza & Pasta,11710 W Charleston Blvd,Fail
+Los Jarochos Restaurant,4811 S Rainbow Blvd,Fail
+El Ausente,2536 Fremont St,Fail
+Hennessey's Las Vegas,"425 Fremont St, Ste 110",Fail
+Crepe Station,"5051 Stewart Ave, Ste 111",Fail
+Tortilleria San Diego,235 N Eastern Ave,Fail
+Abyssinia Ethiopian Restaurant,"4780 W Tropicana Ave, Ste 108",Fail
+ChowKing,3890 S Maryland Pkwy,Fail
+Los Toritos Express,5780 E Charleston Blvd,Fail
+Madison Avenue Bar & Grille,"855 E Twain Ave, Ste 114",Fail
+Capriotti's Sandwich Shop,"4983 W Flamingo Rd, Ste D",Fail
+Buca di Beppo Italian Restaurant,3850 S Las Vegas Blvd,Fail
+Saino Indian Nepali Kitchen,"4860 W Desert Inn Rd, Ste 09",Fail
+Emerald Island Casino,120 Market St,Fail
+Honey Pig Korean BBQ,"9550 S Eastern Ave, Ste 100",Fail
+Amazing Thai Restaurant,"3000 W Ann Rd, Ste 109",Fail
+Raspados Playas,3416 E Lake Mead Blvd,Fail
+Roberto's Taco Shop,5111 Boulder Hwy,Fail
+Rivas Mexican Grill,"5750 E Sahara Ave, Ste 108",Fail
+Panna Thai Restaurant,"6015 S Fort Apache Rd, Ste 100",Fail
+PDQ - Las Vegas: Sahara,3010 W Sahara Ave,Fail
+Rebel Republic,3540 W Sahara Ave,Fail
+Mint Indian Bistro,4246 S Durango Dr,Fail
+Pho Saigon 8,5650 Spring Mountain Rd,Fail
+Kabob Korner,"730 E Flamingo Rd, Ste 7",Fail
+Omoide Noodles & Bowls,7745 S Rainbow Blvd,Fail
+Aloha A Go Go,"5841 E Charleston Blvd, Ste 270",Fail
+Voodoo Wing Co,6728 W Cheyenne Ave,Fail
+Fuzzy's Taco Shop,7080 S Rainbow Blvd,Fail
+Hunt & Gather Cafe,"7240 W Azure Dr, Ste 145",Fail
+Rocco's NY Pizza & Pasta,6870 S Rainbow Blvd,Fail
+La Salsa,"3785 Las Vegas Blvd S, Ste 1500",Fail
+L&L Hawaiian BBQ,854 S Boulder Hwy,Fail
+Del Taco,5955 W Tropicana Ave,Fail
+Pizza Rock,2300 Paseo Verde Pkwy,Fail
+P'Dubs BBQ,3528 Maryland Pkwy,Fail
+Port of Subs,2601 Windmill Pkwy,Fail
+Little Caesars Pizza,"3475 E Flamingo Rd, Ste 100",Fail
+Tonkatsu Kiyoshi,"7780 S Jones Blvd, Ste 103",Fail
+El Pollo Loco,4011 E Charleston Blvd,Fail
+Pepe's Tacos,2341 N Rainbow Blvd,Fail
+Salted Malted Bakery & Creamery,"6584 N Decatur Blvd, Ste 120",Fail
+Four Sevens Sports Bar & Restaurant,7777 W Sahara Ave,Fail
+Kabob Oasis,"10100 S Eastern Ave, Ste 120",Fail
+Railroad Pass Hotel & Casino,1500 Railroad Pass Casino Rd,Fail
+Rachel's Kitchen,2265 Village Walk Dr,Fail
+Pho 87,3620 S Jones Blvd,Fail
+Santa Ana Cafe,714 N Nellis Blvd,Fail
+HK Seafood Garden,4300 W Spring Mountain Rd,Fail
+Le Cafe Du Lac,"40 Costa Di Lago, Ste 100",Fail
+8oz Korean Steak House,"4545 Spring Mountain Rd, Ste B105",Fail
+Roberto's Taco Shop,"6355 N Commerce St, Ste 103A",Fail
+Ori'Zaba's Scratch Mexican Grill,3318 E Flamingo Rd,Fail
+Fiesta Filipina Cuisine,"3310 S Jones Blvd, Ste A",Fail
+Dona Norma Restaurant,1122 S Maryland Pkwy,Fail
+Original Tommy's,5208 Boulder Hwy,Fail
+Valley Cheese & Wine,"1570 W Horizon Ridge Pkwy, Ste 140",Fail
+New York Chinese Restaurant,"9430 W Lake Mead Blvd, Ste 1",Fail
+Quiznos,"6420 S Pecos Rd, Ste C",Fail
+The Cheesecake Factory,"505 S Grand Central Pkwy, Ste 3201",Fail
+Rocco's Ny Pizza & Pasta,580 E Windmill,Fail
+BabyStacks Cafe,"4135 S Buffalo Dr, Ste 101",Fail
+Rosallie,6090 S Rainbow Blvd,Fail
+El Tenampa,556 N Eastern Ave,Fail
+Mantra Masala,"8530 W Warm Springs Rd, Ste 101",Fail
+Treasures Gentlemen's Club & Steakhouse,2801 Westwood Dr,Fail
+Golden China Chinese Cuisine,"3830 E Flamingo Rd, Ste E4",Fail
+Sushi Wow,"5585 Simmons St, Ste 3",Fail
+The Melting Pot-Las Vegas,8704 W Charleston Blvd,Fail
+McDonald's,900 S Rampart,Fail
+Papa John's Pizza,"1411 N Jones Blvd, Ste 100",Fail
+Satay Thai Bistro & Bar,"3900 Paradise Rd, Ste N",Fail
+Roberto's Taco Shop,"193 N Gibson Rd, Ste 100",Fail
+Roberto's Taco Shop,1220 E Harmon Ave,Fail
+Ohjah Japanese Steakhouse,239 N Pecos Rd,Fail
+Smith & Wollensky,3767 Las Vegas Blvd S,Fail
+China Gourmet,"9002 W Sahara Ave, Ste A",Fail
+Pure Nutrition,"1450 Horizon Ridge Pkwy, Ste B303",Fail
+Jackie Bee Boba Express,"6250 W Charleston Blvd, Ste 120",Fail
+Roberto's Taco Shop,"6820 W Flamingo Rd, Ste D",Fail
+Thai Basil,2696 W Ann Rd,Fail
+Mundo Restaurant,"495 S Grand Central Pkwy, Bldg A-116",Fail
+L & L Hawaiian Barbecue,7580 S Las Vegas Blvd,Fail
+China A GoGo,"5960 N Losee Rd, Ste128",Fail
+Felipito's Mexican Food,5095 S Decatur Blvd,Fail
+Kusina Ni Lorraine Express,"1850 E Serene Ave, Ste 106",Fail
+Roberto's Taco Shop,"5725 Losee Rd, Ste 100",Fail
+Jalisco Cantina,"3460 E Sunset Rd, Ste D",Fail
+Penn's Thai House,724 W Sunset Rd,Fail
+Veggie Delight,3504 Wynn Rd,Fail
+Dairy Queen,"6525 S Fort Apache Rd, Unit 100",Fail
+Market Street Cafe,12 E Ogden Ave,Fail
+Panda Express,"4321 W Flamingo Rd, #1241",Fail
+Papa John's Pizza,1010 E Desert Inn Rd,Fail
+Kabob Korner,507 E Fremont St,Fail
+Gata Thai Cuisine,35 S Gibson Rd,Fail
+Cheers Bar & Grill,1220 E Harmon Ave,Fail
+China Mama Restaurant,3420 S Jones Blvd,Fail
+Buffet At Asia,"9901 S Eastern Ave, Ste 110",Fail
+VegeNation,"616 Carson Ave, Ste 120",Fail
+Hong Kong Garden Seafood & BBQ Cafe,3407 S Jones Blvd,Fail
+La Pupusa Loca,"1000 N Nellis Blvd, Ste M",Fail
+Pure Indian Cuisine,"1405 E Sunset Rd, Ste 200",Fail
+Sonic Drive-In,4442 N Decatur Blvd,Fail
+Lui's Cocina,"1745 S Rainbow Blvd, Ste C",Fail
+Pho Sing Sing,2550 S Rainbow Blvd,Fail
+Swish,"7875 W Sahara Ave, Ste 105",Fail
+Dunkin' Donuts,4125 S Eastern Ave,Fail
+TGI Fridays,4570 W Sahara Ave,Fail
+Nutrition Rush,"5310 W Sahara Ave, Ste B",Fail
+The Blue Skillet Family Restaurant,1723 E Charleston Blvd,Fail
+Griddlecakes,"6085 S Fort Apache Rd, Ste 180",Fail
+Food Express,2411 W Sahara Ave,Fail
+Blue Fin Sushi & Roll,"3980 E Sunset Rd, Ste 102",Fail
+Pizza Patron,2885 E Charleston Blvd,Fail
+Dunkin' Donuts,6295 S Rainbow Blvd,Fail
+Cafe Modena,"1725 E Warm Springs Rd, Ste 18",Fail
+China Ginger,5035 S Fort Apache Rd,Fail
+Charleys Philly Steaks,4300 Meadows Ln,Fail
+#1 Hawaiian Barbecue,"5905 S Eastern Ave, Ste 105",Fail
+Chronic Tacos,"9460 W Flamingo Rd, Ste 125",Fail
+Oyster Bay Seafood,3663 Las Vegas Blvd S,Fail
+Slices Pizzeria,4111 Boulder Hwy,Fail
+Red Lobster,2325 E Flamingo Rd,Fail
+Angelina's Pizzeria - Eastern,5025 S Eastern Ave,Fail
+Roberto's Taco Shop,114 S Boulder Hwy,Fail
+Las Islitas,5105 E Sahara Ave,Fail
+Simply Pure by Chef Stacey Dougan,"707 Fremont St, Ste 1310",Fail
+China Dragon,"5905 Eastern Ave, Ste 104",Fail
+Metro Pizza,1395 E Tropicana Ave,Fail
+Viva Zapatas Mexican Restaurant & Cantina,3826 E Craig Rd,Fail
+Eiffel Tower Wine & Spirits,3655 Las Vegas Blvd,Fail
+Café Zupas,9460 S Eastern Ave,Fail
+Le Provencal,"Paris Las Vegas Hotel & Casino, 3655 Las Vegas Boulevard South",Fail
+KFC,2312 S Maryland Pky,Fail
+Starbucks,10250 West Charleston Blvd,Fail
+China One,"7080 N Durango Dr, Ste 130",Fail
+Sushi Wa,"790 Coronado Center Dr, Ste 125",Fail
+Long John Silver's,5930 Centennial Center Blvd,Fail
+Chada Street,3839 Spring Mountain Rd,Fail
+Pasta Mia West,4455 W Flamingo Rd,Fail
+Rhythm Kitchen,6435 S Decatur Blvd,Fail
+Flamingo Pizza,3500 Wynn Rd,Fail
+Hooters,7155 S Rainbow Blvd,Fail
+Los Portales Bakery,2630 E Lake Mead Blvd,Fail
+BF Sushi,"6375 S Rainbow Blvd, Ste 102",Fail
+China A Go Go,"10140 W Tropicana Ave, Ste 123",Fail
+Laurita's Taco Shop,"8880 S Maryland Pkwy, Ste 103",Fail
+New China Cuisine,"5515 Camino Al Norte, Ste 101",Fail
+IHOP,3780 S Maryland Pkwy,Fail
+Seafood City Supermarket,3890 S Maryland Pkwy,Fail
+Go Raw Cafe,2910 Lake E Dr,Fail
+Aloha Kitchen,8150 S Maryland Pkwy,Fail
+Ono's Island BBQ,5740 W Charleston Blvd,Fail
+Oyshi Sushi,"7775 S Rainbow Blvd, Ste 145",Fail
+Very Berry Cafe,"4983 West Flamingo Rd, Ste B1",Fail
+The Cupcakery,"9680 S Eastern Ave, Ste 100",Fail
+Tacos Y Tortas El Panzon,"3720 E Sunset Rd, Ste 110",Fail
+Domino's Pizza,"2085 N Jones Blvd, Unit 6",Fail
+India Oven Masala Bar & Grill,1040 E Flamingo Rd,Fail
+Cilantros Taco Grill,2490 E Desert Inn Rd,Fail
+POKE POKU  Hawaiian Poke bar,"7460 S Rainbow Blvd, Ste 105",Fail
+L & L Hawaiian Barbecue,2755 S Nellis Blvd,Fail
+Dog Haus Biergarten,4480 Paradise Rd,Fail
+Krung Siam Thai,"3755 Spring Mountain Rd, Ste 102",Fail
+"Flippin' Good Chicken, Burgers, Beer",505 E Fremont St,Fail
+Ohjah Noodle House #2,"35 E Horizon Ridge Pkwy, Ste 160",Fail
+Earl of Sandwich,4321 W Flamingo Rd,Fail
+Viva El Taco,"8410 W Cheyenne Ave, Ste 106",Fail
+Nutrition Rush,"4985 W Tropicana Ave, Ste 103",Fail
+Roberto's Taco Shop,"4955 E Craig Rd, Ste 2",Fail
+Cafe Americano,3570 S Las Vegas Blvd,Fail
+Aloha Kitchen & Bar,"2605 S Decatur Blvd, Ste 110",Fail
+Munch Box,6105 S Fort Apache Rd,Fail
+Church's Chicken,4851 W Charleston Blvd,Fail
+Timbers - Azure,7240 W Azure Dr,Fail
+Robertos Taco Shop,"5780 E Sahara, Ste 110",Fail
+Thai St Cafe,3137 S Industrial Rd,Fail
+Black Mountain Grill,11021 S Eastern Ave,Fail
+Santa Fe Mining Company,5021 N Rainbow Blvd,Fail
+Port of Subs,2285 N Green Valley Pkwy,Fail
+McDonald's,301 Fremont St,Fail
+1 Hawaiian Barbecue,"5870 N Losee Rd, Ste 157",Fail
+Swish Shabu Shabu,"5115 W Spring Mountain Rd, Ste 121",Fail
+Papa John's Pizza,"9285 Cimarron Rd, Ste 105",Fail
+Dona Maria Tamales Restaurant,3205 N Tenaya Way,Fail
+Little Caesars Pizza,1758 E. Charleston Blvd.,Fail
+El Cazador,1108 E Lake Mead Blvd,Fail
+Burger King,3004 W Ann Rd,Fail
+El Pollo Mobile,4104 E Lake Mead Blvd,Fail
+Farmer Boys,4833 W Charleston Blvd,Fail
+Centro America Restaurant,6135 W Sahara Ave,Fail
+Antojitos DF,4440 E Tropicana Ave,Fail
+La Belle Terre French Bakery And Café,"8390 W Sahara Ave, Ste 130",Fail
+Napoli Pizza,"765 N Nellis Blvd, Ste 10",Fail
+Los Tacos,1710 E Charleston Blvd,Fail
+Napoli Pizzeria,"4760 W Sahara Ave, Ste 11",Fail
+McDonald's,5947 Spring Mountain Rd,Fail
+Cafe Rio,9595 S Eastern Ave,Fail
+E-Jo Korean Restaurant,"700 E Sahara Ave, Ste D",Fail
+Hiroba Sushi,"10720 S Eastern Ave, Ste 100",Fail
+Tropical Smoothie Cafe,"3390 Novat Street, #110",Fail
+Pellegrini Pizza,"101 S Rainbow Blvd, Ste 7",Fail
+32 Degrees,3799 Las Vegas Blvd S,Fail
+The Mad Greek Cafe,8565 W Sahara Ave,Fail
+Tacos Mexico,3820 W Sahara Ave,Fail
+Sunflower Vietnamese Restaurant,"4210 W Craig Rd, Ste 100",Fail
+808 Sushi,7435 S Durango Dr,Fail
+Samurai Japanese Steakhouse & Sushi,1199 W Sunset Rd,Fail
+Ramen KoBo,7040 S Durango Dr,Fail
+McDonald's,3451 W Tropicana,Fail
+McDonald's,7530 W Washington,Fail
+Mother's Korean Grill,4215 Spring Mountain Rd,Fail
+Sin City Sushi,9255 S Eastern Ave,Fail
+LaoDiFang Asian Kitchen,"9340 W Flamingo Rd, Ste 114",Fail
+China A Go Go,"5841 E Charleston Blvd, Ste 250",Fail
+Chipotle Mexican Grill,3200 Las Vegas Blvd S,Fail
+China Poblano,"3708 Las Vegas Blvd S, Level 2, Boulevard Tower",Fail
+Pupusería El Zunzal,2081 N Decatur Blvd,Fail
+BJ'S Cocktail Lounge South,3835 W Martin Ave,Fail
+Pollos El Dorado,5717 Merrill Ave,Fail
+Omelet House,"2160 W Charleston Blvd, Ste A",Fail
+Hunan Chilli Kingdom,"3460 Arville St, Ste 7",Fail
+Island Pacific Seafood Market,8650 W Tropicana Ave,Fail
+China A Go Go,"4780 W Ann Rd, Ste 3",Fail
+Café Zupas,1381 W Sunset Rd,Fail
+Function Juicery,"4220 S Grand Canyon Dr, Ste 6",Fail
+Teriyaki Madness,"2548 Wigwam Pkwy, Ste 150",Fail
+El Birotazo,4262 E Charleston Blvd,Fail
+Farmer Boys,4450 N Lamb Blvd,Fail
+Denny's,7071 W Craig Rd,Fail
+L & L Hawaiian Barbecue,"5752 S Fort Apache Rd, Ste 105",Fail
+Capriotti's Sandwich Shop,1146 W Sunset Rd,Fail
+World Famous Tuscany Pizza,610 E Naples,Fail
+Mansion Dining Room,3799 Las Vegas Blvd S,Fail
+El Pollo Loco,7205 S Eastern Ave,Fail
+Aurelio's the Family Pizzeria,"10960 S Eastern Ave, Ste 107",Fail
+Las Palmas Mariachi Restaurant,953 E Sahara Ave,Fail
+Thelma's Filipino Restaurant,"1205 W Sunset Rd, Ste 180",Fail
+Metro Pizza,4178 Koval Ln,Fail
+Mr D's Frozen Custard,10385 S Eastern Ave,Fail
+Domino's Pizza,3100 E Lake Mead Blvd,Fail
+Vogue Restaurant & Bar,3383 S Jones Blvd,Fail
+Denny's,3411 S Las Vegas Blvd,Fail
+Dairy Queen,2607 Windmill Pkwy,Fail
+MB China,"2100 E Lake Mead Blvd, Ste A",Fail
+Yonaka Modern Japanese,"4983 W Flamingo Rd, Ste A",Fail
+Pearl Wok To Go,"8550 W Charleston Blvd, Ste 100",Fail
+Carniceria Guadalajara,"955 W Craig Rd, Ste 117",Fail
+Osaka Japanese Bistro,4205 W Sahara Ave,Fail
+McDonald's,3700 S Paradise Rd,Fail
+GlutenZero,"9500 S Eastern Ave, Ste 130",Fail
+Samurai Sam's,7620 Las Vegas Blvd S,Fail
+Life's A Bagel,2223 N Rampart Blvd,Fail
+Roberto's Taco Shop,1311 W Craig Rd,Fail
+Chipotle Mexican Grill,7370 S Las Vegas Blvd,Fail
+McDonald's,540 Marks St,Fail
+Cue-D's Poolhall & Bar,"3400 S Jones Blvd, Ste 19",Fail
+Domino's Pizza,971 S Boulder Hwy,Fail
+Tony Roma's,2040 N Rainbow Blvd,Fail
+Little Caesars Pizza,4258 E. Charleston Blvd.,Fail
+Angelina's Pizza,7790 W Cheyenne Ave,Fail
+Samosa Factory,"4604 W Sahara Ave, Ste 6",Fail
+Baja Bar & Grill,4755 S Maryland Pkwy,Fail
+Domino's Pizza,"9435 W Tropicana Ave, Ste 104",Fail
+Fresh Donuts,"2100 E Lake Mead Blvd, Ste B",Fail
+Esmeralda's Cafe,1000 E Charleston Blvd,Fail
+PT's,4424 W Spring Mountain Rd,Fail
+Golden Steer Steakhouse,308 W Sahara Ave,Fail
+Brew Tea Bar,"7380 S Rainbow Blvd, Ste 101",Fail
+Little Caesar,118 E Lake Mead Dr,Fail
+Sababa Mediterranean Grill,3220 S Durango Dr,Fail
+Krazy Buffet,8095 W Sahara Ave,Fail
+Domino's Pizza,8508 W Sahara Ave,Fail
+Lola's A Louisana Kitchen,"241 W Charleston Blvd, Ste 101",Fail
+Canyon Ranch Cafe,3355 Las Vegas Blvd S,Fail
+Viva Las Arepas,1134 S Rainbow Blvd,Fail
+Las Islitas Mariscos,"6831 W Flamingo Rd, Ste 406",Fail
+PBR Rock Bar & Grill,3663 Las Vegas Blvd S,Fail
+Isla Grille Filipino Cuisine,"6105 S Fort Apache Rd, Ste 402",Fail
+Paymon's Mediterranean Cafe & Lounge,4147 S Maryland Pkwy,Fail
+Gandhi India's Cuisine,4080 Paradise Rd,Fail
+McDonald's,6680 N 5th St,Fail
+Dairy Queen,"7501 W Lake Mead Blvd, Ste 105, Summerhill Plaza Strip Mall",Fail
+Goto Queen,2300 N Rainbow Blvd,Fail
+The Hush Puppy,1820 N Nellis Blvd,Fail
+Sushi Mon,"9770 S Maryland Pkwy, Ste 3",Fail
+Little Dumpling,"6572 N Decatur Blvd, Ste 120",Fail
+Little Crown & Anchor Pub,4755 Spring Mountain Rd,Fail
+Firefly Tapas Kitchen and Bar,"11261 S Eastern Ave, Ste 200",Fail
+Omelet House,6520 Boulder Hwy,Fail
+Tacos El Gordo,3049 S Las Vegas Blvd,Fail
+Kang Thai,"6475 W Charleston Blvd, Ste 160",Fail
+Port of Subs,190 E Flamingo Rd,Fail
+Sushi Yamaguchi,5900 W Charleston Blvd,Fail
+QDOBA Mexican Eats,"175 N Stephanie St, Ste 100",Fail
+Off the Hook,"4155 S Buffalo Dr, Ste 105",Fail
+Manna Mediterranean,"171 N Gibson Rd, Ste 110",Fail
+Rincon Criollo,1145 Las Vegas Blvd S,Fail
+Roberto's Taco Shop,"4503 Paradise Rd, Ste C-130",Fail
+Aces & Ales,3740 S Nellis Blvd,Fail
+China Kitchen,4985 E Craig Rd,Fail
+Oh's Convenient Store,4646 Swenson St,Fail
+Capriotti's Sandwich Shop,"7440 W Cheyenne, Ste 101",Fail
+Roberto's Taco Shop,4330 E Washington Ave,Fail
+McDonald's,4135 S Grand Canyon Dr,Fail
+Abuela's Tacos,"4225 E Sahara Ave, Ste 1",Fail
+Del Taco,150 N Boulder Hwy,Fail
+Taco Rico Los 3 Gallos,1524 S Main St,Fail
+Tacos El Gordo,1724 E Charleston Blvd,Fail
+El Cordobes,5020 E Tropicana Ave,Fail
+L & L Hawaiian Barbecue,"2060 E Serene Ave, Ste 100",Fail
+Bangkok Market,4825 W Flamingo Rd,Fail
+Casa Di Amore,2850 E Tropicana Ave,Fail
+Dream Bean Coffee,6820 Spring Mountain Rd,Fail
+Boba Hut,"5597 S Rainbow Blvd, Ste 130",Fail
+Aloha Hawaiian BBQ,"6475 Pecos Rd, Ste B",Fail
+Makers & Finders Coffee,"1120 S Main St, Ste 110",Fail
+Kathy's Southern Cooking,6407 Mountain Vista St,Fail
+Cardenas Market,4500 E Tropicana Ave,Fail
+Sushi Neko,"5115 W Spring Mountain Rd, Ste 117",Fail
+Yummy China,7045 W Ann Rd,Fail
+Mariscos Vallarta,4425 E Tropicana Ave,Fail
+Taqueria La Casa Del Pastor,5893 W Tropicana Ave,Fail
+Bubba Gump Shrimp,"3717 Las Vegas Blvd S, Ste 2 Q",Fail
+McDonald's,4774 Alta Dr,Fail
+Burger King,3355 S Maryland Pkwy,Fail
+Cicis,"309 N Nellis Blvd, Ste 120",Fail
+Round Table Pizza,"7460 W Lake Mead Blvd, Ste 8",Fail
+El Nopal Mexican Grill,"3231 N Decatur Blvd, Ste 101",Fail
+P-Dub's BBQ,3528 South Maryland Pkwy,Fail
+Buffet At Asia,4090 S Eastern Ave,Fail
+Max's Restaurant,1290 E Flamingo Rd,Fail
+Crêpe Station,4664 W Charleston Blvd,Fail
+Las Gorditas,"840 N Decatur Blvd, Ste G",Fail
+I Am Thai Cuisine,"310 E Warm Springs Rd, Ste G",Fail
+Mermaid's Casino,32 Fremont St,Fail
+Orange Julius / Dairy Queen,"3200 Las Vegas Blvd S, Ste 600",Fail
+H2O Sushi & Izakaya,"325 Hughes Center Dr, Ste 120",Fail
+Mario's Westside Market,1960 N Martin L King Blvd,Fail
+Siam Garden,"3297 Las Vegas Blvd N, Ste 65",Fail
+Ringer,3667 Las Vegas Blvd S,Fail
+SK Seafood Restaurant 勝記,5600 Spring Mountain Rd,Fail
+Go!ku,"4300 W Spring Mountain Rd, Ste 108",Fail
+Buck's Tavern,1204 N Nellis Blvd,Fail
+Dotty's #1,1131 E Tropicana Ave,Fail
+El Mescal Family Mexican Restaurant,4460 S Durango Dr,Fail
+The Daddy's Pizza,"2775 S Nellis Blvd, Ste B9",Fail
+Brown Rice Thai Kitchen,"1910 Village Center Cir, Ste 3",Fail
+Nigerian Cuisine,"5006 S Maryland Pkwy, Ste 11",Fail
+Kung Fu Tea,5030 Spring Mountain Rd,Fail
+L & L Hawaiian Barbecue,"10860 W Charleston Blvd, Ste 180",Fail
+Marie Callender's Restaurants & Bakeries,3081 N Rainbow Blvd,Fail
+China A GoGo,"8431 Farm Rd, Ste 140",Fail
+China Star,4595 W Charleston Blvd,Fail
+Thai House,"9850 S Maryland Pkwy, Ste 17",Fail
+Robertos Taco Shop,"8680 W Warm Springs Rd, Ste 105",Fail
+Potato Corner,"4300 Meadows Ln, 5525",Fail
+Cugino's Pizzeria,6584 N Decatur Blvd,Fail
+Thai Seafood Ginger,"1750 S Rainbow Blvd, Ste 8",Fail
+Port of Subs,"9255 S Eastern Ave, Ste 300",Fail
+PT's Gold,1383 E Silverado Ranch Rd,Fail
+Pinches Tacos,"9205 W Russell Rd, Ste 190",Fail
+Asian Wok,6515 N Buffalo Dr,Fail
+Tacos La Mexicana,"3675 S Decatur Blvd, Ste 1",Fail
+Zingers,3743 Las Vegas Blvd S,Fail
+Ori'Zaba's Scratch Mexican Grill,6630 N Durango Dr,Fail
+Marcos Pizza,"3355 Novat St, Ste 110",Fail
+Capriotti's Sandwich Shop,11350 Southern Highlands Pkwy,Fail
+Baja Fresh,"8780 W Charleston Blvd, Ste 100",Fail
+Hussong's Cantina Boca Park,"740 S Rampart Blvd, Ste 7",Fail
+Rice n Noodle,"7910 S Rainbow Blvd, Ste 105",Fail
+Armaan Taste of India,"9890 S Maryland Pkwy, Ste 18",Fail
+VegeNation,10075 S Eastern Ave,Fail
+Sonic Drive-In,7245 S Durango Dr,Fail
+China a Go Go,"505 E Windmill Ln, Ste D",Fail
+Skyline Restaurant & Casino,1741 N Boulder Hwy,Fail
+Xtreme Sushi,"10670 S Southern Highlands Pkwy, Ste 104",Fail
+Yi Mei Champion Taiwan Deli,"4300 Spring Mountain Rd, Ste 116",Fail
+Weera Thai,"3839 W Sahara Ave, Ste 7-9",Fail
+Phat Phrank's,4850 W Sunset Rd,Fail
+McDonald's,5811 E Charleston Blvd,Fail
+Napoli Pizza,1275 W Warm Springs Rd,Fail
+Carl's Jr,7598 Vegas Dr,Fail
+McDonald's,3020 Edesert Inn Rd,Fail
+Mark Rich's New York Pizza & Pasta,7930 W Tropical Pkwy,Fail
+Chickpeas Mediterranean Café,"6375 S Rainbow Blvd, Ste 101",Fail
+Roberto's Taco Shop,"2875 S Nellis Blvd, Ste A2",Fail
+Krazy Sushi,"7160 N Durango Dr, Ste 140",Fail
+Jjanga Steak & Sushi,"6125 S Fort Apache Rd, Ste 200",Fail
+Tacos El Nopal,4200 W Russell Rd,Fail
+Chao Thai Restaurant,"4550 S Maryland Pkwy, Ste 23",Fail
+Rocky Mountain Chocolate Factory,4500 W Tropicana Ave,Fail
+Sawa Sushi,"3962 Blue Diamond Rd, Ste 104",Fail
+Nevada Chicken Cafe,"7340 Arroyo Crossing Pkwy, Ste 5",Fail
+China One,"2447 E Tropicana Ave, Ste 13A",Fail
+Donut Mania,"4460 S Durango Dr, Ste D",Fail
+Robertos Taco Shop,10612 S Eastern Ave,Fail
+Michi Ramen,1018 W Sunset Rd,Fail
+Archi's Thai Bistro,"6345 S Rainbow Blvd, Ste 100",Fail
+Tropical Smoothie Cafe,"7291 South Eastern Avenue, Suite 1K",Fail
+Pepe's Tacos,2490 Fremont St,Fail
+L & L Hawaiian Barbecue,1900 N Buffalo Dr,Fail
+China Joe's,1350 E Flamingo Rd,Fail
+TangTangTang 2,"8635 S Rainbow Blvd, Ste 110",Fail
+Rosati's Pizza,5725 Losee Rd,Fail
+China a Go Go,"75 S Valle Verde Dr, Ste 240",Fail
+Muscle Maker Grill - Las Vegas,"5765 Centennial Center Blvd, Ste 180",Fail
+The Coffee Bean & Tea Leaf,5757 Wayne Newton Blvd,Fail
+Gilligan's HideAway,2601 Atlantic St,Fail
+Del Taco,4449 E Sunset Rd,Fail
+Jason's Deli,100 N City Pkwy,Fail
+Big Apple Bagels,"2548 Wigwam Pkwy, Ste 140",Fail
+Roberto's Taco Shop,3102 Las Vegas Blvd N,Fail
+Paris Baguette,"3377 Las Vegas Blvd, Ste 2390",Fail
+Rocky's Bar and Grill,8540 S Maryland Pkwy,Fail
+Park on Fremont,506 Fremont St,Fail
+Capriotti's Sandwich Shop,3820 E Craig Rd,Fail
+Romano's Macaroni Grill,2400 W Sahara Ave,Fail
+Tacos Tijuana,2554 E Tropicana Ave,Fail
+Trillo's Street Tacos,4371 N Rancho Dr,Fail
+Thai Original BBQ Restaurant,1424 S 3rd St,Fail
+Wendy's,4760 E Flamingo Rd,Fail
+Pizza Hut,"10420 W Cheyenne Ave, Ste 110",Fail
+Chili's,6505 N Decatur Blvd,Fail
+Papa John's Pizza,"771 E Horizon Dr, Ste 156",Fail
+The Cheesecake Factory,"750 S Rampart Blvd, Bldg 17",Fail
+PT's,5355 S Decatur Blvd,Fail
+Lee's Discount Liquor,7752 N El Capitan Way,Fail
+Pho Rancho,"4335 N Rancho Drive, Ste 110",Fail
+El Charro's Taco Shop,"5670 Simmons St, Ste 102",Fail
+Denny's,4280 W Craig Rd,Fail
+Anthony's New York Pizza & Deli,"321 S Casino Ctr Blvd, Ste 125",Fail
+Sushi Loca,6181 Centennial Center Blvd,Fail
+Pho Aimie,"8390 S Rainbow Blvd, Ste 110",Fail
+Kaizen Fusion Roll & Sushi,"2760 Deer Springs Way, Ste 101",Fail
+Zabas Mexican Grill,9905 S Eastern Ave,Fail
+Fiesta Filipina Cuisine,"2980 St Rose Pkwy, Ste 120",Fail
+Dairy Queen,10410 S Decatur Blvd,Fail
+Salsa Loca Mexican Grill,"4130 S Sandhill Rd, Ste A3",Fail
+Papa John's Pizza,4444 W Craig Rd,Fail
+Pho Little Saigon,"3775 Spring Mountain Rd, Ste 306",Fail
+McDonald's,701 E Horizon,Fail
+Del Taco,180 N Pecos Rd,Fail
+Esther's Kitchen,1130 S Casino Center Blvd,Fail
+The Restaurant at Platinum,211 E Flamingo Rd,Fail
+Black Bear Diner,2751 N Green Valley Pkwy,Fail
+Balboa Pizza Company,2265 Village Walk Dr,Fail
+Capriotti's Sandwich Shop,"90 S Stephanie St, Ste 140",Fail
+The Capital Grille,3200 Las Vegas Blvd S,Fail
+Circle K,5685 S Eastern Ave,Fail
+La favorita Market,573 E Twain Ave,Fail
+David Montes NY Pizzeria,"955 W Craig rd, Ste 105",Fail
+Habanero Grill,2405 N Rainbow Blvd,Fail
+R Burgers,7215 S Eastern Ave,Fail
+Giuseppe's Italian Grille,2630 W Horizon Ridge Pkwy,Fail
+Naked City Pizza On Paradise,4608 Paradise Rd,Fail
+Lindo Michoacan,645 Carnegie St,Fail
+Flock & Fowl,"150 N Las Vegas Blvd, Ste 100",Fail
+Rosarita's Beach,72 W Horizon Ridge Pkwy,Fail
+Hedary's Mediterranean Restaurant,"7365 W Sahara Ave, Ste K",Fail
+El Diamante Restaurant,2830 E Charleston Blvd,Fail
+JJ's Boulangerie,3655 Las Vegas Blvd S,Fail
+Doh Korean BBQ,"7920 S Rainbow Blvd, Ste 105",Fail
+Rolling In Dough Bakery,"10260 W Charleston Blvd, Ste 4",Fail
+Sunset Pizzeria,869 S Boulder Hwy,Fail
+Flame Kabob,"4440 S Maryland Pkwy, Ste 109",Fail
+PT's,4310 E Tropicana Ave,Fail
+El Herradero Mexican Restaurant,1725 E Warm Springs Rd,Fail
+Doña Maria Tamales Restaurant,910 Las Vegas Blvd S,Fail
+Thai Style Noodle House 2,"5135 S Fort Apache Rd, Ste 125",Fail
+The Habit Burger Grill,543 N Stephanie St,Fail
+IHOP,3260 E Tropicana Ave,Fail
+Crispy Town,3890 S Maryland Pkwy,Fail
+Happy's Pizza,300 W Lake Mead Blvd,Fail
+Good Fella Korean Bistro,"5035 S Fort Apache Rd, Ste 106",Fail
+Izakaya Go,"3775 Spring Mountain Rd, Ste 301",Fail
+Nozomi Sushi,"2202 W Charleston Blvd, Ste 11",Fail
+Rubio's,"7290 W Lake Mead Blvd, Ste 3",Fail
+Pho D'licious,4631 Spring Mountain Rd,Fail
+Shalimar Restaurant,4001 S Decatur Blvd,Fail
+Pizza Forte,1301 W Sunset Rd,Fail
+Kung Fu Thai & Chinese Restaurant,3505 S Valley View Blvd,Fail
+Pizza N Pizza,3480 S Maryland Pkwy,Fail
+Ricardo's Mexican Restaurant,4930 W Flamingo Rd,Fail
+Da Sheng Chinese Cuisine,"Chinatown Mall, 4255 W Spring Mountain Rd",Fail
+Gordon Biersch Brewery Restaurant,3987 Paradise Rd,Fail
+Saborr,"4348 E Craig Rd, Ste 150",Fail
+Axum Ethiopian,860 E Twain Ave,Fail
+Rosati's Pizza,430 E Silverado Ranch Blvd,Fail
+Sura BBQ Buffet,"4480 W Spring Mountain Rd, Ste 400",Fail
+Tropical Smoothie Cafe,4990 West Flamingo Road,Fail
+Robertos Taco Shop,5117 W Charleston,Fail
+The Grand Wok and Sushi Bar,3799 Las Vegas Blvd S,Fail
+Tacos Los Toritos,"2560 S Maryland Pkwy, Ste 9",Fail
+Siam Thai Kitchen,604 N Rainbow Blvd,Fail
+Nihao Chinese Food,2490 E Desert Inn Rd,Fail
+Port of Subs,"6572 N Decatur Blvd, Ste 130",Fail
+Buca di Beppo Italian Restaurant,7690 W Lake Mead Blvd,Fail
+Big Wong Restaurant,5040 Spring Mountain Rd,Fail
+Cafe Rio,65 E Horizon Ridge Pkwy,Fail
+Mi Pueblo Taco Shop,1920 N Decatur Blvd,Fail
+El Manantial Restaurant,1078 N Rancho Dr,Fail
+Rocco's NY Pizzeria,6885 Aliante Pkwy,Fail
+Puerto Rico Express,1516 S Las Vegas Blvd,Fail
+Greens and Proteins,"8975 S Eastern Ave, Ste 3C",Fail
+Johnny Rockets,"Paradise Road, 4480 Paradise Rd. Suite #800",Fail
+Chamango,"4750 W Sahara Ave, Ste 14",Fail
+Kusina Ni Lorraine,3507 S Maryland Pkwy,Fail
+Itea Boba & Dessert,"1350 East Flamingo Rd, Unit 15B",Fail
+Tortas El Rey,1900 E Charleston Blvd,Fail
+Lemongrass Café,8820 S Eastern Ave,Fail
+Bangkok Orchid,4662 E Sunset Rd,Fail
+Felipito's Mexican Food,1325 E Tropicana Ave,Fail
+Hot Head Burritos,10550 S Highlands Pkwy,Fail
+Aloha Kitchen,4466 E Charleston Blvd,Fail
+Ricos Tacos El Tio,1430 W Horizon Ridge Pkwy,Fail
+Sean Patricks,3290 W Ann Rd,Fail
+Pei Wei,"10575 S Eastern Ave, Ste 100",Fail
+Veggie House,"5115 Spring Mountain Rd, Ste 203",Fail
+Classic Jewel,"353 E Bonneville Ave, Ste 111",Fail
+Xiang Wei Xuan-湘味轩,"6000 Spring Mountain Rd, Ste 2B",Fail
+Sultan's Grill,"1910 Village Center Cir, Ste 7",Fail
+QQ Boba,"9310 S Eastern Ave, Ste 105",Fail
+Pho Vietnam Restaurant,4215 Spring Mountain Rd,Fail
+The Auld Dubliner,40 Via Bel Canto,Fail
+Soul Food Cafe,"7320 S Rainbow Blvd, Ste 112",Fail
+Capriotti's Sandwich Shop,322 W. Sahara,Fail
+Grand Pizza,6731 W Alexander Rd,Fail
+China A Go Go,"2101 N Rainbow Blvd, Ste 101",Fail
+Rivas Mexican Grill,"6885 N Aliante Pkwy, Ste 106",Fail
+DJ's Taco Bar,3743 S Las Vegas Blvd,Fail
+Mr Beijing,730 E Flamingo Rd,Fail
+Roberto's Taco Shop,8580 W Lake Mead Blvd,Fail
+Roberto's Taco Shop,"3399 S Durango Dr, Ste 102",Fail
+Wings Restaurants,9985 S Eastern Ave,Fail
+Robertos Taco Shop,1530 W Sunset Rd,Fail
+Remiix,"1801 E Tropicana Ave, Ste 2",Fail
+Del Taco,3922 Blue Diamond Rd,Fail
+Sen of Japan,"8480 W Desert Inn Rd, Ste F1",Fail
+Shabu Grill,"1263 E Silverado Ranch, Ste 106",Fail
+Del Taco,"3785 Las Vegas Blvd S, Ste 209",Fail
+Cracker Barrel Old Country Store,8350 Dean Martin Dr,Fail
+Leticia's Mexican Cocina,"7585 Norman Rockwell Ln, Bldg 1",Fail
+Chef Ming's Chinese Cuisine,2595 E Craig Rd,Fail
+La Casita De Doña Machi,2407 S Eastern Ave,Fail
+Albo Pizza,1510 S Las Vegas Blvd,Fail
+Pizzeria Francesco's,3300 Las Vegas Blvd S,Fail
+Cinnabon,1300 W Sunset Rd,Fail
+Capital Seafood Restaurant,"4215 W Spring Mountain Rd, Ste B-202",Fail
+McDonald's,10020 S Eastern,Fail
+Bobby's Burger Palace,3750 South Las Vegas Blvd,Fail
+Sinaloa Tacos,2027 N Decatur Blvd,Fail
+Blossom,3730 Las Vegas Blvd S,Fail
+Taco Y Taco,9470 S Eastern Ave,Fail
+Nevada Chicken Cafe,6155 W Sahara Ave,Fail
+Odyssey Pizza,1930 Fremont St,Fail
+Café Zupas,7521 W Lake Mead Blvd,Fail
+Real Donuts,1811 W Charleston Blvd,Fail
+Seven Seas Restaurant & Lounge,808 W Lake Mead Blvd,Fail
+Cafe Rio,7664 W Lake Mead Blvd,Fail
+Teriyaki Boy Healthy Grill,1725 N Rainbow Blvd,Fail
+Crab Corner,4161 S Eastern Ave,Fail
+Ohjah Japanese Steakhouse Sushi & Hibachi,"8595 S Decatur Blvd, Ste 104",Fail
+Sorrento Pizza,860 N Rainbow Blvd,Fail
+Roberto's Taco Shop,193 N Gibson Rd,Fail
+Little Caesars Pizza,8380 W. Cheynenne Ave. Suite 105,Fail
+Pizza Hut,"8090 Blue Diamond Rd, Ste 140",Fail
+Daddy's Delights,"2103 Western Ave, Ste A",Fail
+ChiAm Restaurant,"6300 W Charleston Blvd, Ste 170",Fail
+Tropical Smoothie Cafe,"3595 East Bonanza Road, Suite 110",Fail
+Cicis,2415 E Tropicana Ave,Fail
+The Tap House,5589 W Charleston Blvd,Fail
+Aloha Kitchen,4745 S Maryland Pkwy,Fail
+Rosati's Pizza,3370 S Hualapai Way,Fail
+Sambalatte Torrefazione,"750 S Rampart Blvd, Ste 9",Fail
+New York Pizza Ribs & Wings,1000 S Torrey Pines Dr,Fail
+Roberto's Taco Shop,"1380 W Cheyenne Ave, Ste 103",Fail
+Roberto's Taco Shop,6475 S Pecos Rd,Fail
+Roberto's Taco Shop,"241 N Nellis Blvd, Ste 101",Fail
+Lucki Thai,467 E Silverado Ranch Blvd,Fail
+Boulder Station Pasta Cucina,4111 Boulder Hwy,Fail
+Hard Rock Cafe,4475 Paradise Rd,Fail
+Taqueria El Tizon Grill 2,"4912 S Eastern Ave, Ste 1",Fail
+Dim Sum Cafe,3700 S Hualapai Way,Fail
+Teriyaki Madness,7481 West Lake Mead,Fail
+Pizza My Dear,"1725 E Warm Springs Rd, Ste 9",Fail
+Chow Mein House,10300 W Charleston Blvd,Fail
+Pho 90,"4355 W Spring Mountain Rd, Ste 101A",Fail
+Little Caesars Pizza,351 E Silverado Ranch Blvd,Fail
+Ori'Zaba's Scratch Mexican Grill,1 S Main St,Fail
+Arawan Thai Bistro and Dessert,"953 E Sahara Ave, Ste E-14",Fail
+WTPho,"8180 Blue Diamond Rd, Ste 110",Fail
+Chopstix,430 E Silverado Ranch Blvd,Fail
+Roberto's Taco Shop,"6883 S Eastern Ave, Ste 200",Fail
+Wahoo's Fish Tacos,7020 W Sunset Rd,Fail
+China One,921 S Rainbow Blvd,Fail
+Las Famosas De Jose,577 E Twain Ave,Fail
+India Oven,2218 Paradise Rd,Fail
+Payless Pizza,"5785 W Tropicana Ave, Ste 3",Fail
+Streets of New York,"5135 S Fort Apache, Ste #35",Fail
+Island Malaysian Cuisine,"5115 Spring Mountain Rd, Ste 217",Fail
+Firefly,3900 Paradise Rd,Fail
+Ping Pang Pong,4000 W Flamingo Rd,Fail
+China A Go Go,10550 Southern Highlands Pkwy,Fail
+El Steak Burrito,4590 Spring Mountain Rd,Fail
+Chuck E. Cheese's,4175 S Grand Canyon,Fail
+Panera Bread,740 S Rampart Blvd,Fail
+Wendy's,3333 W Tropicana Ave,Fail
+Jack In The Box,780 E Flamingo Rd,Fail
+Mr Sandwich,"4626 S Maryland Pkwy, Ste C",Fail
+Kabob Factory,"8150 S Maryland Pkwy, Ste 120",Fail
+S7 Buffet,4100 S Paradise Rd,Fail
+Jersey Mike's Subs,5595 Simmons St,Fail
+Don Tortaco Mexican Grill,"10 N Eastern Ave, Ste 110",Fail
+Del Taco,4380 N Nellis Blvd,Fail
+Paradise India,"8125 W Sahara Ave, Ste 300",Fail
+Quickee Burgers,8846 S Eastern Ave,Fail
+Pt's Gold,4424 West Spring Mountain Rd,Fail
+Roberto's Taco Shop,1101 S Fort Apache Rd,Fail
+Roberto's Taco Shop,5335 S Decatur Blvd,Fail
+Las Delicias Demontecristo Restaurant,"2055 E Tropicana Ave, Ste 11",Fail
+Kitchen Table,"1716 W Horizon Ridge Pkwy, Ste 100",Fail
+Hot N Juicy Crawfish,3863 Spring Mountain Rd,Fail
+Braddah's Island Style,"4632 S Maryland Pkwy, Ste 17",Fail
+Yunnan Garden,3934 Schiff Dr,Fail
+Apache Taco Shop,"2521 S Fort Apache Rd, Ste 101",Fail
+Four Kegs Sports Bar,"276 N Jones Blvd, Ste B",Fail
+Itsy Bitsy,"150 Las Vegas Blvd N, Ste 100",Fail
+Tacos El Compita,7622 Westcliff Dr,Fail
+Cafe Verdi Pizza,"3330 E Tropicana Ave, Ste P",Fail
+Le Pho Vietnamese Kitchen,"353 Bonneville Ave, Ste 115",Fail
+Panda Express,"1980 S Rainbow Blvd, 120",Fail
+Sushi Zen,4210 W Craig Rd,Fail
+Fausto's Mexican Grill,229 N Stephanie St,Fail
+Flame Kabob,"1205 W Warm Springs Rd, Ste 112",Fail
+China Wok,"3073 W Craig Rd, Ste 2",Fail
+Sin City Sushi,8790 S Maryland Pkwy,Fail
+Tina's Filipino Cuisine,"7720 S Jones Blvd, Ste 105",Fail
+Food Court at Fashion Show Mall,3200 S Las Vegas Blvd,Fail
+Encore Lobby Bar,3131 Las Vegas Blvd S,Fail
+Jugoo Chinese Restaurant,4747 S Maryland Pkwy,Fail
+Pancho's Kitchen,"5201 W Charleston Blvd, Ste 120-130",Fail
+Island Sushi & Grill,"9400 S Eastern Ave, Ste 103",Fail
+Volcano Grille,"7150 S Durango Dr, Ste 110",Fail
+Pizza Hut,"5255 S Decatur Blvd, Ste 113",Fail
+Golden China,4416 N Rancho Dr,Fail
+New Day Cafe,"467 E Silverado Ranch Blvd, Ste 100",Fail
+Villa Pizza,639 N Stephanie St,Fail
+Fazoli's,1290 W Warm Springs Rd,Fail
+Tropical Smoothie Cafe,"10612 South Eastern Avenue, Suite C",Fail
+Botanas La Michoacana,"3675 S Decatur Blvd, Ste 12",Fail
+La Bonita Supermarket,4120 S Rainbow Blvd,Fail
+McDonald's,6360 W Charleston,Fail
+Hibachi Grill & Supreme Buffet,313 N Nellis Blvd,Fail
+Don Tortaco,7424 S Rainbow Blvd,Fail
+Dairy Queen,475 W Craig Rd,Fail
+Sunset Station,1301 W Sunset Rd,Fail
+Yui Edomae Sushi,"3460 Arville St, Ste HS",Fail
+Pollo Campero,4521 E Charleston Blvd,Fail
+Great Harvest Bread co.,"6475 N Decatur Blvd, Ste 150",Fail
+Bambino's East Coast Pizzeria,2555 S Durango Dr,Fail
+Canyon Ranch Grill,"3355 Las Vegas Blvd S, Fl 3",Fail
+Riva's Mexican Grill,"2800 E Tropical Pkwy, Ste 102",Fail
+Sister's Oriental Market & Video,1732 Fremont St,Fail
+Ginseng Korean BBQ II,3765 S Las Vegas Blvd,Fail
+Denny's,2400 N Rancho Dr,Fail
+Capriotti's Sandwich Shop,6599 Las Vegas Blvd,Fail
+Tintoretto Restaurant and Bakery,3355 Las Vegas Blvd S,Fail
+Dougie J's Cafe,603 S Las Vegas Blvd,Fail
+The Bootlegger Italian Bistro,"7700 Las Vegas Blvd S, Ste 1",Fail
+Roberto's Taco Shop,"2810 Bicentennial Pkwy, Ste 120",Fail
+Carrabba's Italian Grill,10160 S Eastern Ave,Fail
+Taqueria El Tizon Grill,"3266 Las Vegas Blvd N, Ste 9",Fail
+Ice Pan,"3475 Las Vegas Blvd S, Fl 2",Fail
+Ondori Asian Kitchen,4500 W Tropicana Ave,Fail
+Denny's,3081 S Maryland Park,Fail
+Dong Ting Spring,"4850 W Flamingo Rd, Ste 34-34",Fail
+Capriotti's Sandwich Shop,"9620 Las Vegas Blvd, Ste E5",Fail
+El Toque Del Sabor,2501 E Tropicana Ave,Fail
+The Lodge Hualapai,3460 S Hualapai Way,Fail
+Baguette Cafe,"8359 W Sunset Rd, Ste 100",Fail
+Lulu's Bread & Breakfast,6720 Skypointe Dr,Fail
+Rise & Shine - A Steak & Egg Place,10690 Southern Highlands Pkwy,Fail
+Lee's Sandwiches,3989 Spring Mountain Rd,Fail
+Kusina Ni Lorraine,4343 N Rancho Dr,Fail
+808 Hawaii Mixed Plate,"775 W Craig Rd, Ste 148",Fail
+Kobe Sushi Bistro,"6375 S Rainbow Blvd, Ste 102",Fail
+Food Express Chinese Restaurant,"2003 S Decatur Blvd, Ste B",Fail
+Del Taco,550 Marks St,Fail
+M&M Soul Food Cafe,2211 S Las Vegas Blvd,Fail
+Tacos El Compita,6118 W Charleston Blvd,Fail
+Teriyaki Boy Healthy Grill,"7320 S Rainbow Blvd, Ste 100",Fail
+Silverton Casino,3333 Blue Diamond Rd,Fail
+Coffee Pub,"2800 W Sahara Ave, Ste 2A",Fail
+Long John Silver's,774 N Nellis Blvd,Fail
+KoMex Fusion,4155 S Buffalo Dr,Fail
+Tacos El Tapatio,2014 W Ann Rd,Fail
+Chipotle Mexican Grill,111 N Nellis Blvd,Fail
+Ramen Sora,4490 Spring Mountain Rd,Fail
+Table Thai Bar & Bistro,3130 E Sunset Rd,Fail
+Denny's,9320 S Eastern Ave,Fail
+Durango Taco Shop,7785 N Durango Dr,Fail
+Dragon Noodle Co.,3770 Las Vegas Blvd S,Fail
+Beijing Noodle No. 9,3570 Las Vegas Blvd S,Fail
+Winchell's Donut House,3307 S Jones,Fail
+Origin India Las Vegas,"4480 Paradise Rd, Ste 1200",Fail
+Las Tapatias,6132 W Charleston Blvd,Fail
+Sands Expo,201 Sands Ave,Fail
+Metro Pizza,1420 W Horizon Ridge Pkwy,Fail
+Takopa,"4215 Spring Mountain Rd, Ste B106A",Fail
+Cebu Inasal,7537 S Rainbow Blvd,Fail
+Cici's Pizza,8465 W Sahara Ave,Fail
+Mezzo Bistro and Wine,"4275 N Rancho Dr, Ste 130",Fail
+Diamond Chinese Restaurant,3449 Industrial Rd,Fail
+Luckys Lounge and Restaurant,7345 S Jones Blvd,Fail
+Rubalcabas Taco Shop,5185 E Lake Mead Blvd,Fail
+Greenland Supermarket,6850 Spring Mountain Rd,Fail
+Starbucks,"129 East Fremont Street, Golden Nugget Las Vegas Casino, Golden Nugget Casino",Fail
+Pho Thanh Huong,"1131 E Tropicana Ave, Ste D",Fail
+Yummy Grill Sushi,560 Marks St,Fail
+Tuscany Gardens,255 E Flamingo Rd,Fail
+Roma Deli II and Wine Shop,8524 W Sahara Ave,Fail
+Rainbow Club & Casino,122 S Water St,Fail
+Firefly,9560 W Sahara Ave,Fail
+Del Taco,280 N Jones Blvd,Fail
+Pad Thai Restaurant,"860 S Rancho Dr, Ste 2",Fail
+Marilyn's Cafe,255 E Flamingo Rd,Fail
+The Pods By Wolfgang Puck,3720 S Las Vegas Blvd,Fail
+Robertos Taco Shop,7155 Grand Montecito Pkwy,Fail
+Pinoy Pinay Filipino Restaurant,1217 E Sahara Ave,Fail
+Rivas Mexican Grill,1654 W Warm Springs Rd,Fail
+Domino's Pizza,"7021 Aliante Pkwy, Ste 105",Fail
+Chicago Hot Dogs & Subs,2000 S Las Vegas Blvd,Fail
+PT's,5630 S Hualapai Way,Fail
+Boston Pizza,1507 Las Vegas Blvd S,Fail
+The Magic Noodle,"5165 S Fort Apache Rd, Ste 165",Fail
+Triple George Grill,"201 N 3rd St, Ste 120",Fail
+Teriyaki Boy Healthy Grill,"9055 S Eastern Ave, Ste 1-B",Fail
+No Te Rajes Jalisco,2425 N Las Vegas Blvd N,Fail
+Wingzza,10960 S Eastern Ave,Fail
+Sushi Kaya,"4355 Spring Mountain Rd, Ste 101B",Fail
+La Papaya,3347 E Russell Rd,Fail
+Gyu-Kaku Japanese BBQ,3550 S Decatur Blvd,Fail
+Pizza Patron,2305 E Sahara Ave,Fail
+Wingstop,2777 W Craig Rd,Fail
+Red Velvet Café,"Fashion Show Mall, 3200 Las Vegas Blvd, Ste1850",Fail
+Teriyaki Madness,"9151 W Sahara, Ste 104",Fail
+Roberto's Taco Shop,2151 N Rancho Dr,Fail
+Jun's Korean Restaurant,"8826 S Eastern Ave, Ste 113",Fail
+Dairy Queen,"7785 N Durango Dr, Ste 100",Fail
+The Sushi,16 W Horizon Ridge Pkwy,Fail
+Roberto's Taco Shop,2685 S Eastern Ave,Fail
+Rainbow Kitchen,7537 S Rainbow Blvd,Fail
+Naked City Pizza Shop,3240 S Arville St,Fail
+Dairy Queen,6125 Spring Mountain Rd,Fail
+Egg Works,9355 W Flamingo Rd,Fail
+Pho T,"5040 Boulder Hwy, Ste 120",Fail
+Chayo Mexican Kitchen + Tequila Bar,3545 S Las Vegas Blvd,Fail
+Bobo China,8465 W Sahara Ave,Fail
+Domino's Pizza,6101 W Charleston Blvd,Fail
+Mint Indian Bistro,"730 E Flamingo Rd, Ste 10",Fail
+IHOP,"352 N Nellis Blvd, Ste G",Fail
+Jack in the Box,4345 E Charleston Blvd,Fail
+La Costa Restaurant,870 Sierra Vista Dr,Fail
+IHOP,2210 Las Vegas Blvd S,Fail
+Hard Rock Cafe,3771 Las Vegas Boulevard South,Fail
+Pieology Pizzeria,"2520 E Craig Rd, Ste 120",Fail
+Carlos'n Charlie's,3555 S Las Vegas Blvd,Fail
+Waffles Cafe,"6885 Aliante Pkwy, Ste 103",Fail
+Jenni Pho Grill,4480 W Spring Mountain Rd,Fail
+Vit's Pizza,"3390 Novat St, Ste 120",Fail
+Taste of India,"4972 S Maryland Pkwy, Ste 22",Fail
+Ramen Tatsu,"3400 S Jones Blvd, Ste 6",Fail
+Scoops,"6885 Aliante Pkwy, Ste 107",Fail
+Spicy City,4125 Spring Moutain Rd,Fail
+El Taco Feliz,4755 W Flamingo Rd,Fail
+Rise & Shine - A Steak & Egg Place,75 S Valle Verde Dr,Fail
+Lotus Chinese Restaurant & Lounge,215 S Water St,Fail
+Subway,2568 Wigwam Pkwy,Fail
+Payless Pizza,463 S Decatur Blvd,Fail
+The Players Club LV,75 S Stephanie St,Fail
+Short Line Express Market,6390 N Durango Dr,Fail
+Teriyaki Madness,"2530 South Decatur Blvd, Ste 110",Fail
+Sonic Drive-In,2301 E Sahara Ave,Fail
+Mr Eat'z,6386 W Lake Mead Blvd,Fail
+Casanova,"3377 S Las Vegas Blvd, Ste 2170",Fail
+McDonald's,3815 S Maryland Pkwy,Fail
+Art of Flavors,"1616 S Las Vegas Blvd, Ste 130",Fail
+La Mojarra Loca,"3210 E Lake Mead Blvd, Ste 4",Fail
+OMG Sushi,"2351 N Rainbow Blvd, Ste 103",Fail
+Little Italy Pizza,"3711 S Valley View Blvd, Ste H",Fail
+India Palace,505 E Twain Ave,Fail
+Lee's Korean BBQ,"6820 Spring Mountain Rd, Ste 110",Fail
+Winchell's Donut House,4580 E Tropicana Ave,Fail
+Palermo's Pizza,"1370 E Flamingo Rd, Ste F",Fail
+Mar Y Tierra,712 N Eastern Ave,Fail
+Cafe Rio,7040 S Durango Dr,Fail
+Jacky Chan,"8544 Blue Diamond Rd, Ste 100",Fail
+Baja Fresh,"7501 W Lake Mead Blvd, Ste 100",Fail
+China Tango,1500 N Green Valley Pkwy,Fail
+Paleteria Y Neveria Mexicana,"865 N Lamb Blvd, Ste 10",Fail
+Fú Asian Kitchen,4455 Paradise Rd,Fail
+Don Tortaco,"8520 Blue Diamond Rd, Ste 110",Fail
+Capriotti's Sandwich Shop,"3830 E Flamingo Rd, Ste E5",Fail
+Klondike Sunset Casino,444 W Sunset Rd,Fail
+Island Style Restaurant,"3909 W Sahara Ave, Ste 1",Fail
+Sai Sushi,"2540 Anthem Village Dr, Ste 120",Fail
+Tina's Gourmet Sausage House,"2101 S Decatur Blvd, Ste 22",Fail
+Taco Bell,355 W. Centennial Parkway,Fail
+Island Style 2,"6850 Spring Mountain Rd, Ste F1",Fail
+Domino's Pizza,"209 S Stephanie St, Ste D",Fail
+Jack In The Box,7741 N El Capitan Way,Fail
+Buca di Beppo Italian Restaurant,412 E Flamingo Rd,Fail
+Gaati Thai Kitchen,"10545 S Eastern Ave, Ste 100",Fail
+Las Delicias De Las Vegas,2129 Industrial Rd,Fail
+Sake Rok,3786 Las Vegas Blvd S,Fail
+Famous Dave's Barbeque,9695 W Flamingo Rd,Fail
+Diamond China Restaurant,"3909 W Sahara Ave, Ste 10",Fail
+Greek Bistro,565 Marks St,Fail
+Chopstix,"560 Mark St, Ste C",Fail
+Red Shrimp Company,4060 S Jones Blvd,Fail
+Don Tortaco,"4604 W Sahara Ave, Ste 7",Fail
+Pei Wei,10830 W Charleston Blvd,Fail
+McDonald's,10290 W Charleston Blvd,Fail
+Great Harvest Bread Company,"10180 W Tropicana Ave, Ste 131",Fail
+Osaka Summerlin,7511 W Lake Mead Blvd,Fail
+Seafood City Supermarket,"10405 S Eastern Ave, Ste 100",Fail
+Espression Cafe,"321 S Casino Ctr Blvd, Ste 120",Fail
+Godiva Chocolatier,3200 Las Vegas Blvd S,Fail
+Pressed For Juice,"6145 S Fort Apache Rd, Ste 506",Fail
+Marie Callender's Restaurants & Bakeries,600 E Sahara Ave,Fail
+Capriotti's Sandwich Shop,3981 E Sunset Rd,Fail
+Silver Nugget Steak House,2140 Las Vegas Blvd N,Fail
+Tropical Smoothie Cafe,"7660 West Cheyenne Avenue, Suite 121",Fail
+Raku,"5030 Spring Mountain Rd, Ste 2",Fail
+Jamba Juice,2667 E. Windmill Pkwy,Fail
+Denny's,8000 W Sahara Ave,Fail
+Oasis Asian Kitchen,"4011 S Buffalo Dr, Ste B106",Fail
+Domino's Pizza,1970 Village Center Cir,Fail
+Tropical Smoothie Cafe,"6555 South Jones Boulevard, #110",Fail
+Chada Thai & Wine,"3400 S Jones Blvd, Ste 11A",Fail
+Frank & Fina's Cocina,4175 S Grand Canyon Dr,Fail
+China A Go Go,6885 Aliante Pkwy,Fail
+Urban Crawfish Station,"4821 Spring Mountain Rd, Ste C",Fail
+Kainan Asian Market & Gift Shop,"9620 Las Vegas Blvd S, Ste N2",Fail
+Chicago Style Taco Shop,3415 W Craig Rd,Fail
+Tiki's Hawaiian BBQ,8460 W Farm Rd,Fail
+Soulfish Poke,"9500 S Eastern Ave, Ste 110",Fail
+McDonald's,7150 W Craig Rd,Fail
+El Super,1255 S Lamb Blvd,Fail
+Fresh Cup,3429 S Jones Blvd,Fail
+Stacks & Yolks,"7150 S Durango Dr, Ste 140",Fail
+Del Taco,5915 W Sahara Ave,Fail
+Panera Bread,7240 S Rainbow Blvd,Fail
+Grinders Pizza Lounge,5625 S Rainbow Blvd,Fail
+Viva El Taco,"6775 E Lake Mead Blvd, Ste 2",Fail
+A Slice of Chicago At the Inn Zone,2990 St Rose Pkwy,Fail
+Farmer Boys,7010 S Rainbow Blvd,Fail
+La Bonita Grocery,2405 E Ogden Ave,Fail
+Pepe's Tacos,"4190 S Rainbow Blvd, Ste 1",Fail
+P.F. Chang's,4165 S Paradise Rd,Fail
+Cicis,4445 W Charleston Blvd,Fail
+Church's Chicken,4880 Spring Mountain Rd,Fail
+Casa Don Juan  - Downtown,1204 S Main St,Fail
+Dino's Little Italy,3743 Las Vegas Blvd,Fail
+Noodle Exchange,4000 W Flamingo Rd,Fail
+Bob Taylor's Ranch House,6250 Rio Vista St,Fail
+Coyote's Cafe & Cantina,4350 E Sunset Rd,Fail
+MadHouse Coffee,"8470 W Desert Inn Rd, Ste H-1",Fail
+Azuza Hookah Lounge & Cafe,4480 Paradise Rd,Fail
+Capriotti's Sandwich Shop,1311 W Craig Rd,Fail
+Taco Bell,"4300 Meadows Ln, Meadows Mall  10",Fail
+Pan Asian,"2980 S Durango Dr, Ste 101",Fail
+Memphis Championship Barbecue,4379 Las Vegas Blvd,Fail
+Wo Fat,"3700 E Desert Inn Rd, Ste 1",Fail
+Capriotti's Sandwich Shop,"3355 Novat St, Ste 150",Fail
+PDQ,3737 W Craig Rd,Fail
+Taco Bell,4880 W. Frias Avenue,Fail
+Tacos N' Ritas,3355 S Las Vegas Blvd,Fail
+Rubio's,11101 W Charleston Blvd,Fail
+Afandi Restaurant and Market,"5181 West Charleston, Ste 120",Fail
+Coco's Bakery Restaurant,169 E Tropicana Ave,Fail
+Carnitas y Tortas Ahogadas Guadalajara,640 N Eastern Ave,Fail
+Pt's Gold,3770 S Hualapai Way,Fail
+Buldogis Unleashed Food Truck,"2291 S Fort Apache Rd, Ste 102",Fail
+Spicy City,"4215 Spring Mountain Rd, Ste B205",Fail
+Tacos La Mexicana,"3555 S Durango Dr, Ste B101",Fail
+Roberto's Taco Shop,"6435 S Rainbow Blvd, Ste 104",Fail
+Don Michael's,4864 W Lone Mountain Rd,Fail
+Taqueria El Buen Pastor,301 S Decatur Blvd,Fail
+Boca Do Brasil,4825 S Fort Apache Rd,Fail
+Sylantro Restaurant,2550 S Rainbow Blvd,Fail
+Chica,"3355 South Las Vegas Blvd, Ste 106",Fail
+Baan Thai Restaurant,"5115 W Spring Mountain Rd, Ste 208",Fail
+Sasa Sushi,"7450 W Cheyenne Ave, Ste 118",Fail
+Lava Grill,3650 E Flamingo Rd,Fail
+Poke Poku Hawaiian Poke Bar,"9310 S Eastern Ave, Ste 108",Fail
+Alexander's Pizza,5020 Broadbent Blvd,Fail
+Make It Yourself Pizza,"375 Lewis Ave, Ste 375",Fail
+Taqueria El Buen Pastor,"675 Mall Ring Cir, Ste A",Fail
+Philly Cheesesteak Factory,6115 S Pecos Rd,Fail
+Egg Works,6960 S Rainbow Blvd,Fail
+Olive Garden Italian Restaurant,1545 E Flamingo Rd,Fail
+New York Chinese Restaurant,"655 S Green Valley Pkwy, Ste 140",Fail
+El Sombrero Cafe,807 S Main St,Fail
+The Beat Coffeehouse & Records,520 Fremont St,Fail
+Lou's Diner,431 S Decatur Blvd,Fail
+Ramen Kobo+Sake,3889 Spring Mountain Rd,Fail
+Jun's Korean,"445 W Craig Rd, Ste 110",Fail
+Carnitas y Tortas Ahogadas Guadalajara 2,1601 S Las Vegas Blvd,Fail
+King & I,1107 E Tropicana Ave,Fail
+Lumberjacks,965 W Craig Rd,Fail
+Capriotti's Sandwich Shop,"4835 S Fort Apache, Ste K",Fail
+McDonald's,3500 E Bonanza,Fail
+Quiznos,7135 W Ann Rd,Fail
+Panadería y Pastelería Latina,6122 W Charleston Blvd,Fail
+Noodle Pot,"4215 Spring Mountain Rd, Ste B112",Fail
+Capriotti's Sandwich Shop,325 N Nellis Blvd,Fail
+Boulevard Bar & Grille,9860 Las Vegas Blvd S,Fail
+Baja Fresh,4343 N Rancho Dr,Fail
+No. 1 Boba Tea,"7500 W Lake Mead Blvd, Ste C4",Fail
+Outback Steakhouse,"3785 Las Vegas Blvd S, Fl 4",Fail
+Crown & Anchor British Pub,1350 E Tropicana Ave,Fail
+Chinese Village Restaurant & Lounge,608 N Rainbow Blvd,Fail
+Me Gusta Tacos,"2235 Village Walk Dr, Ste 153",Fail
+McDonald's,3999 S Las Vegas Blvd,Fail
+B&B Ristorante,3355 Las Vegas Blvd S,Fail
+Roberto's Taco Shop,1414 N Eastern Ave,Fail
+Roberto's Taco Shop,"840 S Rancho Dr, Ste 8",Fail
+Buffet At Asia,2380 S Rainbow Blvd,Fail
+El Gordito,5815 W Tropicana,Fail
+Viva Salsa,1301 W Sunset Rd,Fail
+Carmine's Pizza Kitchen,2520 W Horizon Ridge Pkwy,Fail
+La Casona Bar & Grill,2600 E Flamingo Rd,Fail
+New York Chinese Restaurant,"3545 S Fort Apache Rd, Ste 110",Fail
+Los Huicholes,"546 N Eastern Ave, Ste 100",Fail
+Rice To-Go,"4840 Spring Mountain Rd, Ste 1",Fail
+Novecento Pizzeria,"5705 Centennial Center Blvd, Ste 170",Fail
+Polaris Street Cafe,3635 Polaris Ave,Fail
+Jay's Market On Flamingo,190 E Flamingo Rd,Fail
+Norm's Diner,"3945 S Durango Dr, Ste A1",Fail
+Kaizen Fusion Roll and Sushi,"4480 S Paradise Rd, Ste 900",Fail
+Brothers Italian Bistro,7121 W Craig Rd,Fail
+Maestro's Pizzeria,3230 E Flamingo Rd,Fail
+Roberto's Taco Shop,4604 E Sunset Rd,Fail
+The Noodle Man,"6870 S Rainbow Blvd, Ste 101",Fail
+Joe Philly's Pizza,"6400 S Eastern Ave, Ste 25",Fail
+Evel Pie,508 Fremont St,Fail
+The Rockhouse,"3355 S Las Vegas Blvd, Ste 3200",Fail
+McDonald's,7200 Arroyo Crossing Pkwy,Fail
+Santa Fe Station Hotel & Casino,4949 N Rancho Dr,Pass
+Port of Subs,"3720 E Sunset Rd, Ste 111",Pass
+Marco's Pizza,8795 W Warm Springs Rd,Pass
+Fabulous Freddy's,4350 S Durango Dr,Pass
+Karaoke Q Studio,"3400 S Jones Blvd, Ste 11",Pass
+Panda Express,2001 E Cheyenne Ave,Pass
+Subway,"40 N Valle Verde Dr, Ste 100",Pass
+Pizza Hut,"2797 S. Maryland Pkwy., #30",Pass
+Fresh & Easy,9475 W Desert Inn Rd,Pass
+Subway,3680 W Tropicana Ave,Pass
+EDO Gastro Tapas & Wine,"3400 S Jones Blvd, Ste 11A",Pass
+Sunset & Vines,40 Costa Di Lago,Pass
+Golden Nugget,129 E Fremont St,Pass
+America,3790 Las Vegas Blvd S,Pass
+Starbucks,2211 N Rampart Blvd,Pass
+Tacos La Mexicana,"3555 S Durango Dr, Ste B101",Pass
+Gordon Ramsay Fish & Chips,3545 Las Vegas Blvd S,Pass
+Bacon Boys,3850 E Desert Inn Rd,Pass
+Cardenas Market,4500 E Tropicana Ave,Pass
+Kung Pao Wok,805 S Grand Central Pkwy,Pass
+Bubba Gump Shrimp,"3717 Las Vegas Blvd S, Ste 2 Q",Pass
+Outback Steakhouse,2625 W Craig Rd,Pass
+The Habit Burger Grill,365 Hughes Ctr Dr,Pass
+Cicis,"309 N Nellis Blvd, Ste 120",Pass
+Carl's Jr Restaurants,4815 Spring Mountain Rd,Pass
+Wendy's,844 N Rancho Dr,Pass
+McDonald's,6480 S Durango,Pass
+Philly Cheesesteak Factory,6115 S Pecos Rd,Pass
+The Palazzo Las Vegas,3325 South Las Vegas Boulevard,Pass
+Sonic Drive-In,5085 E Tropicana Blvd,Pass
+Starbucks,4949 N Rancho Rd,Pass
+Papa John's Pizza,5060 Boulder Hwy,Pass
+The Sand Dollar Lounge,"3355 Spring Mountain Rd, Ste 30",Pass
+Border Food Juarez-El Paso,412 N Eastern Ave,Pass
+Mulligan's Border Bar & Grill,1235 E Pebble Rd,Pass
+McDonald's,1343 Silverado Ranch,Pass
+Capriotti's Sandwich Shop,322 W. Sahara,Pass
+Circle K,3285 S Nellis Blvd,Pass
+McDonald's,6915 Blue Diamond Rd,Pass
+Elevated Juice,"7703 N El Capitan Way, Ste 140",Pass
+Lotus of Siam,953 E Sahara Ave,Pass
+Firehouse Subs,"7290 W Lake Mead Blvd, Ste 100",Pass
+Sultan's Grill,"1910 Village Center Cir, Ste 7",Pass
+Capriotti's Sandwich Shop,1311 W Craig Rd,Pass
+Green Valley Grocery #31,4620 E Flamingo Rd,Pass
+McDonald's,1 S Main St,Pass
+Wet Republic Ultra Pool,3799 Las Vegas Blvd S,Pass
+Longhorn Hotel & Casino,5288 Boulder Hwy,Pass
+Chipotle Mexican Grill,"9240 W Sahara Ave, Ste 150",Pass
+Domino's Pizza,10710 S Eastern Ave,Pass
+Wienerschnitzel,2071 Rock Springs Dr,Pass
+Subway,"2375 E Tropicana Ave, Ste G",Pass
+Sonio's Cafe,"3900 W Charleston Blvd, Ste 120",Pass
+P.F. Chang's,4165 S Paradise Rd,Pass
+Cicis,4445 W Charleston Blvd,Pass
+Church's Chicken,4880 Spring Mountain Rd,Pass
+Arby's,1940 Rock Springs Dr,Pass
+Papa John's Pizza,"75 S Valle Verde Dr, Ste 220",Pass
+Ben & Jerry's,3411 Las Vegas Blvd S,Pass
+In-N-Out Burger,2900 W Sahara Ave,Pass
+Dunkin' Donuts,"7430 S Las Vegas Blvd, Ste 100",Pass
+Panevino Italian Grille,246 Via Antonio Ave,Pass
+Long John Silver's,2207 E Windmill Ln,Pass
+Terrible Herbst,6176 Las Vegas Blvd S,Pass
+Roberto's Taco Shop,3102 Las Vegas Blvd N,Pass
+McDonald's,3500 E Bonanza,Pass
+Doña Maria Tamales Restaurant,910 Las Vegas Blvd S,Pass
+El Pollo Loco,10585 S Eastern Ave,Pass
+Wetzel's Pretzels,6464 N. Decatur Blvd.,Pass
+Rebel 43,1100 S Rainbow Blvd,Pass
+Charlie's Bar,4420 S Durango Dr,Pass
+Mad Matty's Bar & Grille,8100 W Sahara Ave,Pass
+Backstage Deli,3900 Las Vegas Blvd S,Pass
+HUMMUS,"10895 S Eastern Ave, Ste 100",Pass
+Hungry Howie's Pizza,6365 Simmons St,Pass
+The Edge of Town,10490 W Cheyenne Ave,Pass
+Pizza Company,2275 E Sunset Rd,Pass
+Buca di Beppo Italian Restaurant,7690 W Lake Mead Blvd,Pass
+Lee's Discount Liquor,4427 E Sunset Rd,Pass
+Straight From Philly,65 W Lake Mead Pkwy,Pass
+Robertos Taco Shop,5117 W Charleston,Pass
+Le Macaron Venetian,"3377 S Las Vegas Blvd, Unit 2353",Pass
+Lee's Discount Liquor,"8785 W Warm Springs Rd, Ste 102",Pass
+McDonald's,1601 W Charleston Blvd,Pass
+Fresh Kabob,"1405 E Sunset Rd, Ste 130",Pass
+Infused Tea Lounge,"5105 S Ft Apache, Ste 110",Pass
+Rick's Rollin Smoke BBQ & Tavern,"725 Las Vegas Blvd S, Ste 110",Pass
+Jack In the Box,4866 S Maryland Pkwy,Pass
+McDonald's,2851 W Washington,Pass
+Shake Shack,"905 S Grand Central Pkwy, Ste 1700",Pass
+Capriotti's Sandwich Shop,"4835 S Fort Apache, Ste K",Pass
+Happy's Pizza,300 W Lake Mead Blvd,Pass
+Papa John's Pizza,"5045 W Tropicana Ave, Ste 101",Pass
+CJ's Italian Ice & Custard,3555 S Durango Dr,Pass
+Quiznos Subs,"7331 W Lake Mead Blvd, Ste 106",Pass
+Flame Kabob,"4440 S Maryland Pkwy, Ste 109",Pass
+Gelato Bar,3849 Spring Mountain Rd,Pass
+Bonito Michoacan,3715 S Decatur Blvd,Pass
+Wienerschnitzel,6075 South Rainbow Blvd,Pass
+Ricardo's Mexican Restaurant,4930 W Flamingo Rd,Pass
+Shell - Green Valley Grocery,4799 W Lone Mountain Rd,Pass
+Sam's Club,2650 East Craig Road,Pass
+Remedy's Tavern,530 Conestoga Way,Pass
+Dunkin' Donuts,"171 N Gibson Rd, Ste 100",Pass
+Hamburger Hut 'N' Market,2512 E Cheyenne Ave,Pass
+Above the Crust,7810 W Ann Rd,Pass
+Sevens Steakhouse,4100 Paradise Rd,Pass
+McDonald's,9415 W Tropicana,Pass
+Groundswell Tabletop Game Cafe,"9730 W Tropicana Ave, Ste 130",Pass
+Trop Stop Gas & Car Wash,4885 W Tropicana Ave,Pass
+McDonald's,10290 W Charleston Blvd,Pass
+Newport Cafe,2711 E Sahara Ave,Pass
+Fresh & Easy,3220 S. Nellis Blvd,Pass
+Applebee's Grill + Bar,4605 W Charleston Blvd,Pass
+Great Harvest Bread Company,"10180 W Tropicana Ave, Ste 131",Pass
+IHOP,4860 Boulder Hwy,Pass
+Marble Slab Creamery,"2546 E Craig Rd, Ste 120",Pass
+Napoli Pizza,1275 W Warm Springs Rd,Pass
+McDonald's,3020 Edesert Inn Rd,Pass
+The Landings,"3500 Executive Terminal Dr, Ste 200",Pass
+Chickpeas Mediterranean Café,"6375 S Rainbow Blvd, Ste 101",Pass
+Capriotti's Sandwich Shop,11350 Southern Highlands Pkwy,Pass
+Greek Bistro,565 Marks St,Pass
+Rachel's Kitchen,9691 Trailwood Dr,Pass
+Snack Nook,3411 Las Vegas Blvd,Pass
+Paymon's Mediterranean Cafe & Lounge,8955 S Eastern Ave,Pass
+Starbucks,"1380 W. Cheyenne, G101",Pass
+Venetian Race & Sports,3355 Las Vegas Blvd S,Pass
+Shake Shack,3780 S Las Vegas Blvd,Pass
+Pt's Pub,2875 S Nellis Blvd,Pass
+Fred's Tavern,4680 S Decatur Blvd,Pass
+AUNTY HELEN'S KITCHEN,6235 S Pecos Rd,Pass
+Venetian Gold Lounge,3355 S Las Vegas Blvd,Pass
+McDonald's,5811 E Charleston Blvd,Pass
+Royal Hookah Lounge,"1405 E Sunset Rd, Ste 200",Pass
+PT's Gold,1383 E Silverado Ranch Rd,Pass
+Starbucks,3770 Las Vegas Blvd S,Pass
+595 Craft And Kitchen,"4950 S Rainbow Blvd, Ste 100",Pass
+Seafood City Supermarket,"10405 S Eastern Ave, Ste 100",Pass
+Pt's Pub,"1331 S Boulder Hwy, Ste 100",Pass
+Mr D's Sportsbar & Grill,1810 S Rainbow Blvd,Pass
+El Pollo Loco,7380 W Cheyenne Ave,Pass
+Gorilla Cafe,"1801 E Tropicana Ave, Ste 10",Pass
+Panda Express,641 Marks St,Pass
+The Coffee House & Sweet Buttercupcakes,117 S Water St,Pass
+Starbucks,"6365 S. Rainbow Blvd., #100",Pass
+Ben & Jerry's,1301 W Sunset Rd,Pass
+Zuma Las Vegas,3708 S Las Vegas Blvd,Pass
+Montana Meat Company - Durango,9135 S Durango,Pass
+Glazier's Food Marketplace,8525 W Warm Springs Rd,Pass
+Calico Jack's Saloon,8200 W Charleston Blvd,Pass
+Neonopolis,450 Fremont St,Pass
+Table 34,"600 E Warm Springs Rd, Ste 180",Pass
+Carl's Jr,3481 S Durango Dr,Pass
+Sonic Drive-In,6455 W Sahara Ave,Pass
+Quality Mobile Food Service,29 N 30th St,Pass
+Gogo Poke LV,"3200 S Las Vegas Blvd, Ste K1850",Pass
+The Habit Burger Grill,6482 N Decatur Blvd,Pass
+Carnaval Court Bar & Grill,3475 Las Vegas Blvd S,Pass
+Dunkin' Donuts,6595 N Hollywood Blvd,Pass
+The Habit Burger Grill,"4830 Blue Diamond Rd, Ste 130",Pass
+Domino's Pizza,5355 S Decatur Blvd,Pass
+McDonald's,5111 Boulder Hwy,Pass
+Babystacks Cafe,"8090 Blue Diamond Rd, Ste 170",Pass
+Gyro Time Restaurant,7660 W Cheyenne Ave,Pass
+Starbucks,"661 Marks Street, #A",Pass
+Carl's Jr,2035 E Charleston Blvd,Pass
+Roberto's Taco Shop,6475 S Pecos Rd,Pass
+Jamba Juice,"1500 N Green Valley Pkwy, Ste 240",Pass
+Roberto's Taco Shop,"72 W Horizon Ridge Pkwy, Ste B-150",Pass
+Sweet Tomatoes,375 N Stephanie St,Pass
+Freed's Bakery,9815 S Eastern Ave,Pass
+Savor the Buffet,3801 S Las Vegas Blvd,Pass
+La Rumba Night Club,"4225 E Sahara Ave, Ste17",Pass
+Subway,1300 S Lamb Blvd,Pass
+Cafe Breizh,"3555 S Fort Apache Rd, Ste 141",Pass
+Krayvings,"11770 W Charleston Blvd, Ste 150",Pass
+The Cracked Egg,"5570 Painted Mirage, Ste 140",Pass
+John's Incredible Pizza Company,3700 S Maryland Pkwy,Pass
+Bowlology,"4680 Maryland Pkwy, Ste 102",Pass
+Windy City Beefs N Dogs,"7500 W Lake Mead Blvd, Ste 10",Pass
+Quiznos,730 E Flamingo Rd,Pass
+Starbucks,9880 S. Maryland Parkway,Pass
+Satay Thai Bistro & Bar,"3900 Paradise Rd, Ste N",Pass
+Popped,"9480 S Eastern Ave, Ste 110",Pass
+The Lodge Tenaya,5717 Sky Pointe Dr,Pass
+Brooksy's Bar & Grill,"9295 W Flamingo Rd, Ste 100",Pass
+Capriotti's Sandwich Shop,2620 Nature Park Dr,Pass
+Skyline Restaurant & Casino,1741 N Boulder Hwy,Pass
+Firehouse Subs,"9921 W Charleston Blvd, Ste 4",Pass
+Sonic Drive-In,7245 S Durango Dr,Pass
+Pinkberry,740 S. Rampart,Pass
+Killer Shrimp,"6605 S Las Vegas Blvd, Ste 145A",Pass
+California Pizza Kitchen,6605 Las Vegas Blvd S,Pass
+Firehouse Subs,"2208 S Nellis Blvd, Ste 7",Pass
+Tacos El Gordo,1724 E Charleston Blvd,Pass
+Rollin Smoke Barbeque,"3185 S Highland Dr, Ste 2",Pass
+Buca di Beppo Italian Restaurant,412 E Flamingo Rd,Pass
+Carvel Ice Cream,5715 S Eastern Ave,Pass
+Dispensary Lounge,2451 E Tropicana Ave,Pass
+German Bread Bakery,9255 S Eastern Ave,Pass
+QDOBA Mexican Eats,"175 N Stephanie St, Ste 100",Pass
+ZiKiZ,"8520 Blue Diamond Rd, Ste 230",Pass
+Starbucks,575 College Dr,Pass
+Magoo's,3234 N Decatur Blvd,Pass
+No Regrets Bar,"8349 W Sunset Rd, Ste 150",Pass
+Albertsons,190 N Boulder Hwy,Pass
+Free Zone,610 E Naples Dr,Pass
+Mario's Westside Market,1960 N Martin L King Blvd,Pass
+Island Time Tiki Bar,3641 Las Vegas Blvd S,Pass
+Tipsy Coffee House,"6496 Medical Center St, Ste 102",Pass
+Fresh & Easy,9350 W Lake Mead Blvd,Pass
+Buffalo Wild Wings,"7345 S Durango Dr, Ste 118-121",Pass
+CliQue,3708 S Las Vegas Blvd,Pass
+Murphy Express,3742 W Ann Rd,Pass
+Jack In the Box,2301 S Fort Apache Rd,Pass
+Gianna's Pizza,"3620 W Sahara Ave, Ste W4",Pass
+Tail and Fin,"9845 S Maryland Pkwy, Ste B",Pass
+Starbucks,"2810 Bicentennial Parkway, #100",Pass
+Blue Hawk Tavern,11997 Las Vegas Blvd S,Pass
+Wienerschnitzel,4680 East Flamingo,Pass
+Capriotti's Sandwich Shop,"7540 Oso Blanca Rd, Ste  100",Pass
+Fancy Fine European Bakery,420 S Rampart Blvd,Pass
+Rachel's Kitchen,1340 W Warm Springs Rd,Pass
+Gyro Time Restaurant,5239 W Charleston Blvd,Pass
+Silver Nugget Steak House,2140 Las Vegas Blvd N,Pass
+El Pollo Loco,440 E Silverado Ranch Blvd,Pass
+Aces & Ales,"2801 N Tenaya Way, Ste A",Pass
+Panda Express,"5130 S Fort Apache Rd, Ste 215",Pass
+Karma Ultra Lounge,"5900 W Charleston Blvd, Ste 8",Pass
+Morimoto,3799 Las Vegas Blvd S,Pass
+Blue Iguana Mexican Express,2880 S Las Vegas Blvd,Pass
+Fluff Ice,"325 N Nellis Blvd, Ste 110",Pass
+Panda Express,"4720 Blue Diamond Rd, Ste 1040",Pass
+El Super,1255 S Lamb Blvd,Pass
+Firehouse Subs,"6171 N Decatur, Ste 170",Pass
+Capriotti's Sandwich Shop,"7440 W Cheyenne, Ste 101",Pass
+Canyon Gate Country Club,2001 Canyon Gate Dr,Pass
+Biscuits Cafe,"8465 West Sahara, Ste 100",Pass
+Kuma Snow Cream,"3735 Spring Mountain Rd, Ste 206",Pass
+Panda Express,2654 W Horizon Ridge Pkwy,Pass
+Petrossian Bar,3600 S Las Vegas Blvd,Pass
+Stephano's Greek & Mediterranean Grill,10612 S Eastern Ave,Pass
+Domino's Pizza,4515 E Bonanza Rd,Pass
+Aces & Ales,3740 S Nellis Blvd,Pass
+Subway,1196 E Tropicana Ave,Pass
+Jack In the Box,580 N Eastern Ave,Pass
+Juice Bar At LVAC,9615 W Flamingo Rd,Pass
+U Swirl,"Green Valley Ranch Resort & Casino, 2300 Paseo Verde Pkwy",Pass
+Starbucks,"7170 N. Durango Drive, #110",Pass
+Burger Brasserie,3655 Las Vegas Blvd S,Pass
+Pizza Hut,931 S Rainbow Blvd,Pass
+Pt's Pub,739 S Rainbow Blvd,Pass
+Four Seasons Hotel Las Vegas,3960 S Las Vegas Blvd,Pass
+Five Guys,2520 E Craig Rd,Pass
+Denny's,7071 W Craig Rd,Pass
+Napoleon's Piano Bar,3655 Las Vegas Blvd S,Pass
+Green Valley Grocery,8390 N Decatur Blvd,Pass
+Circle K,1140 E Charleston Blvd,Pass
+Starbucks,4780 S. Maryland Parkway,Pass
+Crazy Pita Rotisserie & Grill,2225 Village Walk Dr,Pass
+Whiskey Licker Bar,128 Fremont St,Pass
+Me Gusta Tacos,"2235 Village Walk Dr, Ste 153",Pass
+Subway,"75 E Horizon Ridge Pkwy, Ste 150",Pass
+Creamberry,"7965 S Rainbow Blvd, Ste 140",Pass
+Lotus of Siam,620 E Flamingo Rd,Pass
+Skinny Dugans Casino & Lounge,4127 W Charleston Blvd,Pass
+Jack in the Box,6400 W Charleston Blvd,Pass
+The Bar @ Flamingo & Grand Canyon,4340 S Grand Canyon Dr,Pass
+Pandora's Lounge,608 N Rainbow Blvd,Pass
+Little Caesar,118 E Lake Mead Dr,Pass
+Tops N Bottoms Frozen Yogurt - Southwest,"6070 S Rainbow Blvd, Ste 6",Pass
+Purple Penguin Snowcone Shack,401 E Horizon Ridge Pkwy,Pass
+J Karaoke Bar,3899 Spring Mountain Rd,Pass
+Luckys Lounge and Restaurant,7345 S Jones Blvd,Pass
+Chuy's Tacos,1510 E Sahara Ave,Pass
+Tuscany Grill,11105 S Eastern Ave,Pass
+Taco Bell,4870 W Flamingo,Pass
+Metro Diner,9595 W Tropicana Ave,Pass
+LYFE Kitchen,"140 S Green Valley Pkwy, Ste 142",Pass
+Teriyaki Madness,"2548 Wigwam Pkwy, Ste 150",Pass
+Office Bar I,4608 Paradise Rd,Pass
+Frijoles & Frescas,"7280 W Azure Dr, Ste 150",Pass
+Starbucks,4001 S Maryland Pkwy,Pass
+Jamba Juice,6925 S Rainbow Blvd,Pass
+Stratosphere,2000 S Las Vegas Blvd,Pass
+Burger King,5240 S Fort Apache Rd,Pass
+White Castle,3411 S Las Vegas Blvd,Pass
+Cinnamon's,"7591 West Washington Ave, Ste 110",Pass
+Albertsons,7151 W Craig Rd,Pass
+Branded Meats,"1550 Horizon Ridge Pkwy, Ste M",Pass
+The Coffee Bean & Tea Leaf,"7291 W Lake Mead Blvd, Ste 110",Pass
+Papa John's Pizza,2591 Anthem Village Dr,Pass
+McDonald's,310 N Boulder Hwy,Pass
+TGI Fridays,7300 Aliante Pkwy,Pass
+Dairy Queen,"6525 S Fort Apache Rd, Unit 100",Pass
+Dunkin' Donuts,"6795 Tropicana Ave, Ste 100",Pass
+The Halal Guys,"3755 Spring Mountain Rd, Ste 101",Pass
+L & L Hawaiian Barbecue,2755 S Nellis Blvd,Pass
+Scoundrels Pub II,"4850 Camino Al Norte, Ste D",Pass
+Terrible Herbst,10890 W Charleston Blvd,Pass
+Universal Bakery,1730 S Mojave Rd,Pass
+Wendy's,6198 W Flamingo Rd,Pass
+Zest - Bistro & Bar,"10670 Southern Highlands Pkwy, Ste 102",Pass
+Kabob Korner,507 E Fremont St,Pass
+Popeyes Louisiana Kitchen,3785 S Las Vegas Blvd,Pass
+Roberto's Taco Shop,4845 S Fort Apache,Pass
+Mariana's Supermarket,3631 W Sahara Ave,Pass
+Vivido Gelato,"1000 S Rampart Blvd, Ste 15",Pass
+Roberto's Taco Shop,2151 N Rancho Dr,Pass
+McDonald's,7530 W Washington,Pass
+Tropical Smoothie Cafe,"6350 West Charleston Boulevard, Suite 130",Pass
+Jack In The Box,6445 N Aliante Pkwy,Pass
+McDonald's,3229 E Tropicana Ave,Pass
+Wienerschnitzel,3201 North Rancho Dr,Pass
+AmeriBrunch Cafe,"316 E Bridger Ave, Ste 102",Pass
+Rustica Pizzeria,"9730 W Tropicana Ave, Ste 140",Pass
+Sonic Drive-In,6464 N Decatur Blvd,Pass
+Walmart Supercenter,3075 E Tropicana Ave,Pass
+Centro America Restaurant,6135 W Sahara Ave,Pass
+Red Mango,"9480 S Eastern Ave, Ste 100",Pass
+Joe Philly's Pizza,"6400 S Eastern Ave, Ste 25",Pass
+Taco Bell,1284 W Warm Springs Rd,Pass
+Joe's Crab Shack,4250 E Sunset Rd,Pass
+"Sweet Addiction, Cookies & Ice Cream",2291 N Green Valley Pkwy,Pass
+Auntie Anne's,3663 Las Vegas Blvd,Pass
+Applebee's Grill + Bar,3501 S Rainbow,Pass
+Carlos'n Charlie's,3555 S Las Vegas Blvd,Pass
+Long John Silver's,4855 South Fort Apache Rd,Pass
+Yanni's Greek Grill,"9620 S Las Vegas Blvd, Ste E-7",Pass
+Pieology Pizzeria,"2520 E Craig Rd, Ste 120",Pass
+Jack In the Box,10505 S Eastern Ave,Pass
+Burger King,6780 N Durango Dr,Pass
+Jimmy John's,9435 W Tropicana Ave,Pass
+Taco Bell,8520 W Warm Springs Rd,Pass
+Church's Chicken,4851 W Charleston Blvd,Pass
+Blue Diamond Saloon,6935 Blue Diamond Rd,Pass
+Big Horn Olive Oil Company - Las Vegas,"2110 N Rampart Blvd, Ste 140",Pass
+Tail and Fin,"1910 Village Center Cir, Ste 9",Pass
+Egg Works,10839 S Eastern Ave,Pass
+Bailiwick,4500 W Tropicana Ave,Pass
+Dairy Queen,"7785 N Durango Dr, Ste 100",Pass
+Terrible Herbst,8490 Westcliff Dr,Pass
+Carl's Jr.,2205 E Richmar Ave,Pass
+Lobby Bar,"Excalibur Hotel & Casino, 3850 Las Vegas Blvd South",Pass
+In-N-Out Burger,5690 Centennial Ctr Blvd,Pass
+Carpe Diem,"8180 Blue Diamond Rd, Ste 120",Pass
+The Tailgater Tavern,3990 W Russell Rd,Pass
+Cafe Rio,9595 S Eastern Ave,Pass
+Market Grille Cafe,7070 N Durango Dr,Pass
+Hiroba Sushi,"10720 S Eastern Ave, Ste 100",Pass
+Cinnaholic,"4165 S Grand Canyon Dr, Ste 103",Pass
+The Garage,"1487 E Flamingo Rd, Ste C",Pass
+Taco Naco,439 Rock Quarry Way,Pass
+32 Degrees,3799 Las Vegas Blvd S,Pass
+Fatburger,4199 S Fort Apache,Pass
+In-N-Out Burger,2765 E Craig Rd,Pass
+Woods Family Sandwiches,"3318 E Flamingo Rd, Ste B",Pass
+Dunkin' Donuts,"5485 Simmons St, Ste 3",Pass
+Naked City Pizza Shop,3240 S Arville St,Pass
+Jamba  Juice,"10251 S Eastern Ave, Ste 120",Pass
+Texaco Short Line Express Market,6390 N Durango Dr,Pass
+Sean Patricks Pub,8255 W Flamingo Rd,Pass
+Thunderbird Lounge,1215 Las Vegas Blvd S,Pass
+Cold Stone Creamery,"7435 S Durango Dr, Ste 103",Pass
+McDonald's,7200 Arroyo Crossing Pkwy,Pass
+Little Caesars Pizza,"7375 S. Durango Dr Ste. 104, Ste 105, Rhodes Ranch Town Ctr",Pass
+Dukem Ethiopian Restaurant,"870 Sierra Vista Dr, Ste 1-2",Pass
+Fresh & Easy,4760 W. Cactus Ave,Pass
+Inn Zone,"4850 W Flamingo Rd, Ste 6",Pass
+Applebee's Grill + Bar,10305 S Eastern Ave,Pass
+Shish Kabob House,"6620 W Flamingo Rd, Ste 7",Pass
+The Filament,200 Fremont St,Pass
+MGM Grand Hotel,3799 Las Vegas Blvd S,Pass
+Port of Subs,2285 N Green Valley Pkwy,Pass
+Papa John's Pizza,"9285 Cimarron Rd, Ste 105",Pass
+Wildfire Sunset,1195 W Sunset Rd,Pass
+Bavarian Castle,10890 S Eastern Ave,Pass
+Foothills Tavern,"2343 W Gowan Rd, Ste B",Pass
+Northside Nathan's,9320 W Flamingo Rd,Pass
+Egg Works,9355 W Flamingo Rd,Pass
+Subway,2255 N Rampart Blvd,Pass
+Surf City Bar and Grill,1435 W Craig Rd,Pass
+Taco Bell,4310 E Craig Road,Pass
+Jimmy John's,"1321 W Sunset Rd, Ste 110",Pass
+Mulligans Bar & Grill,2312 E Craig Rd,Pass
+Starbucks,"9701 W. Flamingo Road, #1",Pass
+Jack in the Box,4345 E Charleston Blvd,Pass
+Subway,6621 W Cheyenne Ave,Pass
+Hard Rock Cafe,3771 Las Vegas Boulevard South,Pass
+Cinnabon,3480 S Maryland Pkwy,Pass
+Geebee's Bar & Grill,8560 Las Vegas Blvd S,Pass
+Yogurtland,7290 W Lake Mead Blvd,Pass
+Denny's,310 N Nellis Blvd,Pass
+Live Fire Q,"4300 E Sunset Rd, Ste A6",Pass
+Chef Lucky Thai,8609 W Sahara Ave,Pass
+IHOP,2210 Las Vegas Blvd S,Pass
+Tropical Smoothie Cafe,"10670 Southern Highlands Parkway, #100",Pass
+White Cross Market,1700 Las Vegas Blvd,Pass
+Fresh Donuts,"2100 E Lake Mead Blvd, Ste B",Pass
+Grouchy John's Coffee,"8520 S Maryland Pkwy, Ste 100",Pass
+Greens and Proteins,"353 E Bonneville Ave, Ste 191",Pass
+Beach Bums Hawaiian Ice,401 E Horizon Ridge Pkwy,Pass
+Starbucks,3333 Blue Diamond Road,Pass
+MBC Catering,8609 W Sahara Ave,Pass
+Marie Callender's Restaurant & Bakery,8175 W Sahara Ave,Pass
+Short Line Express Market,3965 N Martin L King Blvd,Pass
+Mini Mart & Smoke Shop,"4705 S Durango Dr, Ste 100",Pass
+Scoops,"6885 Aliante Pkwy, Ste 107",Pass
+Halo Restaurant & Bar,2605 S Decatur Blvd,Pass
+Wendy's,4450 E Sunset Rd,Pass
+Kabob Grill,9550 S Eastern Ave,Pass
+Rocky Mountain Chocolate Factory,20 Via Bel Canto,Pass
+Chipotle Mexican Grill,7175 W Lake Mead,Pass
+BG Bistro,"6160 W Tropicana Ave, STE-8",Pass
+See's Candies,10300 W Charleston Blvd,Pass
+Bistro Pizza,"55 S Gibson Rd, Ste 112",Pass
+Buzz BBQ,"9640 W Tropicana Ave, Ste 101",Pass
+Jimmy John's,"9985 S Eastern Ave, Ste 100",Pass
+Yama Sushi,3909 Spring Mt Rd,Pass
+Restaurant Guy Savoy,3570 Las Vegas Blvd S,Pass
+Domino's Pizza,3011 W Lake Mead Blvd,Pass
+Subway,"3030 W Ann Rd, Ste 5",Pass
+Kerry's Sports Pub Pizza & Grill,3520 N Rancho Dr,Pass
+Cadillac To Go,126 S 1st St,Pass
+Marketon,840 N Decatur Blvd,Pass
+Domino's Pizza,"9435 W Tropicana Ave, Ste 104",Pass
+Little Caesars Pizza,4258 E. Charleston Blvd.,Pass
+Bourbon Street Sports Bar,281 W Centennial Pkwy,Pass
+Diamond Events & Catering,"3185 S Highland Dr, Ste 1",Pass
+BARDOT Brasserie,3730 Las Vegas Blvd S,Pass
+Vino Del Lago,"25 Via Brianza, Ste 100",Pass
+The Cracked Egg,7660 W Cheyenne Ave,Pass
+The Cheesecake Factory,"750 S Rampart Blvd, Bldg 17",Pass
+Subway,"4503 Paradise Rd, Ste 120",Pass
+Super Swirl Frozen Yogurt & Boba Teas,"1263 E Silverado Ranch Blvd, Ste 109",Pass
+Subway,2620 N Green Valley Pkwy,Pass
+Wingin' It,2400 N Rancho Dr,Pass
+Red Lobster,200 S Decatur Blvd,Pass
+Tropical Smoothie Cafe,"445 West Craig Road, #103",Pass
+Dairy Queen,"1910 Village Ctr Cir, Ste 9",Pass
+Black Bear Diner,2751 N Green Valley Pkwy,Pass
+eatwell,3595 S Las Vegas Blvd,Pass
+Treasure Island,3300 S Las Vegas Blvd,Pass
+Badlands Saloon,"953 E Sahara Ave, Ste 22B",Pass
+Juice 'N' Go,1735 S Rainbow Blvd,Pass
+ARIA Café,3730 Las Vegas Blvd S,Pass
+Rubio's,11101 W Charleston Blvd,Pass
+Slices Pizzeria,2101 Texas Star Ln,Pass
+Starbucks,8410 Farm Road,Pass
+The Capital Grille,3200 Las Vegas Blvd S,Pass
+Afandi Restaurant and Market,"5181 West Charleston, Ste 120",Pass
+Romano's Macaroni Grill,2001 N Rainbow Blvd,Pass
+Sno-Ball Mania,1039 Whitney Ranch Dr,Pass
+Buffalo Wild Wings,617 Mall Ring Cir,Pass
+Balboa Pizza Company,2265 Village Walk Dr,Pass
+Amy's Donut Factory & Gourmet Creamery,"2505 Anthem Village Dr, Ste B",Pass
+Five Guys,4065 S Maryland Pkwy,Pass
+Noble Roman's Take-n-Bake Pizza,4140 E Sunset Rd,Pass
+Stewart Market,2021 Stewart Ave,Pass
+Red Robin Gourmet Burgers,9600 S Eastern Ave,Pass
+Pt's Pub,2280 S Nellis Blvd,Pass
+Burger King,6080 W Craig Rd,Pass
+Old Vegas Tavern,3850 E Desert Inn Rd,Pass
+Aladdin Market,"1775 E Tropicana Ave, Ste 6",Pass
+Vig Deli,12300 Las Vegas Blvd S,Pass
+Table 89,"7160 North Durango Dr, Ste 110",Pass
+Hooligans Bar,1750 S Rainbow Blvd,Pass
+Golden Spoon Frozen Yogurt,"7170 N Durango Dr, Ste 130",Pass
+Applebee's Grill + Bar,5010 S Fort Apache Rd,Pass
+Pizza Hut,"6355 N. Commerce, #101",Pass
+Domino's Pizza,"5831 E Charleston Blvd, Ste 400",Pass
+Manhattan Pizza III,1045 Whitney Ranch Dr,Pass
+Domino's Pizza,8508 W Sahara Ave,Pass
+Northside Nathan's Pizza,"7531 W Lake Mead Blvd, Ste 300",Pass
+Village Pub & Poker,8515 S Eastern Ave,Pass
+Claim Jumper,6629 Las Vegas Blvd S,Pass
+Noreen's Cocktail Lounge,2799 E Tropicana Ave,Pass
+The Restaurant at Platinum,211 E Flamingo Rd,Pass
+Tasti D-Lite,3755 S Las Vegas Blvd,Pass
+Dirt Dog,"8390 S Rainbow Blvd, Ste 100",Pass
+Save a Lot #766,1110 E Charleston Blvd,Pass
+IHOP,3595 S Rainbow Blvd,Pass
+Tuscany Gardens,255 E Flamingo Rd,Pass
+Wienerschnitzel,1760 South Rainbow Blvd,Pass
+The Coffee House on Water Street,117 S Water St,Pass
+Starbucks,475 E Windmill Lane,Pass
+IHOP,9651 Trailwood Dr,Pass
+McDonald's,701 E Horizon,Pass
+Starbucks,8440 Farm Road,Pass
+Arby's,4521 N Rancho Dr,Pass
+Mariana's Supermarkets,2325 E Cheyenne Ave,Pass
+Whole Foods Market,6689 Las Vegas Blvd,Pass
+Red Robin Gourmet Burgers,7860 W. Tropical Parkway,Pass
+Born And Raised,7260 S Cimarron Rd,Pass
+Wildfire Valley View,3045 S Valley View Blvd,Pass
+Trillo's Street Tacos,4371 N Rancho Dr,Pass
+Denny's,2380 E Tropicana Ave,Pass
+Yeshi Mart,"4755 W Flamingo Rd, Ste D",Pass
+Jack In the Box,800 N Decatur Blvd,Pass
+The Pub at Monte Carlo,"Monte Carlo Hotel And Casino, 3770 Las Vegas Blvd S",Pass
+Cannery Row Buffet,5255 Boulder Hwy,Pass
+Starbucks,"9151 West Sahara, Suite 110",Pass
+Memphis Championship Barbecue,4379 Las Vegas Blvd,Pass
+The Coffee Bean & Tea Leaf,5757 Wayne Newton Blvd,Pass
+Pasta Cucina,1301 W Sunset Rd,Pass
+Elation Pool,"2000 S Las Vegas Blvd, Fl 8",Pass
+Lee's Discount Liquor,780 S Rampart Blvd,Pass
+Wendy's,4760 E Flamingo Rd,Pass
+Iron Skillet,6595 N Hollywood Blvd,Pass
+Chili's,6505 N Decatur Blvd,Pass
+Cold Stone Creamery,"75 E Horizon Ridge Pkwy, Ste 140",Pass
+Stage LV,9010 W Flamingo Rd,Pass
+Pt's Gold,3770 S Hualapai Way,Pass
+Buldogis Unleashed Food Truck,"2291 S Fort Apache Rd, Ste 102",Pass
+Carmine's,10430 S Eastern Ave,Pass
+Einstein Bros Bagels,"1990 Village Center Cir, Ste 2",Pass
+Wendy's,6732 W Cheyenne Ave,Pass
+Tropical Smoothie Cafe,"7291 South Eastern Avenue, Suite 1K",Pass
+In-N-Out Burger,51 N Nellis,Pass
+Pizza Hut,"2850 Bicentennial Pkwy, Ste 130",Pass
+Café Zupas,9460 S Eastern Ave,Pass
+Paradise Cantina,"4480 Paradise Rd, Ste 1250",Pass
+PT's,5630 S Hualapai Way,Pass
+Circle K,2308 Las Vegas Blvd S,Pass
+Settebello Pizzeria Napoletana,"9350 W Sahara Ave, Ste 170",Pass
+Sugar Bee's Bakery,"7835 S Rainbow Blvd, Ste 10",Pass
+Triple George Grill,"201 N 3rd St, Ste 120",Pass
+Thailicious Authentic Thai & Vegan,"19 S Stephanie St, Ste 160",Pass
+Jimmy John's,"5801 W Craig Rd, Ste 100",Pass
+Lake Mead Tavern,5841 E Lake Mead Blvd,Pass
+Brew Tea Bar,"9480 S Eastern Ave, Ste 160",Pass
+Wendy's,1301 W Craig Rd,Pass
+Port of Subs,"75 S Valle Verde Dr, Bldg 200, Ste 230",Pass
+Starbucks,"180 S. Stephanie Street, #100",Pass
+Nutrition Rush,"4985 W Tropicana Ave, Ste 103",Pass
+Sushiro,"556 N Eastern Ave, Ste H",Pass
+Zaba's Mexican Grill,2120 N Rampart Blvd,Pass
+The Coffee Bean & Tea Leaf,"3645 S Town Center Dr, Ste 101",Pass
+Earl of Sandwich,4321 W Flamingo Rd,Pass
+Teriyaki Boy Healthy Grill,"9055 S Eastern Ave, Ste 1-B",Pass
+McDonald's,4215 Las Vegas Blvd N,Pass
+In-N-Out Burger,9240 S Eastern Ave,Pass
+Siegel's 1941,600 Fremont St,Pass
+Four Queens Hotel & Casino,202 Fremont St,Pass
+Charlie's Market Buffet,740 S Decatur Blvd,Pass
+Mulligans Landing,2851 N Rancho Dr,Pass
+Smith's,10100 W Tropicana Ave,Pass
+Dunkin' Donuts,"3350 E Tropicana Ave, Ste C2",Pass
+Wendy's,990 N Nellis Blvd,Pass
+Stake Out Bar & Grill,"4800 S Maryland Pkwy, Ste A",Pass
+McDonald's,5200 S Fort Apache,Pass
+Frankie's Tiki Room,1712 W Charleston Blvd,Pass
+Dunkin' Donuts,6295 S Rainbow Blvd,Pass
+The Liquor Outlet,4410 W Craig Rd,Pass
+Wahlburgers,"3635 Las Vegas Blvd S, Unit 100",Pass
+PT's Gold,4880 W Silverado Ranch Blvd,Pass
+Marilyn's Cafe,255 E Flamingo Rd,Pass
+Wingstop,7017 Spring Mountain Rd,Pass
+Chronic Tacos,"9460 W Flamingo Rd, Ste 125",Pass
+Starbucks,"3799 Las Vegas blvd, The Signature @ MGM",Pass
+Lucky's Lounge,8025 Farm Rd,Pass
+McDonald's,3999 S Las Vegas Blvd,Pass
+Gyu-Kaku Japanese BBQ,3550 S Decatur Blvd,Pass
+Cold Stone Creamery,"5841 E Charleston Blvd, Ste 210",Pass
+Frijoles & Frescas,2490 E Desert Inn Rd,Pass
+The Charcoal Room,4949 N Rancho Dr,Pass
+Taco Bell,3415 E. Russell Road,Pass
+Ravello Lounge,12300 Las Vegas Blvd S,Pass
+Domino's Pizza,"7021 Aliante Pkwy, Ste 105",Pass
+Jackpot Joannies,10670 Southern Highlands Pkwy,Pass
+Baja Miguel's,9777 S Las Vegas Blvd,Pass
+Pizza Hut,"8140 S. Eastern Ave, Ste 1",Pass
+Claim Jumper Restaurant & Saloon,1100 S Fort Apache Rd,Pass
+Starbucks,"6120 N. Decatur Blvd., 100",Pass
+McDonald's,2050 E Charleston Blvd,Pass
+Speedee Mart,8570 W Sahara Ave,Pass
+Nutrition Rush,"9310 S Eastern Ave, Ste 110",Pass
+McDonald's,4400 E Charleston,Pass
+Rainbow Club & Casino,122 S Water St,Pass
+Prospector Joe's,3950 Koval Ln,Pass
+Emery's  La Barrista Catering Ii,306 S Water St,Pass
+Bellini,3355 South Las Vegas Blvd,Pass
+Sourdough Cafe,4575 Boulder Hwy,Pass
+Poppy's Frozen Yogurt,9345 S Cimarron Rd,Pass
+Dollar General Market,2905 S Maryland Pkwy,Pass
+Cilantros Taco Grill,2490 E Desert Inn Rd,Pass
+Terrible Herbst,7301 W Lake Mead Blvd,Pass
+Dunkin' Donuts,5111 Boulder Hwy,Pass
+McDonald's,2513 E Owens Ave,Pass
+Jack In the Box,455 E Silverado Ranch Blvd,Pass
+Old Homestead Steakhouse,3570 Las Vegas Blvd S,Pass
+Tops N Bottoms Frozen Yogurt,"1181 S Buffalo Dr, Ste 150",Pass
+Golden Spoon Frozen Yogurt,"7175 W Lake Mead Blvd, Ste 180",Pass
+Jamba Juice,"3200 Las Vegas Blvd, Space 1340",Pass
+Red Lobster,2325 E Flamingo Rd,Pass
+Papa John's Pizza,"5570 Camino Al Norte, Ste D2",Pass
+The Great American Pub,"4145 S Grand Canyon, Ste 109-111",Pass
+Starbucks,190 N Boulder Hwy,Pass
+Einstein Bros Bagels,4415 W Flamingo Rd,Pass
+Subway,"9196 W Cheyenne Ave, Ste 101",Pass
+Arby's,590 N Stephanie St,Pass
+Swish,"7875 W Sahara Ave, Ste 105",Pass
+Goldfinger's Bar & Grill,1115 E Pyle Ave,Pass
+Dunkin' Donuts,10100 S Eastern Ave,Pass
+Chipotle Mexican Grill,"4916 S Fort Apache Rd, Ste 102",Pass
+Tommy Rocker's Mojave Beach Bar & Grill,4275 Dean Martin Dr,Pass
+Starbucks,4100 Blue Diamond Rd,Pass
+La Bonita Supermarket,2672 Las Vegas Blvd N,Pass
+McDonald's,4075 S Buffalo Dr,Pass
+Papa Murphy's,"175 North Stephanie St, Ste 160",Pass
+Speedee Mart,401 E Horizon Ridge Pkwy,Pass
+The Lodge Fort Apache,5790 S Fort Apache Rd,Pass
+McDonald's,7171 W Ann Rd,Pass
+Yogurtland,6587 Las Vegas Blvd,Pass
+Subway,3939 E Lake Mead Blvd,Pass
+Chipotle Mexican Grill,"1311 W Sunset Rd, Ste 100",Pass
+Subway,7620 S Las Vegas Blvd,Pass
+Dairy Queen,2595 S Maryland Pkwy,Pass
+Ali Baba Cuisine,8826 S Eastern Ave,Pass
+Subway,7425 S Durango Dr,Pass
+McDonald's,2880 S Las Vegas Blvd,Pass
+Pollo Inka Express,2440 S Maryland Pkwy,Pass
+Pops Philly Steaks,501 S Decatur Blvd,Pass
+Port of Subs,"6435 S Rainbow Blvd, Ste 103",Pass
+Bob's Market,70 E Centennial Pkwy,Pass
+Arby's,315 S Decatur Blvd,Pass
+Sin City Brewing Company,3717 Las Vegas Blvd S,Pass
+Sonic Drive-In,5725 E Charleston Blvd,Pass
+Blue Sea Sushi and Izakaya,"500 E Windmill Ln, Ste 165",Pass
+Yuki Shaved Snow,"8414 Farm Rd, Ste 150",Pass
+Hibachi Grill & Supreme Buffet,313 N Nellis Blvd,Pass
+The Lodge Cactus,4660 W Cactus Ave,Pass
+Burger King,5200 W Charleston Blvd,Pass
+Smoothie King,8000 W Sahara Ave,Pass
+McDonald's,2886 S Nellis Blvd,Pass
+Rotisserie Chicken,"6375 S Rainbow Blvd, Ste 101",Pass
+Planet Protein Snack Bar,4540 E Charleston Blvd,Pass
+Rocco's NY Pizzeria,1910 Village Center Cir,Pass
+Subway,"11700 W Charleston Blvd, Ste 140",Pass
+Fat Tuesday,3411 Las Vegas Blvd,Pass
+Claim Jumper Restaurants,129 E Fremont St,Pass
+Bagels And Subs,"4225 E Sahara Ave, Ste 6",Pass
+Sourdough Cafe,740 S Decatur Blvd,Pass
+Jack in the Box,7025 S Durango Dr,Pass
+Jin's Kitchen and Club,"3400 S Jones Blvd, 5b",Pass
+PizzaRev,1381 W Sunset Rd,Pass
+Papa Murphy's,"565 College Drive, Suite C",Pass
+Denny's,7200 S Las Vegas Blvd,Pass
+Blaze Fast-Fire'd Pizza,10520 S Eastern Ave,Pass
+Dunkin' Donuts,200 E Fremont St,Pass
+Sinatra,3131 Las Vegas Blvd S,Pass
+Capriotti's Sandwich Shop,6599 Las Vegas Blvd,Pass
+Boxers Pizza & Sandwich Shop,1439 N Boulder Hwy,Pass
+Hash House A Go Go,1 S Main St,Pass
+Church's Chicken,7925 S Rainbow Blvd,Pass
+Pizza Hut,642 E. Horizon Drive #130,Pass
+Burger King,3831 E Craig Rd,Pass
+Famous Dave's Bar-B-Que,2630 E Craig Rd,Pass
+Dairy Queen,3154 W Sahara Ave,Pass
+Terrible Herbst,335 W Craig Rd,Pass
+Denny's,2400 N Rancho Dr,Pass
+Outback Steakhouse,4141 S Pecos Rd,Pass
+Fresh & Easy,8500 S. Eastern Ave,Pass
+The Rice Shop,"3655 S Durango Dr, Ste 9",Pass
+Pt's Pub,3935 S Durango Dr,Pass
+Teriyaki Madness,"72 W Horizon Ridge Pkwy, #B-105",Pass
+The Underworld Grill & Bar,3350 S Decatur Blvd,Pass
+Gerardo's Taco Shop,"3655 S Rainbow Blvd, Ste 105",Pass
+Poke Addiction,"7210 W Lake Mead Blvd, Ste 1",Pass
+Golden Corral,1455 S Lamb Blvd,Pass
+Original Chicken Tender,3900 Las Vegas Blvd S,Pass
+Rock & Reilly's Las Vegas,"3743 Las Vegas Blvd, Ste 100",Pass
+Tropical Smoothie Cafe,"7375 South Durango Drive, #107",Pass
+Capriotti's Sandwich Shop,7291 S Eastern Ave,Pass
+Subway,"4700 Meadows Ln, Ste 150",Pass
+New Day Cafe,"467 E Silverado Ranch Blvd, Ste 100",Pass
+Dave & Buster's,"2130 Park Centre Dr, Ste 100",Pass
+The Human Bean,5265 Camino Al Norte,Pass
+Chicago Brewing Company,202 Fremont St,Pass
+Lindo Michoacan,10082 W Flamingo Rd,Pass
+The Lounge & Sports Bar,"Excalibur Hotel & Casino, 3850 Las Vegas Blvd South",Pass
+Center Bar,4455 Paradise Rd,Pass
+Hooters Casino Hotel Las Vegas,115 E Tropicana Ave,Pass
+See's Candies,4300 Meadows Ln,Pass
+bin 702,707 E Fremont St,Pass
+TIABI Coffee & Waffle Bar,3961 Maryland Pkwy,Pass
+Ohlala French Bistro,"2120 N Rampart Blvd, Ste 150",Pass
+McDonald's,911 E Cheyenne Ave,Pass
+Hawaiian Frost LV,8095 S Rainbow Blvd,Pass
+Panda Express,4780 W Tropicana Ave,Pass
+Paris Las Vegas Hotel & Casino,3655 Las Vegas Blvd S,Pass
+Sofia's Pizza,3124 Las Vegas Blvd N,Pass
+McDonald's,65 S Valle Verde Dr,Pass
+Raising Cane's,10050 W Sahara Ave,Pass
+La Real de Michoacan,1039 Whitney Ranch Dr,Pass
+Spa and Salon - Golden Nugget,129 E Fremont St,Pass
+Jimmy John's,"400 N Nellis Blvd, Ste J1",Pass
+Sammy's Woodfired Pizza and Grill,"7345 Arroyo Crossing Pkwy, Ste 100",Pass
+Wendy's,9385 S Eastern Ave,Pass
+Joe's Crab Shack,1991 N Rainbow Blvd,Pass
+Villa Pizza,639 N Stephanie St,Pass
+ABC Stores,"3771 Las Vegas Blvd S, Ste 130, Showcase Mall",Pass
+Cali's Scoops,"4825 E Charleston Blvd, Ste 2",Pass
+Vue Bar,301 Fremont St,Pass
+Shake Shack,3790 Las Vegas Blvd S,Pass
+Subway,3815 E Craig Rd,Pass
+Walgreens,3339 Las Vegas Blvd S,Pass
+Cold Stone Creamery,"1121 S Decatur Blvd, Ste 120",Pass
+Dino's Lounge,1516 Las Vegas Blvd S,Pass
+Brightside Breakfast & Burgers,1 Main St,Pass
+Circle K,6490 Boulder Hwy,Pass
+Panda Express,5595 Simmons St,Pass
+Cinnaholic,"7920 W Tropical Pkwy, Unit 110",Pass
+Le Village Buffet,3655 Las Vegas Blvd S,Pass
+El Congo Restaurant,"2300 N Rainbow Blvd, Ste 108",Pass
+Sweet Tomatoes,"9460 W Flamingo Rd, Ste 100",Pass
+Terrible Herbst,1051 Desert Foothills Dr,Pass
+Chevron Pit Stop 3,1420 Paseo Verde Pkwy,Pass
+Cheffinis Hot Dogs- THE CART,520 Fremont St,Pass
+Sidewalk Cafe,3645 Las Vegas Blvd S,Pass
+JinJu Chocolates,"707 Fremont St, Ste 2280",Pass
+Stir Krazy Mongolian Grill,"3345 E Patrick Ln, Ste 100",Pass
+Handel's Homemade Ice Cream & Yogurt,"10170 W Tropicana Ave, Ste 150",Pass
+Frost Bite Shaved Ice,2200 W Horizon Ridge Pkwy,Pass
+Sammy's Restaurant & Bar,1501 N Green Valley Pkwy,Pass
+Five Star Tavern,1905 N Decatur Blvd,Pass
+Starbucks,"3900 Las Vegas Blvd, Luxor Hotel and Casino Intl Grounds",Pass
+Sprouts Farmers Market,7375 S Rainbow Blvd,Pass
+Del Taco,2531 E Craig Rd N,Pass
+Subway,"3395 E Tropicana Ave, Ste 11045",Pass
+Earl of Sandwich,"2010 Festival Plaza Dr, Ste 180",Pass
+Dotty's #7,2101 S Decatur Blvd,Pass
+Fabulous Freddy's,4309 W Craig Rd,Pass
+It's a Piece of Cake,"10690 Southern Highlands Pkwy, Ste 104",Pass
+Subway,4262 Blue Diamond Rd,Pass
+Forte European Tapas Bar and Bistro,"4180 Rainbow Blvd, Ste 806",Pass
+Chili's,7530 Las Vegas Blvd S,Pass
+Sam's Club,7100 W. Arroyo Crossing Pwky.,Pass
+Outback Steakhouse,7380 Las Vegas Blvd S,Pass
+Green Valley Ranch Race & Sports Book,2300 Paseo Verde Pkwy,Pass
+Olive Garden Italian Restaurant,6191 Centennial Center Blvd,Pass
+Suns Beef Jerky Pecos,6495 So Pecos Rd,Pass
+Tropical Smoothie Cafe,"9440 West Sahara Boulevard, Suite 105",Pass
+Capriotti's Sandwich Shop,2300 Paseo Verde Pkwy,Pass
+Griff's,3650 S Decatur Blvd,Pass
+Jamba Juice,"1829 W Craig Rd, Unit 3",Pass
+Scoops,6775 E Lake Mead Blvd,Pass
+Honey Baked Ham Company,1533 W Sunset Road,Pass
+Kona Grill,750 S Rampart Blvd,Pass
+Olive Garden Italian Restaurant,10800 W Charleston Blvd,Pass
+McDonald's,4945 W Flamingo Rd,Pass
+Long John Silver's,1229 E Flamingo Rd,Pass
+La Flor de Michoacan Ice Cream,"2670 N Las Vegas Blvd, Ste 107",Pass
+Nekter Juice Bar,"1990 Village Center Cir, Ste 3",Pass
+Olive Garden Italian Restaurant,4400 E Sunset Rd,Pass
+Black Bear Diner,7680 Las Vegas Blvd S,Pass
+Marco's Pizza,"4770 W Ann Rd, Ste 6",Pass
+Full House BBQ,"9890 S Maryland Pkwy, Ste 19",Pass
+Subway,"10140 W Tropicana Ave, Ste 121",Pass
+Walmart Supercenter,2310 E Serene Ave,Pass
+Hamburger Mary's,1700 E Flamingo Rd,Pass
+The Coffee Shop,3300 Las Vegas Blvd S,Pass
+Capriotti's Sandwich Shop,"7240 W Azure Dr, Ste 155",Pass
+Potato Corner,6605 Las Vegas Blvd,Pass
+Pizza Hut,4870 Boulder Hwy,Pass
+Starbucks,"2430 E. Flamingo Road, #100",Pass
+Charlies  Lakeside Restaurant & Lounge,8603 W Sahara Ave,Pass
+Me Gusta Tacos,"7425 S Durango Dr, Ste 103",Pass
+Bingo at South Point,9777 S Las Vegas Blvd,Pass
+Sugar Factory,"3663 S Las Vegas Blvd, Ste 1240",Pass
+Bahama Buck's,"7345 Arroyo Crossing Pkwy, Ste 105",Pass
+Four Kegs Sports Bar,"276 N Jones Blvd, Ste B",Pass
+Dutch Bros Coffee,2840 E Tropicana Ave,Pass
+Hennessey's Tavern,"425 Fremont St, Suite 110",Pass
+Truffles N Bacon Cafe,"8872 S Eastern Ave, Ste 100",Pass
+Red Rock Pizza,8455 W Lake Mead Blvd,Pass
+Short Line Express Market,"26 W Horizon Ridge Pkwy, Ste A",Pass
+Popeyes Louisiana Kitchen,2531 E Lake Mead Blvd,Pass
+Café Zupas,8850 W Charleston Blvd,Pass
+Bourbon Street,4405 W Flamingo Rd,Pass
+Auntie Anne's,3850 Las Vegas Blvd S,Pass
+Rocco's NY Pizzeria,"10860 W Charleston Blvd, Ste 190",Pass
+La Salsa,"3500 Las Vegas Blvd S, Ste R06, The Forum Shops At Caesars",Pass
+Dairy Queen,475 W Craig Rd,Pass
+Grimaldi's Pizzeria,"7155 S Rainbow Blvd, Ste 125",Pass
+Applebee's Grill + Bar,1635 W Craig Rd,Pass
+Taco Bell,2440 S Maryland Pkwy,Pass
+Vitality Bowls,"7170 N Durango Dr, Ste 130",Pass
+Jack in the Box,9360 W Tropicana Ave,Pass
+The Buffet at Excalibur,3850 S Las Vegas Blvd,Pass
+Starbucks,"3805 E. Flamingo Road, #100",Pass
+Burger King,1736 Las Vegas Blvd S,Pass
+Second Street Grill,200 Fremont St,Pass
+Pt's Gold,812 W Ann Rd,Pass
+Round Table Pizza,7141 South Eastern Avenue,Pass
+Jack in the Box,1604 N Lamb Blvd,Pass
+Pineapple Park,"3528 S Maryland Pkwy, Ste 103",Pass
+Jack in the Box,7980 S Rainbow Blvd,Pass
+Denny's,3001 S Las Vegas Blvd,Pass
+Sonic Drive-In,377 N Nellis Blvd,Pass
+Mr Mamas,"5693 S Jones Blvd, Ste 106",Pass
+La Salsa,"3785 Las Vegas Blvd S, Ste 1500",Pass
+Roberto's Taco Shop,"3399 S Durango Dr, Ste 102",Pass
+Ceo Hookah Lounge And Bar,5900 W Flamingo Rd,Pass
+A Thyme For All Seasons,"310 E Warm Springs Rd, Ste G",Pass
+Subway,"4925 Boulder Hwy, Ste B",Pass
+Capriotti's Sandwich Shop,"4983 W Flamingo Rd, Ste D",Pass
+Freedom Beat,206 N 3rd St,Pass
+Bahama Breeze,375 Hughes Center Dr,Pass
+Yogurtland,9516 W Flamingo Rd,Pass
+Pizza Rock,2300 Paseo Verde Pkwy,Pass
+Dylan’s Family Ice Cream,"5960 Losee Rd, Unit 121",Pass
+Terrible Herbst,3440 W Russell Rd,Pass
+JoJo's Jerky,"707 Fremont St, Ste 1080",Pass
+Swirlicious,"2505 Anthem Village Dr, Ste B",Pass
+Victory's Cafe,2121 E Craig Rd,Pass
+Taco Bell,2760 W Ann Rd,Pass
+Cinnabon,4300 Meadows Ln,Pass
+Masterpiece Cuisine,"303 S Water St, Ste 130",Pass
+Rum Runner Lounge,1801 E Tropicana Ave,Pass
+Lily Bar & Lounge,3600 S Las Vegas Blvd,Pass
+Hash House A Go Go,6800 W Sahara Ave,Pass
+Applebee's Grill + Bar,2070 N Rainbow Blvd,Pass
+Walgreens,3765 Las Vegas Blvd S,Pass
+Walgreens,495 Fremont St,Pass
+Bonefish Grill,8701 W Charleston Blvd,Pass
+Twin Peaks,"3717 Las Vegas Blvd, Ste 285",Pass
+Subway,7171 N Hualapai Way,Pass
+Nutrition Rush,"4175 S Grand Canyon Dr, Ste 104",Pass
+Wine 5 Cafe,"3250 N Tenaya Ave, Ste 110",Pass
+Bomas Bar & Grill,8020 S Durango Dr,Pass
+Carl's Jr,705 S Green Valley Pkwy,Pass
+Delightful Chefs,"6680 W Flamingo Rd, Ste 12",Pass
+Taco Bell,4292 Blue Diamond Rd,Pass
+Paletas y Helados de Michoacan,"845 W Craig Rd, Ste 103",Pass
+El Pollo Loco,7096 N Durango Dr,Pass
+The Gin Mill,2561 Windmill Pkwy,Pass
+Top Shelf Wine & Spirits,"6795 W Tropicana Ave, Ste 130",Pass
+Subway,"5693 S Jones Blvd, Ste 121",Pass
+Starbucks,6105 S. Ft. Apache Rd.,Pass
+Putter's Bar & Grill,5750 S Decatur Blvd,Pass
+Terrible Herbst,330 N Rancho,Pass
+Taco Bell,1491 W Horizon Ridge Pkwy,Pass
+Subway,6105 W Flamingo Rd,Pass
+Pasta Cucina,2101 Texas Star Ln,Pass
+Checkers,1900 E. Charleston Blvd.,Pass
+Bounty Hunter,7141 S Eastern Ave,Pass
+PT's,3470 E Sunset Rd,Pass
+KFC,5720 Losee Rd,Pass
+Popcorn Girl,"6584 N Decatur Blvd, Ste 110",Pass
+Downtown Crown Pub,"107 E Charleston Blvd, Ste 150",Pass
+Subway,"591 College Dr, Ste A",Pass
+Herbs & Rye,3713 W Sahara Ave,Pass
+La Bonita Grocery Store,2021 Civic Center Dr,Pass
+Great American  Pub,9310 S Eastern Ave,Pass
+Mickie Finnz,"425 Fremont St, Ste 120",Pass
+Starbucks,"855 S. Grand Central Parkway, #1519",Pass
+Chili's,10080 S Eastern Ave,Pass
+No. 1 Boba Tea,"4255 Spring Mountain Rd, Ste C104",Pass
+Hookah Master's Lounge,"5900 W Charleston Blvd, Ste 8",Pass
+Mediterranean Market,6020 Spring Mountain Rd,Pass
+Subway,"6475 N Decatur Blvd, Ste 110",Pass
+Courthouse Bar & Grill,330 S 3rd St,Pass
+The End,"4821 Spring Mountain Rd, Ste G",Pass
+Starbucks,340 E Flamingo Rd,Pass
+Velveteen Rabbit,1218 S Main St,Pass
+Pizza Hut,"8090 Blue Diamond Rd, Ste 140",Pass
+Cornish Pasty,10 E Charleston Blvd,Pass
+Walmart Neighborhood Market,6151 W Lake Mead Blvd,Pass
+El Pollo Loco,2885 S Nellis Blvd,Pass
+Arby's,3477 S Durango Dr,Pass
+El Katracho Restaurant,"4375 S Buffalo Dr, Ste 105",Pass
+Subway,665 S Green Valley Pkwy,Pass
+Jimmy John's,5463 S Rainbow Blvd,Pass
+Hennessey's Las Vegas,"425 Fremont St, Ste 110",Pass
+Michael's Pub,4012 S Rainbow Blvd,Pass
+Momofuku Las Vegas,"3708 Las Vegas Blvd S, Level 2",Pass
+Durango Hills Golf Club,3501 N Durango Dr,Pass
+Makai Pacific Island Grill,"5165 S Fort Apache Rd, Ste 150",Pass
+Las Famosas De Jose,400 N Nellis Blvd,Pass
+Yogurtland,"7060 S Rainbow Blvd, Ste 110",Pass
+Little Caesars Pizza,2272 S. Nellis Blvd. Suite # 3,Pass
+Jayde Fuzion,12300 Las Vegas Blvd S,Pass
+Papa Murphy's,"4045 S Buffalo Dr, Ste A105",Pass
+Al's Beef,6840 W Sahara Ave,Pass
+Pt's Gold,10075 S Eastern Ave,Pass
+Cardenas Market,4700 Meadows Ln,Pass
+Port of Subs,"2833 East Desert Inn Rd, Ste 3",Pass
+Porchlight Grille,8416 W Desert Inn Rd,Pass
+Panda Express,2220 E Craig Rd,Pass
+Firehouse Subs,"1121 S Decatur Blvd, Ste 140",Pass
+El Pollo Loco,4005 S Decatur Blvd,Pass
+Bastille,1402 S 3rd St,Pass
+Panda Express,5881 W Craig Rd,Pass
+Artisanal Foods,2053 Pama Ln,Pass
+Firehouse Subs,"5905 S Eastern Ave, Ste 109",Pass
+Jersey Mike's Subs,"1772 S Rainbow Blvd, Ste 120",Pass
+Haagen Dazs Shop,"The Venetian Hotel & Casino, 3377 S Las Vegas Blvd, Ste 2260",Pass
+Putters Bar & Grill,1231 American Pacific Dr,Pass
+Arby's,310 S Boulder Hwy,Pass
+La Flor Es Michoacan,4161 S Eastern Ave,Pass
+McDonald's,4804 W Lone Mtn,Pass
+Port of Subs,"6005 S Fort Apache Rd, Ste 120",Pass
+Pizza Hut,"4440 S. Durango Dr., Suite H",Pass
+Bronze Cafe at The Center,401 S Maryland Pkwy,Pass
+Huntridge Tavern,1116 E Charleston Blvd,Pass
+Wendy's,3333 W Tropicana Ave,Pass
+Bagelmania,"855 E Twain Ave, Ste 120",Pass
+Divine Cafe at the Springs Preserve,333 S Valley View Blvd,Pass
+Starbucks,8350 W Cheyenne Ave,Pass
+Munch Box,"10604 S Eastern Ave, Ste C",Pass
+Pink Box Doughnuts,"10251 S Eastern Ave, Ste C",Pass
+Panda Express,5620 Centennial Ctr,Pass
+Bowlology,9555 S Eastern,Pass
+Pizza Rock,201 N 3rd St,Pass
+Port of Subs,3117 N Rainbow Blvd,Pass
+Green Valley Grocery,4480 S Durango Dr,Pass
+Burger King,4815 W Flamingo Rd,Pass
+The HideAway,3369 Thom Blvd,Pass
+El Steak Burrito,4590 Spring Mountain Rd,Pass
+Sin City H2o To Go,"3950 N Tenaya Way, Ste 110",Pass
+Port of Subs,"840 S Rancho, Ste 13",Pass
+Lola's A Louisiana Kitchen,1220 N Town Center Dr,Pass
+Berry Blendz,"7175 W Lake Mead Blvd, Ste 140",Pass
+Salvadoreno Restaurant,720 N Main St,Pass
+Big Al's Oyster Bar,4500 W Tropicana Ave,Pass
+Subway,6181 S Rainbow Blvd,Pass
+Green Valley Grocery,3680 W Tropicana Ave,Pass
+Sophia's Gentlemens Club,3500 W Naples Dr,Pass
+Money Plays,"4755 W Flamingo Rd, Ste G",Pass
+Market Grille Cafe,7175 W Lake Mead Blvd,Pass
+Pizza Hut,"7150 N. Durango Drive, #120",Pass
+Pizza Hut,10260 W Charleston Blvd,Pass
+Hungry Howie's Pizza,7703 N El Capitan Way,Pass
+Taste Tea,10120 W Flamingo Rd,Pass
+Gem Bar,3730 S Las Vegas Blvd,Pass
+San Gennaro Burger,3355 Las Vegas Blvd S,Pass
+Outback Steakhouse,8671 W Sahara Ave,Pass
+The Butcher Block,6440 N Durango Dr,Pass
+Luna Rossa,10 Via Bel Canto,Pass
+Tony Marcs 420 Eats,"6700 W Charleston Blvd, Unit C",Pass
+Violas Tavern,4061 N Rancho,Pass
+Red Lobster,570 Marks St,Pass
+Downtown 3rd Farmers Market,300 N Casino Center Blvd,Pass
+Bonjour Euro Bakery,"4012 S Rainbow Blvd, Ste J",Pass
+Capriotti's,"1200 N Town Center Dr, Ste B",Pass
+Starbucks,"6020 W. Craig Rd, #110",Pass
+Carl's Jr.,150 S Rainbow Blvd,Pass
+Blueberry Hill Family Restaurant,1280 S Decatur Blvd,Pass
+Prime Rib Loft,4500 W Tropicana Ave,Pass
+Rae's Restaurant & Lounge,2531 Wigwam Pkwy,Pass
+Cody's Smokin' Barbecue,1675 S Industrial Rd,Pass
+Panda Express,"6475 N Decatur Blvd, Ste 100",Pass
+Carl's Jr.,6524 Losee Rd,Pass
+Del Taco,1801 W Charleston Blvd,Pass
+Albertsons,3010 W Ann Rd,Pass
+KFC,71 N Nellis Blvd,Pass
+Carl's Jr.,535 Marks St,Pass
+Fix8 Fitness Cafe & Grill,650 E Horizon Dr,Pass
+Buzz'N Brushes,4500 W Tropicana Ave,Pass
+Starbucks,7050 S. Durango Drive,Pass
+Albertsons,7350 S Rainbow Blvd,Pass
+Paddy's Pub,"4160 S Pecos Rd, Ste 1",Pass
+Starbucks,2517 E. Craig Rd,Pass
+LA Subs & Salads,"Flamingo Hotel and Casino, 3555 Las Vegas Blvd S",Pass
+Voodoo Wing Co,6728 W Cheyenne Ave,Pass
+ABC Stores 114,378 E Tropicana Ave,Pass
+Honolulu Cookie Company - The LINQ Promenade,"3545 Las Vegas Blvd S, Space L21",Pass
+Starbucks,"2001 E. Lake Mead Blvd, #105",Pass
+Subway,6770 N Durango Dr,Pass
+Sultan's Grill,321 S Casino Center Blvd,Pass
+Jack In the Box,5605 S Rainbow Blvd,Pass
+Manhattan Pizza,"8550 W Charleston Blvd, Ste 105",Pass
+Famous Dave's Bar-B-Que,651 Mall Ring Cir,Pass
+Jack in the Box,6345 Losee Rd,Pass
+Roberto's Taco Shop,4690 W Cactus Ave,Pass
+Cozy's Tavern,4680 S Decatur Blvd,Pass
+Capriotti's Sandwich Shop,11155 S Eastern Ave,Pass
+Subway,4250 E Bonanza Rd,Pass
+Yogurtland,"5635 Centennial Center Blvd, Ste 120",Pass
+Verrazano Pizza,"240 S Rainbow Blvd, Ste 3",Pass
+Carl's Jr,7125 S Rainbow Blvd,Pass
+Onion Steak Sub,"3390 Novat St, Ste 120",Pass
+Sen of Japan,"8480 W Desert Inn Rd, Ste F1",Pass
+Yogis Teriyaki House,4825 S Fort Apache Rd,Pass
+Giordano's,8730 W Charleston Blvd,Pass
+Pasta Shop Ristorante,2525 W Horizon Ridge Pkwy,Pass
+Firehouse Subs,"6070 S Rainbow Blvd, Ste 1",Pass
+Firehouse Subs,"9555 S Eastern Ave, Ste 130",Pass
+Poppy Den,440 S Rampart,Pass
+Pizza Hut,"2233 N. Rampart, #3A",Pass
+Blue Moon Bar,3667 S. Las Vegas Blvd.,Pass
+Seattle's Best Coffee,9777 Las Vegas Blvd S,Pass
+Marco's Pizza,90 S Stephanie St,Pass
+The Great Greek,5020 Blue Diamond Rd,Pass
+Grand Cafe,11011 W Charleston Blvd,Pass
+The Den LV,9837 W Tropicana Ave,Pass
+The Pint,9941 W Charelston Blvd,Pass
+Sno Tiger,"8878 S Eastern Ave, Ste 102",Pass
+Otto Enoteca Pizzeria,3355 Las Vegas Blvd S,Pass
+Pizza Hut,7645 S. Rainbow Blvd.,Pass
+Brewskes Bar & Grille,3645 S Durango Dr,Pass
+Lee's Discount Liquor,4421 N Rancho Dr,Pass
+Pizza Hut,2509 E Lake Mead Blvd,Pass
+Bubby's University,4570 S Hualapai Way,Pass
+Ori'Zaba's Scratch Mexican Grill,7210 S Durango Dr,Pass
+Nestle Toll House Cafe by Chip,"3663 S Las Vegas Blvd, Ste 96",Pass
+McDonald's,10020 S Eastern,Pass
+Counter Cuisine,"6475 W Charleston Blvd, Ste 130",Pass
+Pizzeria Francesco's,3300 Las Vegas Blvd S,Pass
+Fremont Mini Mart,1404 Fremont St,Pass
+Subway,3999 Las Vegas Blvd S,Pass
+The Boiling Crab,4025 S Decatur Blvd,Pass
+Those Guys Pies,2916 Lake E Dr,Pass
+Shooters Bar & Grill,4465 E Sahara Ave,Pass
+Roma Pizza,4310 E Tropicana Ave,Pass
+Eastside Lounge,3131 Las Vegas Blvd S,Pass
+Sitara Hookah Lounge,"9890 S Maryland Pkwy, Ste 18",Pass
+Burger King,2180 E Serene Ave,Pass
+Gabriella's Italian Grill & Pizzeria,"8878 S Eastern Ave, Ste 104",Pass
+Olive Garden Italian Restaurant,1361 S Decatur Blvd,Pass
+King's Fish House- Henderson,"2255 Village Walk Dr, Ste 139, The District at Green Valley Ranch",Pass
+Shucks Tavern & Oyster Bar,7155 N Durango Dr,Pass
+Pizza Hut,4945 W. Craig Road,Pass
+JACK IN THE BOX,8221 S Fort Apache Rd,Pass
+Wingstop,400 N Nellis Blvd,Pass
+Waldorf Astoria Las Vegas,3752 Las Vegas Blvd S,Pass
+Dunkin' Donuts,"7250 S Durango Dr, Ste 100",Pass
+Capriotti's Sandwich Shop,"771 East Horizon Drive, Suite 128",Pass
+Cafe at Harrah's,"Harrah's Las Vegas, 3475 Las Vegas Blvd S",Pass
+Holley's Cuppa,"9265 S Cimarron Rd, Ste 115",Pass
+Carl's Jr Restaurants,1824 E Lake Mead Blvd,Pass
+Eats Italian,3355 Las Vegas Blvd S,Pass
+Albertsons,8410 Farm Rd,Pass
+Taco Bell,10287 W Charleston Blvd,Pass
+KFC,4691 W Ann Rd,Pass
+Pizza Hut,"7065 W. Ann, #110",Pass
+Genghis Grill,550 N Stephanie St,Pass
+Panda Express,"1301 W Sunset Rd, Ste C107",Pass
+Great Links Brewhouse & Grill,"6010 W Craig Rd, Ste 110",Pass
+Jackpot Joanie's,5406 Boulder Hwy,Pass
+Yumz Gourmet Frozen Yogurt,"6135 S Fort Apache Rd, Ste 400",Pass
+Ellis Island BBQ,4178 Koval Ln,Pass
+Ribs & Burgers,"2010 Festival Plaza Dr, Ste 170",Pass
+Boba City Cafe,4126 S Rainbow Blvd,Pass
+Dairy Queen,4438 N Rancho Dr,Pass
+O Face Doughnuts,"124 S 6th St, Ste 140",Pass
+Capriotti's Sandwich Shop,"9210 S Eastern Ave, Ste 115",Pass
+PT's,6055 E Lake Mead Blvd,Pass
+Subway,5111 Boulder Hwy,Pass
+La Piazza,1000 N Main St,Pass
+Starbucks,"2412 E. Desert Inn Road, #100",Pass
+Brando's Sportsbar,3725 Blue Diamond Rd,Pass
+IHOP,5170 S Fort Apache Rd,Pass
+Pt's Gold,4424 West Spring Mountain Rd,Pass
+Taco Bell,5645 S Rainbow Blvd,Pass
+Blaqcat Ultra Hookah Lounge,"6340 W Charleston Blvd, Ste 140",Pass
+Einstein Bros Bagels,1405 W Sunset Rd,Pass
+Salvatore's,9090 Alta Dr,Pass
+Jamba Juice,"1121 S Decatur Blvd, Ste 110",Pass
+Circle K,9487 S Las Vegas Blvd,Pass
+Stage Bar,25 Fremont St,Pass
+Rolled Ice Cream,"9484 W Flamingo Rd, Ste 165",Pass
+Hooters,4321 W Flamingo Rd,Pass
+Jack In the Box,290 S Boulder Hwy,Pass
+Indigo Lounge,"Bally's Las Vegas Hotel & Casino, 3645 Las Vegas Boulevard South",Pass
+The Coffee Bean & Tea Leaf,"6115 S Rainbow Blvd, Ste 101",Pass
+Rounders,4455 S Buffalo Dr,Pass
+Church's Chicken,868 N Nellis Blvd,Pass
+Ben & Jerry's,"2225 Village Walk Dr, Ste 177",Pass
+Pink Kingdom Cafe,155 S Water St,Pass
+Starbucks,4717 W. Charleston Blvd,Pass
+Starbuzz Vegas Hookah Lounge,"384 E Tropicana Ave, Ste 120",Pass
+Jimmy John's,"310 W Lake Mead Pkwy, Ste 100",Pass
+Kahunaville Island Restaurant,3300 Las Vegas Blvd S,Pass
+Five Star Liquor,"280 E Flamingo Rd, Ste B",Pass
+Ron's Steakhouse,740 S Decatur Blvd,Pass
+In-N-Out Burger,6880 N 5th St,Pass
+Speedee Mart No 121,804 E Flamingo Rd,Pass
+Pt's Gold,6610 S Ft Apache Rd,Pass
+Total Wine & More,730 S Rampart Blvd,Pass
+Chipotle Mexican Grill,"10251 S Eastern Ave, Ste 100",Pass
+Long John Silver's,3270 N Durango Dr,Pass
+Frost N' Roll,"2605 S Decatur Blvd, Ste 101",Pass
+Daisho Sushi,7435 S Eastern Ave,Pass
+Starbucks,2233 Paradise Road,Pass
+8th Ave Pizza,"11370 Southern Highlands Pkwy, Ste 110",Pass
+Sagos Spring Mountain,"5020 W Spring Mountain Rd, Ste 7",Pass
+Ethel M Chocolate,2 Cactus Garden Dr,Pass
+Pt's Pub,4420 N Decatur Blvd,Pass
+Capriotti's Sandwich Shop,"9620 Las Vegas Blvd, Ste E5",Pass
+Timbers - Durango,7045 N Durango Dr,Pass
+Port of Subs,"4388 E Craig Rd, Ste 155",Pass
+Polar Snow Las Vegas,1412 W Craig Rd,Pass
+Popcornopolis,3850 Las Vegas Blvd S,Pass
+Starbucks,"8150 S Maryland Pkwy, Ste D-1",Pass
+Irene's Gaming Lounge,6125 W Tropicana Ave,Pass
+The Angry Butcher,5111 Boulder Hwy,Pass
+Jollibee,"9430 W Sahara Ave, Ste 100A",Pass
+Mariana's Supermarket,4151 S Eastern Ave,Pass
+Subway,1 S Main St,Pass
+Chin Chin,3790 Las Vegas Blvd S,Pass
+Taqueria El Tizon Grill,"3266 Las Vegas Blvd N, Ste 9",Pass
+Smith's,2255 E Centennial Pkwy,Pass
+Downtown Terrace,707 Fremont St,Pass
+Subway,"1500 N Green Valley Pkwy, Ste 220",Pass
+Mastro's Ocean Club,3720 S Las Vegas Blvd,Pass
+Domino's Pizza,5124 Camino Al Norte,Pass
+Tee Shots Bar & Grill,"2200 W Horizon Ridge Pkwy, Ste C",Pass
+Starbucks,"8975 S. Eastern Avenue, #A",Pass
+Domino's Pizza,4966 S Maryland Pkwy,Pass
+Pierogi Cafe,1717 S Decatur Blvd,Pass
+The Modern Vegan,700 E Naples Dr,Pass
+Sabatino's Authentic NY Pizzeria,7660 W Cheyenne Ave,Pass
+Subway,"6520 E Lake Mead Blvd, Ste 100",Pass
+Denny's,5045 W Tropicana,Pass
+Fresh Sub,6174 W Flamingo Rd,Pass
+Ferraro's Italian Restaurant And Wine Bar,4480 Paradise Rd,Pass
+Arby's,4954 Boulder Hwy,Pass
+Poke Express,"19 S Stephanie St, Ste 140",Pass
+Smith's,9750 S Maryland Pkwy,Pass
+48th and Crepe,3790 S Las Vegas Blvd,Pass
+Fluff Ice,"6825 W Russell Rd, Ste 135",Pass
+Jack in the Box,4970 Spring Mountain Rd,Pass
+Station Casino,1505 S Pavilion Ctr Dr,Pass
+Capriotti's Sandwich Shop,4480 Paradise Rd,Pass
+Yorky's,5325 S Fort Apache Rd,Pass
+New Day Cafe,9890 S Maryland Pkwy,Pass
+Blueberry Hill Restaurant and Lounge,2855 N Green Valley Pkwy,Pass
+El Pollo Loco,4292 Blue Diamond Rd,Pass
+Nekter Juice Bar,"2025 Festival Plaza Dr, Ste 100",Pass
+Papa John's Pizza,9255 S Eastern Ave,Pass
+Smart & Final Extra,1941 N Decatur Blvd,Pass
+Greens and Proteins,6180 N Decatur,Pass
+Rise & Shine a Steak & Egg Place,9827 W Flamingo Rd,Pass
+Port of Subs,5516 Boulder Hwy,Pass
+Lo-Lo's Chicken and Waffles,2040 N Rainbow Blvd,Pass
+El Pollo Loco,274 W Lake Mead Pkwy,Pass
+Barcelona Tapas Restaurant,1501 W Sahara Ave,Pass
+Mixers Ice Cream & Boba,"5625 S Rainbow Blvd, Ste D",Pass
+Wendy's,603 W Lake Mead Pkwy,Pass
+Kiton Kitchen,6840 W Sahara Ave,Pass
+Artifice,"1025 S 1st St, Ste 100",Pass
+5 Below Creamery,"5060 S Fort Apache, Ste 175",Pass
+One5 Lakeside,"15 Via Bel Canto, Ste 100",Pass
+McMullan's Irish Pub,4650 W Tropicana Ave,Pass
+PT's,2135 E Centennial Pkwy,Pass
+Walmart,201 N Nellis Blvd,Pass
+The Daily Egg,"5255 S Decatur Blvd, Ste 115",Pass
+Wendy's,1151 S Rainbow Blvd,Pass
+Nanny's,8453 W Lake Mead Blvd,Pass
+Popeyes Louisiana Kitchen,6110 W Sahara Avenue,Pass
+Sweet Addiction,"5165 S Fort Apache Rd, Ste 160",Pass
+Quiznos,901 S Rancho Dr,Pass
+The Coffee Bean & Tea Leaf,3355 Las Vegas Blvd S,Pass
+Spotlight Lounge,975 E Sahara Ave,Pass
+Hawaiian Style Poke,3524 Wynn Rd,Pass
+Dealer's Choice Lounge,4552 Spring Mountain Rd,Pass
+Fruits and Roots,"7885 W Sunset Rd, Ste 180",Pass
+The Protein Source,"7060 S Durango Dr, Ste 115",Pass
+The Coffee Bean & Tea Leaf,"3265 S Las Vegas Blvd, #1600",Pass
+Copper Whisk Café,4500 W Tropicana Ave,Pass
+Olive Garden Italian Restaurant,6850 W Cheyenne Ave,Pass
+Chipotle Mexican Grill,"6211 N Decatur Blvd, Ste 110",Pass
+McDonald's,1003 E Lake Mead Blvd,Pass
+Panda Express,3785 S Las Vegas Blvd,Pass
+The Game,9090 Alta Dr,Pass
+Top of Binion's Steakhouse,128 Fremont St,Pass
+Distill - A Local Bar,4830 W Pyle Ave,Pass
+Capriotti's Sandwich Shop,"6965 S Rainbow Blvd, Ste 104",Pass
+Smith's Store,2385 E Windmill,Pass
+Port of Subs,8615 W Flamingo Rd,Pass
+Rum Runner,3050 E Desert Inn Rd,Pass
+Taco Bell,2351 Ft. Apache,Pass
+Westside Deli,2880 S Las Vegas Blvd,Pass
+Smashburger,"5130 S Fort Apache Rd, Ste 240",Pass
+Starbucks,"1331 W. Warm Springs Road, #100",Pass
+Blue Ox East Restaurant & Lounge,4130 S Sandhill Rd,Pass
+Sakura Japanese Cuisine,6850 Spring Mountain Rd,Pass
+Corduroy,515 Fremont St,Pass
+The Cheesecake Factory,160 S Green Valley Pkwy,Pass
+Firefly,3824 Paradise Rd,Pass
+Walgreens,"3025 Las Vegas Blvd S, Ste A",Pass
+McDonald's,6595 N Decatur Blvd,Pass
+Hershey's Chocolate World,3790 Las Vegas Blvd S,Pass
+Carl's Jr.,8660 Warm Springs Rd,Pass
+Mixers Ice Cream & Coffee,"5625 S Rainbow Blvd, Ste D",Pass
+Four Mile Bar,3650 Boulder Hwy,Pass
+Yogurtland,"509 N Stephanie St, Ste D",Pass
+Raising Cane's,7550 S Las Vegas Blvd,Pass
+ProteinHouse,"9555 S Eastern Ave, Ste 125",Pass
+Wildburger @ Wildfire Lanes,4451 E Sunset Rd,Pass
+Starbucks,"5715 S. Eastern Ave., 101",Pass
+Cannery Casino and Hotel,2121 E Craig Rd,Pass
+PoshBurger Bistro,"9921 W Charleston Blvd, Ste 6",Pass
+Outpost Saloon,2200 N Rainbow Blvd,Pass
+Pussycats Adult Nightclub,3525 Procyon Ave,Pass
+Starbucks,"3850 Las Vegas Blvd So, Excalibur - Las Vegas Food Court",Pass
+Lobster ME,"Grand Canal Shoppes at The Venetian, 3377 South Las Vegas Blvd",Pass
+La Casa Cigars & Lounge,"430 S Rampart Blvd, Ste 170",Pass
+Golden Spoon Frozen Yogurt,"8680 W Warm Springs Rd, Ste 110",Pass
+Rainforest Cafe,3717 S Las Vegas Blvd,Pass
+Meepleville Board Game Cafe,"4704 W Sahara Ave, Ste 2",Pass
+Magura,"3242 E Desert Inn Rd, Ste 15",Pass
+Del Taco,5180 S Fort Apache Rd,Pass
+Putter's Bar & Grill,7150 S Durango Dr,Pass
+Little Caesar's,"3545 S Fort Apache Rd, Unit  115",Pass
+Carl's Jr.,2380 E Flamingo Rd,Pass
+Capriotti's Sandwich Shop,"8450 W Sahara Ave, Ste 116",Pass
+Lawry's The Prime Rib,4043 Howard Hughes Pkwy,Pass
+Carefree Catering,439 Rock Quarry Way,Pass
+Rhumbar,3400 Las Vegas Blvd S,Pass
+Jake's Bar,2301 S Eastern Ave,Pass
+Pepe's Tacos 3,4814 Boulder Hwy,Pass
+Las Pupusas,"7450 W Cheyenne Ave, Ste A108",Pass
+Jimmy John's,"2595 E Craig Rd, Ste A",Pass
+McDonald's,8060 W Tropical Pkwy,Pass
+Jimmy John's,7210 W Lake Mead Blvd,Pass
+Cheffini's Hot Dogs,"707 Fremont St, Ste 1050",Pass
+Subway,2265 E Cheyenne Ave,Pass
+Dairy Queen,2335 W Deer Springs Way,Pass
+Bailey's Sports Bar & Eatery,4341 N Rancho Dr,Pass
+SC Prime Steakhouse & Bar,9090 Alta Dr,Pass
+Le Petit Café & Bakery,"6496 Medical Center St, Ste 100",Pass
+Montana Meat Company,6371 Centennial Center Blvd,Pass
+Painted Desert Golf Club,5555 Painted Mirage Rd,Pass
+McDonald's,8425 W Centennial,Pass
+Don Vito's Italian,9777 S Las Vegas Blvd,Pass
+Bar at Times Square,3790 Las Vegas Blvd S,Pass
+Wendy's,7355 S Eastern Ave,Pass
+Sonic Drive-In,6301 W Lake Mead Blvd,Pass
+The Black Sheep,8680 W Warm Springs Rd,Pass
+Club Cappuccino,3555 Las Vegas Blvd S,Pass
+Nutrition Rush,9691 Trailwood Dr,Pass
+Del Taco,7757 N El Capitan Way,Pass
+Jimmy John's,4469 W Flamingo Rd,Pass
+Beano's Casino,7200 W Lake Mead Blvd,Pass
+Starbucks,4800 S. Eastern Avenue,Pass
+Soulfish Poké,"8680 W Warm Springs Rd, Ste 110",Pass
+Rounders Anthem,2940 Bicentennial Pkwy,Pass
+Sonic Drive-In,7390 W Cheyenne Ave,Pass
+McDonald's,5740 Losee Rd,Pass
+McDonald's,1195 E Sahara Ave,Pass
+Double Shots Bar,3430 E Tropicana Ave,Pass
+Ethel M Chocolates,12 E Ogden Ave,Pass
+Nacho Daddy,9560 W Sahara Ave,Pass
+Subway,"3735 Spring Mountain, Ste 201",Pass
+McDonald's,2896 S Las Vegas Blvd,Pass
+Roberto's Taco Shop,7251 W Azure Dr,Pass
+Subway,6150 W Charleston Blvd,Pass
+SUGARCANE Raw Bar Grill,3355 Las Vegas Blvd S,Pass
+Costco Food Court,801 S Pavilion Center Dr,Pass
+Binion's Cafe,128 Fremont St,Pass
+Wendy's,11011 S Eastern Ave,Pass
+Jake & Eli,160 E Flamingo Rd,Pass
+Subway,600 E Warm Springs Rd,Pass
+Big Dog's Draft House,4543 N Rancho Dr,Pass
+Port of Subs,"3281 S Highland Dr, Ste 802",Pass
+Chevron / Terrible Herbst,2353 E Warm Springs Rd,Pass
+Crab Corner,6485 S Rainbow Blvd,Pass
+Ori'Zaba's Scratch Mexican Grill,1263 E Silverado Ranch Blvd,Pass
+Popped,"3700 S Hualapai Way, Ste 108",Pass
+Chef On The Road,"7435 S Eastern Ave, Ste 109",Pass
+Paymons Mediterranean Cafe & Hookah Lounge,8380 W Sahara Ave,Pass
+Tropical Smoothie Cafe,"76 West Horizon Ridge Parkway, Suite  # 120",Pass
+Village Pub & Poker,2301 E Sunset Rd,Pass
+Pt's Gold,6235 S Decatur Blvd,Pass
+Rice & Company,3900 Las Vegas Blvd S,Pass
+Artisanal Foods Cafe,2053 Pama Ln,Pass
+Presto Calzone Bakery,"7501 N Cimarron Rd, Ste 108",Pass
+Sundance Kid Cafe,4325 W Craig Rd,Pass
+IHOP,5280 E Craig Rd,Pass
+Fresh Boba Tea,1033 South Rainbow Blvd,Pass
+Sahara Hotel,2535 Las Vegas Blvd S,Pass
+The Griffin,511 Fremont St,Pass
+Blaze Fast Fired Pizza,7160 N Durango Dr,Pass
+The Rockhouse,"3355 S Las Vegas Blvd, Ste 3200",Pass
+Sumo Sushi 2,"8795 W Warm Springs Rd, Ste 106",Pass
+El Gordito,5815 W Tropicana,Pass
+Yogurtland,"2272 S Nellis Blvd, Ste 4",Pass
+The Liquor Outlet,9620 S Las Vegas Blvd,Pass
+Terrible Herbst,3320 Novat St,Pass
+La Bonita Supermarket,4120 S Rainbow Blvd,Pass
+Zeffirino,"3377 Las Vegas Blvd S, Ste 2095, The Venetian",Pass
+Smashburger,9101 W Sahara Ave,Pass
+Yogurtland,"9055 S Eastern Ave, Ste 1A",Pass
+Carl's Jr,9040 W Sahara,Pass
+Starbucks,"3570 Las Vegas Blvd S, Caesars Palace-Augustus Towers, Caesars Palace",Pass
+Feast Buffet,2101 Texas Star Ln,Pass
+Sprouts Farmers Market,515 N Stephanie St,Pass
+TGI Fridays,4330 E Sunset Rd,Pass
+Cafe Gelato,3600 S Las Vegas Blvd,Pass
+Auntie Anne's,"1300 W Sunset Rd, Ste 2423",Pass
+Yui Edomae Sushi,"3460 Arville St, Ste HS",Pass
+Mykonos Greek Cuisine,"9320 Sun City Blvd, Ste 101",Pass
+Larry Flynt's Hustler Club,6007 Dean Martin Dr,Pass
+El Pollo Loco,7310 S Rainbow Blvd,Pass
+Rivas Mexican Grill,"6700 W Charleston Blvd, Ste C",Pass
+Dickey's Barbecue Pit,7430 Las Vegas Blvd. South,Pass
+Starbucks,201 S Stephanie St,Pass
+Total Wine & More,501 N Stephanie St,Pass
+Del Taco,898 S Boulder Hwy,Pass
+Veranda,"Four Seasons Hotel, 3950 S Las Vegas Blvd",Pass
+LMJ Cafe,"4955 E Craig Rd, Ste 3",Pass
+Firehouse Subs,"9540 W. Flamingo Ave., Ste 165",Pass
+Mimi's Cafe,1121 S Fort Apache,Pass
+Palm Pizza,3411 E Charleston Blvd,Pass
+Timbers Rancho,4061 N Rancho Dr,Pass
+Scotty Beans Coffee Shop & Deli,9940 Las Vegas Blvd S,Pass
+Starbucks,"7260 S. Rainbow, Suite 100",Pass
+IHOP,1230 W Warm Springs Rd,Pass
+Domino's Pizza,3395 E Tropicana Ave,Pass
+Taco Bell,2118 W Craig Rd,Pass
+Totally Olive,10271 S Eastern Ave,Pass
+Wendy's,4560 N Rancho Dr,Pass
+Coyote Ugly Saloon,3790 Las Vegas Blvd S,Pass
+Carl's Jr.,6949 N Durango Dr,Pass
+Sonic Drive-In,3340 E Flamingo Rd,Pass
+Burger King,3401 E Tropicana Ave,Pass
+Burger King,209 N Pecos Rd,Pass
+Shawarma House,"5861 W Craig Rd, Ste 103",Pass
+Panera Bread,365 Hughes Center Dr,Pass
+Capriotti's Sandwich Shop,170 N Boulder Hwy,Pass
+North Beach Italian Bistro,7770 W Ann Rd,Pass
+Vic & Anthony's Steakhouse,129 E Fremont St,Pass
+Lindo Michoacan,2655 E Desert Inn Rd,Pass
+Burger King,8699 W Sahara Ave,Pass
+P.F. Chang's,1095 S Rampart Blvd,Pass
+Pamplemousse Le Restaurant,400 E Sahara Ave,Pass
+Papa Murphy's,"7210 S. Durango Dr., Suite A",Pass
+Taco Bell,2025 Buffalo Dr,Pass
+Subway,8110 W Warm Springs Blvd,Pass
+Fazoli's,1260 N Town Center Dr,Pass
+Farm Basket,6148 W Charleston Blvd,Pass
+Buffalo Wild Wings,190 W Craig Rd,Pass
+Carl's Jr Restaurants,3866 W Sahara Ave,Pass
+Panda Express,11011 W Charleston Blvd,Pass
+Taqueria El Pastorcito,1655 E Charleston Blvd,Pass
+The Goodwich Downtown,"900 S Las Vegas Blvd, Ste 120",Pass
+Tia's Cafe,1717 S Decatur Blvd,Pass
+Taco Bell,401 S Decatur Blvd,Pass
+Munchies,6390 W Lake Mead Blvd,Pass
+Johnny Rockets,"Palace Station, 2411 West Sahara Ave",Pass
+Veganbites,"8876 S Eastern Ave, Ste 101",Pass
+Mickey's Cues & Brews,"7380 S Eastern Ave, Ste 104",Pass
+Liquor Outlet,1725 E Warm Springs Rd,Pass
+Blueberry Hill Family Restaurant,3790 E Flamingo Rd,Pass
+Burger King,6677 W Cheyenne Ave,Pass
+Don Tortaco Mexican Grill,"430 E Silverado Ranch, Ste 100",Pass
+Rosati's,"72 W Horizon Ridge Pkwy, Ste 140",Pass
+Honolulu Cookie Company - Grand Canal Shoppes,3327 Las Vegas Blvd S,Pass
+Starbucks,9725 S. Maryland,Pass
+Dutch Bros Coffee,2245 N Las Vegas Blvd,Pass
+Green Valley Ranch Resort & Spa,2300 Paseo Verde Pkwy,Pass
+Blaze Fast-Fire'd Pizza,6211 N Decatur Blvd,Pass
+Born And Raised,10050 S Eastern Ave,Pass
+Jack in the Box,4145 S Durango Dr,Pass
+Roberto's Taco Shop,5111 Boulder Hwy,Pass
+Raspados Playas,3416 E Lake Mead Blvd,Pass
+Fresh & Easy,5639 Centennial Center Blvd,Pass
+Jack in the Box,1480 W Lake Mead Blvd,Pass
+Memphis Championship Barbecue,2250 E Warm Springs Rd,Pass
+Firehouse Subs,"7865 W. Sahara Blvd., Ste 105",Pass
+Checkers,825 N. Rancho Dr,Pass
+Nine Fine Irishmen,3790 Las Vegas Blvd S,Pass
+Krispy Kreme,9791 S Eastern Ave,Pass
+Red Rock Casino Resort & Spa,11011 W Charleston Blvd,Pass
+LVAC Juice Bar,6050 N Decatur Blvd,Pass
+Piranha Nightclub,4633 S Paradise Rd,Pass
+UNLV Student Union,4505 S Maryland Pkwy,Pass
+Lakes Lounge,2920 Lake East Dr,Pass
+Binion's Deli,128 Fremont St,Pass
+JB's Smokehouse Jerky,2210 S Rainbow Bvld,Pass
+The Melting Pot-Las Vegas,8704 W Charleston Blvd,Pass
+Blizz Frozen Yogurt,4321 W Flamingo Rd,Pass
+Chef Zen,"4135 S Buffalo Dr, Ste 102",Pass
+Shawarma Vegas,2521 S Fort Apache Rd,Pass
+Papa John's Pizza,8574 W Lake Mead Blvd,Pass
+Smoothie King,"6530 N Buffalo Dr, Ste 150",Pass
+Sunset Market Bait & Tackle,1000 E Lake Mead Pkwy,Pass
+Via Brasil Steakhouse on South Fort Apache and Charleston,"1225 S Fort Apache Rd, Ste 100",Pass
+McDonald's,2650 W Sahara,Pass
+Denny's,5318 Boulder Hwy,Pass
+Madison Avenue Bar & Grille,"855 E Twain Ave, Ste 114",Pass
+Layla Grill & Hookah,"8665 W Flamingo Rd, Ste 107",Pass
+Sierra Gold,"2400 N Buffalo Dr, Ste 125",Pass
+Meráki Greek Grill,"4950 S Rainbow Blvd, Ste 160",Pass
+Yogurtland,6050 N Decatur Blvd,Pass
+Auntie Anne's,"7400 Las Vegas Blvd, Unit C-2",Pass
+Peter Piper Pizza,2131 S Decatur Blvd,Pass
+Great American Food,7790 S Jones Blvd,Pass
+KD Donuts & Kolaches,4650 E Sunset Rd,Pass
+Furnace,206 N 3rd St,Pass
+Buca di Beppo Italian Restaurant,3850 S Las Vegas Blvd,Pass
+El Pollo Loco,2923 Craig Rd,Pass
+Shucks Tavern & Oyster Bar,9338 W Flamingo Rd,Pass
+Bonanza Lounge,4301 E Bonanza Rd,Pass
+Outback Steakhouse,3411 Las Vegas Blvd S,Pass
+Subway,"4035 S Durango Dr, Ste 102",Pass
+Five Star Tavern,2425 N Rainbow Blvd,Pass
+Einstein Bros Bagels,"6770 N Durango Dr, Ste 140",Pass
+El Pollo Loco,4011 E Charleston Blvd,Pass
+Bounty Hunter,415 E Windmill Ln,Pass
+Big Paul's BBQ,"3025 E Desert Inn, Ste 1",Pass
+Lindbergh & Lindbergh Cafe,1985 Festival Plaza Dr,Pass
+Quiznos,"6420 S Pecos Rd, Ste C",Pass
+Roberto's Taco Shop,"6355 N Commerce St, Ste 103A",Pass
+Robert Irvine's Public House,3801 S Las Vegas Blvd,Pass
+Popeyes Louisiana Kitchen,60 N Stephanie St,Pass
+Carl's Jr.,5091 E Bonanza Rd,Pass
+Rachel's Kitchen,2265 Village Walk Dr,Pass
+Railroad Pass Hotel & Casino,1500 Railroad Pass Casino Rd,Pass
+Starbucks,"3370 S. Hualapai Way, #H",Pass
+Mamma's Boy Cafe,"1100 N Martin Luther King Dr, Ste G",Pass
+Carl's Jr.,2670 E Craig Rd,Pass
+Subway,"2365 E Bonanza Rd, Unit 9, Vegas Plaza",Pass
+Sun City Express,6050 Smoke Ranch Rd,Pass
+Egg Works,2490 E Sunset Rd,Pass
+Gold Mine Tavern,23 S Water St,Pass
+Lee's Discount Liquor,9355 W Flamingo Rd,Pass
+The Westin Las Vegas Hotel & Spa,160 East Flamingo Rd,Pass
+Panda Express,"1735 W Craig Rd, Ste 1",Pass
+McDonald's,2640 E Tropicana Ave,Pass
+Moon Doggies,3240 Arville St,Pass
+Jamba Juice,9091 W Sahara,Pass
+Starbucks,"3801 Las Vegas Blvd S, Tropicana Hotel Lobby",Pass
+Town Center Lounge,6050 Sky Pointe Dr,Pass
+BabyStacks Cafe,"4135 S Buffalo Dr, Ste 101",Pass
+Sonic Drive-In,4260 W Flamingo Rd,Pass
+Golden Spoon,"1651 W Horizon Ridge Pkwy, Ste 100",Pass
+Ori'Zaba's Scratch Mexican Grill,3318 E Flamingo Rd,Pass
+Rolled Ice Cream,"9500 S Eastern Ave, Ste 110",Pass
+Valley Cheese & Wine,"1570 W Horizon Ridge Pkwy, Ste 140",Pass
+Starbucks,11720 W. CHARLESTON BLVD,Pass
+Go Greek Yogurt,3355 S Las Vegas Blvd,Pass
+SkinnyFATS,"2010 Festival Plaza Dr, Ste 170",Pass
+California Pizza Kitchen at The Park,"3786 S Las Vegas Blvd, The Park",Pass
+McDonald's,6680 E Lake Mead Blvd,Pass
+Beach St. Pizza,1780 N Buffalo Dr,Pass
+Menchie's Frozen Yogurt,"111 N Nellis Blvd, Ste 140",Pass
+Charlie's Down Under,1950 N Buffalo Dr,Pass
+Tony Roma's,620 E Sahara Ave,Pass
+Nobu,3570 Las Vegas Blvd S,Pass
+Subway,"6870 Spring Mountain Rd, Ste 104",Pass
+Mr. Lucky's 24-7,4455 Paradise Rd,Pass
+Share Nightclub,4636 Wynn Rd,Pass
+Original Chicken Tender,"Monte Carlo Hotel & Casino Food Court, 3770 Las Vegas Blvd. South",Pass
+Smith's,4840 W Desert Inn Rd,Pass
+Whole Foods Market,8855 W Charleston Blvd,Pass
+Silverton Casino,3333 Blue Diamond Rd,Pass
+Sands Expo,201 Sands Ave,Pass
+Whole Foods Market,100 S Green Valley Pkwy,Pass
+Three Square,4190 N Pecos Rd,Pass
+Starbucks,"1990 Village Center Circle, Suite 1",Pass
+Mr G's Pub & Grub,"3342 E Sandhill Rd, Ste 11",Pass
+"Coffee, Tea, or Me","2600 W Sahara Ave, Ste 121",Pass
+Metro Pizza,6720 Sky Pointe Dr,Pass
+Chipotle Mexican Grill,3475 Las Vegas Blvd S,Pass
+Camille By Manon,2170 S  Rainbow Blvd,Pass
+Shabu Shabu Paradise,"1716 W Horizon Ridge Pkwy, Ste 110",Pass
+Marcos Pizza,5061 E Sahara Ave,Pass
+Brooklyn Bagel,10604 S Eastern Ave,Pass
+Dollar General Market,2224 S Nellis Blvd,Pass
+Wing King,"Adrenaline Sports Bar & Grill, 3103 N Rancho Dr",Pass
+Burger King,8600 W Cheyenne Ave,Pass
+Jones Market & Deli,3389 S Jones Blvd,Pass
+Jack in the Box,6451 Boulder Hwy,Pass
+Wetzel's Pretzels,"7400 Las Vegas Blvd S, Ste K145",Pass
+Mariscos El Mariachi,552 N Eastern Ave,Pass
+Dunkin' Donuts,"4503 Paradise Rd, Ste 110",Pass
+Waffles Cafe,"6885 Aliante Pkwy, Ste 103",Pass
+Target,8750 W Charleston Blvd,Pass
+Tasty Crepes,4845 S Fort Apache Rd,Pass
+The Buffet at Bellagio,3600 S Las Vegas Blvd,Pass
+Rubalcabas Taco Shop,5185 E Lake Mead Blvd,Pass
+Sonic Drive-In,300 S Boulder Hwy,Pass
+Three Sheets Craft Beer Bar,1115 S Casino Center Blvd,Pass
+Dunkin' Donuts,"5861 W Craig Rd, Ste 101",Pass
+Fatburger,3763 Las Vegas Blvd S,Pass
+Nevada Chicken Cafe,6155 W Sahara Ave,Pass
+Cold Stone Creamery,"9785 S Maryland Pkwy, Ste A1",Pass
+McDonald's,1807 W Craig Rd,Pass
+Margaritaville Casino,3555 South Las Vegas Blvd,Pass
+Great Buns Bakery,3270 E Tropicana Ave,Pass
+Arby's,6979 Aliante Pkwy,Pass
+Barley Pop's,3328 E Charleston Blvd,Pass
+KFC,1990 N Nellis Blvd,Pass
+Marrakesh Express,101 Montelago Blvd,Pass
+Rustic Lounge,1817 North Boulder Hwy,Pass
+Baja Fresh Mexican Grill,675-A Mall Ring Cir,Pass
+Great Harvest Bread Company,661 Marks St,Pass
+Vintner Grill,"10100 W Charleston Blvd, Ste 150",Pass
+Cake World Bakery,220 N Maryland Pkwy,Pass
+Sambalatte,100 N City Pkwy,Pass
+Roberto's Taco Shop,8580 W Lake Mead Blvd,Pass
+The Waterhole,"5115 Spring Mountain Rd, Ste 123",Pass
+The Tap House,5589 W Charleston Blvd,Pass
+Starbucks,"4010 South Rainbow Blvd., #A",Pass
+Cicis,2415 E Tropicana Ave,Pass
+Las Famosas De Jose,577 E Twain Ave,Pass
+Red Robin Gourmet Burgers,"1300 W Sunset Rd, Ste 2545",Pass
+Boulder Station Pasta Cucina,4111 Boulder Hwy,Pass
+Earl of Sandwich,3570 S Las Vegas Blvd,Pass
+Arby's,2590 E Tropicana Ave,Pass
+Charlie's Las Vegas,"5012 Arville St, Ste 4",Pass
+Starbucks,160 E Flamingo Rd,Pass
+Hard Rock Cafe,4475 Paradise Rd,Pass
+Roberto's Taco Shop,"1380 W Cheyenne Ave, Ste 103",Pass
+Long John Silver's,240 E Lake Mead Dr,Pass
+Arby's,6010 W Flamingo Rd,Pass
+Gelato Messina,"2010 Festival Park Dr, Ste 130",Pass
+Pizza Hut,3925 N. Martin L King Blvd. #101,Pass
+Steiner's,8410 W Cheyenne Ave,Pass
+Body English,"Hard Rock Hotel & Casino, 4455 Paradise Rd",Pass
+Encore Beach Club,3131 Las Vegas Blvd S,Pass
+Freddy's Frozen Custard & Steakburgers,1290 W Warm Springs Rd,Pass
+Flavors The Buffet,3475 Las Vegas Blvd S,Pass
+Applebee's Neighborhood Grill & Bar,8730 W Charleston Blvd,Pass
+Bahama Buck's,"6315 Losee Rd, Ste 101",Pass
+Cottage Cafe,4647 Paradise Rd,Pass
+Quiznos,"4985 W Tropicana Ave, Ste 101",Pass
+Tacos Mexico,1205 E Charleston Blvd,Pass
+Jack in the Box,4640 E Russell Rd,Pass
+Surf City Squeeze,"4300 Meadows Ln, Ste 500, Space 500",Pass
+Panda Express,7300 Aliante Pkwy,Pass
+Wahoo's Fish Tacos,7020 W Sunset Rd,Pass
+Panda Express,4505 Maryland Pkwy,Pass
+Papa Murphy's,2760 West Deer Springs Way,Pass
+The Juice Standard,"3708 Las Vegas Blvd S, Level 2, Boulevard Tower",Pass
+Streets of New York,"5135 S Fort Apache, Ste #35",Pass
+Fatburger,2845 S Nellis Blvd,Pass
+Jersey Mike's Subs,5595 Simmons St,Pass
+El Pollo Loco,2400 E Lake Mead Blvd,Pass
+Scooter's Pub,6200 S Rainbow Blvd,Pass
+Short Line Express Market,6698 Sky Pointe Dr,Pass
+Jack In the Box,3680 Blue Diamond Rd,Pass
+Greenberg's Deli,3790 Las Vegas Blvd S,Pass
+Café Fiesta,777 W Lake Mead Pkwy,Pass
+New York Pretzel,"New York New York Hotel and Casino Mezzanine Level, 3790 Las Vegas Blvd S",Pass
+Rubicon Club & Grill,9151 S Las Vegas Blvd,Pass
+Ori'Zaba's Scratch Mexican Grill,1 S Main St,Pass
+Encore Lobby Bar,3131 Las Vegas Blvd S,Pass
+Outback Steakhouse,1950 N Rainbow Blvd,Pass
+Tropical Smoothie Cafe,5035 S Fort Apache Rd,Pass
+Fleming's Prime Steakhouse & Wine Bar,8721 W Charleston Blvd,Pass
+Little Caesars Pizza,"4388 East Craig Rd Suite 135, Ste 135",Pass
+QDOBA Mexican Eats,"5045 W Tropicana Ave, Unit 115",Pass
+Fausto's Mexican Grill,229 N Stephanie St,Pass
+Roberto's Taco Shop,1101 S Fort Apache Rd,Pass
+The Phoenix Bar & Lounge,4213 W Sahara Ave,Pass
+Jack In the Box,1430 W Horizon Ridge Pkwy,Pass
+Quickee Burgers,8846 S Eastern Ave,Pass
+Costco Food Court,791 Marks St,Pass
+Renaissance Las Vegas Hotel,3400 Paradise Rd,Pass
+Roberto's Taco Shop,5335 S Decatur Blvd,Pass
+Del Taco,6311 Centennial Center Blvd,Pass
+Seven Seas Restaurant & Lounge,808 W Lake Mead Blvd,Pass
+Mimi's Cafe,596 N Stephanie St,Pass
+McDonald's,4350 N Nellis Blvd,Pass
+Little Hong Kong,"4375 N Las Vegas Blvd, Ste 13 & 14",Pass
+Plumeria Thai Cafe,6710 W Cheyenne Ave,Pass
+Clark County Detention Center,330 S Casino Center Blvd,Pass
+BabyStacks Cafe,"2400 N Buffalo Dr, Ste 145",Pass
+Roberto's Taco Shop,193 N Gibson Rd,Pass
+Smith's,8555 W Sahara Ave,Pass
+H&H BBQ Plus 2,4510 N Rancho Dr,Pass
+Five Guys,"7580 S Las Vegas Blvd, Ste 120",Pass
+Lulu's Bread & Breakfast,6720 Skypointe Dr,Pass
+The Lodge Hualapai,3460 S Hualapai Way,Pass
+All About Catering,"450 S Buffalo Dr, Ste 103",Pass
+Rebel Oil,601 W Lake Mead Pkwy,Pass
+Cafe Rio,7664 W Lake Mead Blvd,Pass
+Teriyaki Boy Healthy Grill,1725 N Rainbow Blvd,Pass
+Walmart Neighborhood Market,6570 E Lake Mead Blvd,Pass
+Sambalatte Torrefazione,"750 S Rampart Blvd, Ste 9",Pass
+Pizza Hut,"1500 N. Green Valley Pkwy., #120",Pass
+I Love Burgers,"6569 S Las Vegas Blvd, Ste 176",Pass
+Tropical Smoothie Cafe,"3595 East Bonanza Road, Suite 110",Pass
+Papa Murphy's,"655 S Green Valley PKWY, Ste 100",Pass
+Del Taco,3244 E Desert Inn Rd,Pass
+Corner Cakes,3799 Las Vegas Blvd S,Pass
+Breakfast & Burgers,3850 S Las Vegas Blvd,Pass
+Mimi's Cafe,6760 N Durango Dr,Pass
+Jimmy John's,"2950 S Durango Dr, Ste 135",Pass
+Burger King,1270 W Warm Springs Rd,Pass
+Kopper Keg Lounge,2375 E Torino Ave,Pass
+Hookah Palace,1030 E Flamingo Rd,Pass
+Aces Bar & Grill,"7272 S El Capitan Way, Ste 2",Pass
+Magoo's Hideaway,6985 W Sahara Ave,Pass
+Liaison Nightclub,"Bally's Hotel & Casino, 3645 Las Vegas Boulevard South",Pass
+Jack In the Box,"26 W Horizon Ridge Pkwy, Ste 110",Pass
+Burger King,105 S Rainbow Blvd,Pass
+Hi Scores - Blue Diamond,4785 Blue Diamond Rd,Pass
+Jamba Juice,365 Hughes Center Dr,Pass
+Denny's,3397 S Las Vegas Blvd,Pass
+Raising Cane's Chicken Fingers,1950 E Craig Rd,Pass
+Ninja Karaoke,1009 S Main St,Pass
+Starbucks,8540 W Desert Inn Rd,Pass
+Subway,5546 Camino Al Norte,Pass
+ColdPress Express,2010 Festival Plaza Dr,Pass
+Ice Pan,"3475 Las Vegas Blvd S, Fl 2",Pass
+Little Caesars Pizza,"10608 Suite A S. Eastern Ave., Ste A",Pass
+Papa Murphy's,6462 Losee Road,Pass
+Denny's,3081 S Maryland Park,Pass
+The Bootlegger Italian Bistro,"7700 Las Vegas Blvd S, Ste 1",Pass
+Buffalo Wild Wings,"4280 Hualapi, #108",Pass
+Ondori Asian Kitchen,4500 W Tropicana Ave,Pass
+Soho Sushi Burrito,"6040 W Badura Ave, Ste 150",Pass
+Subway,"6440 Sky Pointe Dr, Ste 140",Pass
+Chipotle Mexican Grill,"7340 Arroyo Crossing Pkyw, Ste 100",Pass
+Subway,6530 S Decatur Blvd,Pass
+Capriotti's Sandwich Shop,"3830 E Flamingo Rd, Ste E5",Pass
+Sam's Club,1910 E. Serene,Pass
+Purple Penguin Snowcone Shack,10490 S Decatur Blvd,Pass
+La Bonita Grocery,2405 E Ogden Ave,Pass
+Subway,"9845 S Maryland Pkwy, Ste A",Pass
+Madhouse Coffee,8899 S Eastern Ave,Pass
+Rincon De Buenos Aires,5300 Spring Mountain Rd,Pass
+Boca Do Brasil,4825 S Fort Apache Rd,Pass
+Egg Works,6960 S Rainbow Blvd,Pass
+Alexander's Pizza,5020 Broadbent Blvd,Pass
+In-N-Out Burger,3882 Blue Diamond Rd,Pass
+Chica,"3355 South Las Vegas Blvd, Ste 106",Pass
+Subway,1961 N Nellis Blvd,Pass
+Putter's Bar & Grill,7790 W Cheyenne Ave,Pass
+Klondike Sunset Casino,444 W Sunset Rd,Pass
+Taco Bell,7060 S Jones Blvd,Pass
+Jojo's Jerky,"3310 S Jones Blvd, Ste F-2",Pass
+Ben & Jerry's,"3663 Las Vegas Blvd, Ste 520",Pass
+The Bagel Cafe,301 N Buffalo Dr,Pass
+Bounty Hunters,8450 Westcliff Dr,Pass
+Farmer Boys,5955 S Eastern Ave,Pass
+Jack in the Box,1261 W Warm Springs Rd,Pass
+Onyx Bar,11011 W Charleston Blvd,Pass
+VooDoo Beach,"Rio All-suite Hotel Casino, 3700 W Flamingo Rd, Rio All-suite Hotel Casino",Pass
+Carl's Jr Restaurants,3185 W Ann Rd,Pass
+McDonald's,3175 N Rancho,Pass
+Starbucks,122 East Clark Ave,Pass
+Kauai Cafe,"10140 W Tropicana Ave, Ste 122",Pass
+Jack In the Box,5 S Gibson Rd,Pass
+Starbucks,"7541 West Lake Mead Boulevard, Suite 300",Pass
+Teriyaki Madness,"4503 Paradise Rd, Ste 320",Pass
+In-N-Out Burger,9610 W Tropicana Ave,Pass
+Goodtimes Bar & Nightclub,1775 E Tropicana Ave,Pass
+Lucky Joe's Saloon,"6250 Mountain Vista St, Ste B",Pass
+Sammy's Woodfired Pizza and Grill,6500 W Sahara Ave,Pass
+Bob Taylor's Ranch House,6250 Rio Vista St,Pass
+Cactus Jacks Saloon,10648 S Maryland Pkwy,Pass
+Starbucks,7350 S Rainbow Blvd,Pass
+Lumberjacks,965 W Craig Rd,Pass
+Makers & Finders Coffee,"2120 Festival Plaza Dr, Unit 140",Pass
+Starbucks,777 West Lake Mead Pkwy,Pass
+Putter's Bar & Grill,3330 E Tropicana Ave,Pass
+Panda Express,591 College Dr Suite,Pass
+Terrible Herbst,3520 Blue Diamond Rd,Pass
+Buldogis Gourmet Hot Dogs,"2291 S Fort Apache Rd, Ste 102",Pass
+Chow Time,7421 W Lake Mead Ave,Pass
+Terrace Pointe Cafe,3131 Las Vegas Blvd S,Pass
+Burger King,2021 N Jones Blvd,Pass
+Yatai Japanese Grill & Pub,"4865 S Pecos Rd, Ste 5",Pass
+Taco Bell,4880 W. Frias Avenue,Pass
+Subway,4860 Blue Diamond Rd,Pass
+McDonald's,3229 Losee Rd,Pass
+Fuku Burger Chinatown,3429 S Jones Blvd,Pass
+Gimme Some Sugar,"19 S Stephanie St, Ste 160",Pass
+Fish N Bowl,"7225 S Durango Dr, Ste 105",Pass
+Sonic Drive-In,2120 E Craig Rd,Pass
+PDQ,3737 W Craig Rd,Pass
+McDonald's,2550 E Sunset Rd,Pass
+Pizza Hut,"6370 W. Flamingo Road, #17C",Pass
+Smith's,4600 E Sunset Rd,Pass
+Azuza Hookah Lounge & Cafe,4480 Paradise Rd,Pass
+Greenwich Village Coffee Co.,3790 Las Vegas Blvd S,Pass
+Rhodes Ranch Club House Restaurant,20 Rhodes Ranch Pkwy,Pass
+Big Sur Oyster Bar,9777 S Las Vegas Blvd,Pass
+Fresh & Easy,1400 S. Boulder Hwy,Pass
+Fausto's Mexican Grill,"7835 S Rainbow Blvd, Ste 20",Pass
+Claim Jumper,335 Hughes Center Dr,Pass
+Gaetano's Ristorante,"10271 S Eastern Ave, Ste 111",Pass
+SWEET BOX,"4983 W Flamingo Rd, Ste B1",Pass
+Pizza Hut,"5105 E. Sahara Ave., #128",Pass
+Wendy's,76 N Stephanie St,Pass
+Subway,8790 S Maryland Pkwy,Pass
+Quiznos,7135 W Ann Rd,Pass
+Capriotti's,5020 Blue Diamond Rd,Pass
+Village Pub & Poker,7575 S Rainbow Blvd,Pass
+Olive Garden Italian Restaurant,1545 E Flamingo Rd,Pass
+The Lunch Crew Catering,8450 Westcliff Dr,Pass
+Subway,"5655 Centennial Center Blvd, Ste 110",Pass
+Roberto's Taco Shop,"6435 S Rainbow Blvd, Ste 104",Pass
+BLACKOUT Dining in the Dark,"3871 S Valley View Blvd, Ste 8",Pass
+Outback Steakhouse,"3785 Las Vegas Blvd S, Fl 4",Pass
+Crush,3799 Las Vegas Blvd S,Pass
+Sahara Saloon,3345 E Sahara Ave,Pass
+Double Yoke,6050 Sky Pointe Dr,Pass
+Short Line Express Market,7325 S Jones Blvd,Pass
+Capriotti's Sandwich Shop,325 N Nellis Blvd,Pass
+Rubio's,"9310 W Sahara Ave, Ste 100",Pass
+702 Karaoke,4240 Spring Mt Rd Suit 104,Pass
+McDonald's,4105 S Eastern,Pass
+Tucky's Smokin BBQ,308 N Boulder Hwy,Pass
+Starbucks,"7220 West Azure Drive, #110",Pass
+Jason's Deli,1281 W Warm Springs Rd,Pass
+Public School 702,1850 Festival Plaza Dr,Pass
+Café Zupas,7060 S Rainbow Blvd,Pass
+Pizzeria Fracesco's,3300 S Las Vegas Blvd,Pass
+Speedee Mart,10490 Decatur Blvd,Pass
+The Sparklings,"8310 S Rainbow Blvd, Ste 100",Pass
+Carl's Jr,4885 W Tropicana,Pass
+Dylans Double Deuce,3085 S Nellis Blvd,Pass
+Kainan Asian Market & Gift Shop,"9620 Las Vegas Blvd S, Ste N2",Pass
+The Coffee Bean & Tea Leaf,4550 S Maryland Pkwy,Pass
+Sofia's Pizza,"7365 W Sahara Ave, Ste A",Pass
+PizzaRev,"7090 South Rainbow Blvd, Suite 110",Pass
+Sugar & Ice,"Wynn Las Vegas, 3131 S Las Vegas Blvd",Pass
+Don't Tell Mama,"517 Fremont St, Ste A",Pass
+The Bar @ Tropicana & Durango,"4705 S Durango, Ste 140",Pass
+Einstein Bros,4626 S Maryland Pkwy,Pass
+Starbucks,4850 West Craig Road,Pass
+McDonald's,7150 W Craig Rd,Pass
+Taco Bell,1810 E. Serene Avenue,Pass
+Jerry's Nugget Casino,1821 Las Vegas Blvd N,Pass
+Smart & Final Extra!,4439 W Charleston Blvd,Pass
+Rock'N'oodles,1108 S 3rd St,Pass
+Starbucks,"3790 Las Vegas Blvd S, New York New York-Upstairs Lobby, New York New York Hotel",Pass
+Famous Dave's Barbeque,9695 W Flamingo Rd,Pass
+Dick's Last Resort,3850 Las Vegas Blvd S,Pass
+SUSHISAMBA - Las Vegas,3327 Las Vegas Blvd S,Pass
+Subway,2568 Wigwam Pkwy,Pass
+Life Cafe,10721 W Charleston Blvd,Pass
+Lotus Chinese Restaurant & Lounge,215 S Water St,Pass
+Hammer's Grill & Bar,771 E Horizon Dr,Pass
+Subway,9265 S Cimarron Rd,Pass
+Burger King,4111 Boulder Hwy,Pass
+Papa Murphy's,"4900 West Craig Road, Suite 4",Pass
+Jack In The Box,2365 E Windmill Ln,Pass
+Art of Flavors,"1616 S Las Vegas Blvd, Ste 130",Pass
+Kirin Buffet,1518 E Flamingo Rd,Pass
+Domino's Pizza,"209 S Stephanie St, Ste D",Pass
+Taco Bell,355 W. Centennial Parkway,Pass
+Tina's Gourmet Sausage House,"2101 S Decatur Blvd, Ste 22",Pass
+Walmart Supercenter,7200 Arroyo Crossing Pkwy,Pass
+Casanova,"3377 S Las Vegas Blvd, Ste 2170",Pass
+Sonic Drive-In,2301 E Sahara Ave,Pass
+Jersey Mike's Subs,"9540 W Flamingo Rd, Ste 165",Pass
+Pasta Fresh,"4165 S Grand Canyon Dr, Ste 102",Pass
+Lee's Discount Liquor,4605 Blue Diamond Rd,Pass
+La Flor de Michoacan,"3021 Charleston Blvd, Ste B",Pass
+Short Line Express Market,6390 N Durango Dr,Pass
+The Players Club LV,75 S Stephanie St,Pass
+Play It Again Sam,4120 Spring Mountain Rd,Pass
+Panda Express,3825 S Maryland Pky,Pass
+Carl's Donuts - Retail Shop,3170 E Sunset Rd,Pass
+Subway,6525 S Fort Apache Rd,Pass
+Viet My Asian Market,"7537 S Rainbow Blvd, Ste 105",Pass
+Matcha Cafe Maiko,"3400 S Jones Blvd, Ste 3",Pass
+Tropical Smoothie Cafe,"7660 West Cheyenne Avenue, Suite 121",Pass
+Capriotti's Sandwich Shop,3981 E Sunset Rd,Pass
+Red Ribbon Bakeshop,9430 W Sahara Ave,Pass
+Johnny Rockets,3900 S Las Vegas Blvd,Pass
+Taco Bell,6200 West Lake Mead,Pass
+Walmart,6973 Blue Diamond Rd,Pass
+John Cutter,11770 W Charleston Blvd,Pass
+Arby's,7035 N Durango Dr,Pass
+Farmer Boys,7010 S Rainbow Blvd,Pass
+Domino's Pizza,1970 Village Center Cir,Pass
+Las Islitas,911 N Pecos Rd,Pass
+Gold Spike,217 Las Vegas Blvd N,Pass
+Wingstop,5725 Losee Rd,Pass
+Starbucks,"651 N. Rainbow Blvd., #110",Pass
+Burger King,2599 S Nellis Blvd,Pass
+Biaggio's Pizzeria,"4235 S Fort Apache Rd, Ste 160",Pass
+Juan's Flaming Fajitas & Cantina,"9640 W Tropicana, Ste 101",Pass
+Nathan's Famous,"MGM Hotel & Casino Food Court, 3799 Las Vegas Blvd S",Pass
+Frank & Fina's Cocina,4175 S Grand Canyon Dr,Pass
+The Cracked Egg,6435 S Rainbow Blvd,Pass
+B With A Twist Catering,"9272 Tamarus St, Ste 138",Pass
+Starbucks,"600 E Warm Springs, #100",Pass
+Crowbar,6851 W Flamingo Rd,Pass
+The Protein Source,"4220 S Grand Canyon Dr, Ste 8",Pass
+Starbucks,2600 W Harmon Avenue,Pass
+Nutrition Rush,"2020 W Craig Rd, Ste 304",Pass
+Jack In the Box,1845 W Craig Rd,Pass
+Del Taco,150 N Boulder Hwy,Pass
+McDonald's,6680 N 5th St,Pass
+Paymon's Mediterranean Cafe & Lounge,4147 S Maryland Pkwy,Pass
+SkinnyFATS,6261 Dean Martin Dr,Pass
+Flavyours,"4480 Spring Mountain Rd, Ste 600",Pass
+Gustav's Bar,3655 Las Vegas Blvd,Pass
+Lollicup,"6629 South Las Vegas Boulevard, 6629 Las Vegas Blvd S",Pass
+PBR Rock Bar & Grill,3663 Las Vegas Blvd S,Pass
+Get N Go,3366 St Rose Pkwy,Pass
+Omelet House,6520 Boulder Hwy,Pass
+Rebel Oil,7280 S Las Vegas Blvd,Pass
+Manna Mediterranean,"171 N Gibson Rd, Ste 110",Pass
+Off the Hook,"4155 S Buffalo Dr, Ste 105",Pass
+Greens and Proteins,6375 S Rainbow Blvd,Pass
+Smith's,9851 W Charleston Blvd,Pass
+McDonald's,4135 S Grand Canyon Dr,Pass
+Aqua Restaurant and Lounge,"6000 Spring Mtn Rd, Ste 2B",Pass
+Wendy's,7150 W Lake Mead Blvd,Pass
+Makers & Finders Coffee,"1120 S Main St, Ste 110",Pass
+The Flame Broiler,"651 N Rainbow Blvd, Ste 120",Pass
+Kabuki Japanese Restaurant,"400 S Rampart Blvd, Ste 190",Pass
+Pizza Hut,"6895 E. Lake Mead Blvd., #1",Pass
+Firefly Tapas Kitchen and Bar,"11261 S Eastern Ave, Ste 200",Pass
+Subway,"7040 South Durango Dr, Ste 103",Pass
+Cardenas,4421 E Bonanza Rd,Pass
+Five Star Tavern,6320 Simmons St,Pass
+Las Gorditas,"840 N Decatur Blvd, Ste G",Pass
+IHOP,2450 Pebble Rd,Pass
+Starbucks,"10973 W. Charleston Blvd, Red Rock Station - Lobby",Pass
+Vinny's Pizzeria Las Vegas,8716 S Maryland Pkwy,Pass
+New York Bagel Bakery,"840 S Rancho Dr, Ste 16",Pass
+Liquor World,169 E Tropicana Ave,Pass
+The Hush Puppy,1820 N Nellis Blvd,Pass
+Flex Cocktail Lounge,4371 W Charleston Blvd,Pass
+Burgerim,9635 Bermuda Rd,Pass
+Roberto's Taco Shop,"4503 Paradise Rd, Ste C-130",Pass
+McDonald's,6990 S Rainbow Rd,Pass
+Pinches Tacos,"9205 W Russell Rd, Ste 190",Pass
+Le Cirque,3600 S Las Vegas Blvd,Pass
+Albertsons,4800 Blue Diamond Rd,Pass
+Terrible Herbst Carwash,7820 W Sahara Ave,Pass
+Port of Subs,"9255 S Eastern Ave, Ste 300",Pass
+Hot Dog On A Stick,"1659 W Warm Springs Rd, Ste 100",Pass
+Stonehouse Bar & Grill,3889 E Craig Rd,Pass
+Lucky Bar,11011 W Charleston Blvd,Pass
+Potato Corner,"4300 Meadows Ln, 5525",Pass
+Robertos Taco Shop,"8680 W Warm Springs Rd, Ste 105",Pass
+Papa Murphy's,1035 S Rainbow Blvd,Pass
+Smashburger,"7541 W Lake Mead Blvd, Ste 2",Pass
+Spearmint Rhino Las Vegas,3340 S Highland Dr,Pass
+Rampart Buffet,221 N Rampart Blvd,Pass
+Firehouse Subs,"7250 S Durango Dr, Ste 160",Pass
+ZiKiZ,"1500 N Green Valley Pkwy, Ste 230",Pass
+Subway,"4955 E Craig Rd, Ste 1",Pass
+Joey's NY Pizza,"11165 S Eastern Ave, Ste 100",Pass
+Ori'Zaba's Scratch Mexican Grill,6630 N Durango Dr,Pass
+Terrible Herbst,9991 W Charleston Blvd,Pass
+Fatburger,4525 N Rancho Dr,Pass
+Dairy Queen,4036 N Tenaya Way,Pass
+Sofrito Rico Authentic Puerto Rican Cuisine,"5201 W Charleston Blvd, Ste 110",Pass
+China Tang,3799 S Las Vegas Blvd,Pass
+Rocky Mountain Chocolate Factory,4500 W Tropicana Ave,Pass
+Yanni's Gyros,9770 S Maryland Pkwy,Pass
+Boulder Station Hotel & Casino,4111 Boulder Hwy,Pass
+CREAM,"10271 S Eastern Ave, Ste 115",Pass
+Presto Cafe,"4950 S Rainbow Blvd, Ste 130",Pass
+Jamba Juice,"2546 East Craig Rd, Ste 135",Pass
+Subway,"9360 W Flamingo Rd, Ste 103",Pass
+Costa Del Sol At Sunset Station,1301 W Sunset Road,Pass
+Nevada Chicken Cafe,"7340 Arroyo Crossing Pkwy, Ste 5",Pass
+Mr Tea,"6120 W Tropicana Ave, Ste A17",Pass
+Starbucks,7075 W Ann Rd,Pass
+Sean Patricks,6788 N 5th St,Pass
+Chipotle Mexican Grill,"7170 N Durango Rd, Ste 150",Pass
+Donut Mania,"4460 S Durango Dr, Ste D",Pass
+Port of Subs,7920 West Tropical Pkwy,Pass
+The Lodge at Shelbourne,8350 S Rainbow Blvd,Pass
+Starbucks,"751 N. Rancho Drive, #110",Pass
+Silver State Diner,3430 Tropicana Ave,Pass
+Radius Wet Lounge,2000 Las Vegas Blvd S,Pass
+Jjanga Steak & Sushi,"6125 S Fort Apache Rd, Ste 200",Pass
+Giuseppes Bar & Grille Las Vegas,6065 S Durango Dr,Pass
+The Lodge at Grand Teton,8350 Grand Teton Dr,Pass
+PT's,4310 E Tropicana Ave,Pass
+Ely's Restaurant,2477 E Tropicana Ave,Pass
+Hard Hat Lounge,1675 Industrial Rd,Pass
+McDonald's,4934 Boulder Hwy,Pass
+Froggies Snow Cone Shack,8150 Maryland Pkwy,Pass
+IHOP,3260 E Tropicana Ave,Pass
+Starbucks,3545 Las Vegas Blvd S,Pass
+Jack In the Box,1591 S Main St,Pass
+McDonald's,2836 W Ann Rd,Pass
+One Stop Nutrition,"6171 N Decatur Blvd, Ste 130",Pass
+Sean Patricks,3290 W Ann Rd,Pass
+Subway,3411 Las Vegas Blvd S,Pass
+Pour 24,3790 Las Vegas Blvd S,Pass
+La bonita de michoacan,240 North Jones Blvd,Pass
+Starbucks,"4985 W. Tropicana Avenue, 100",Pass
+Water R Us,"3655 S Durango Dr, Ste 20",Pass
+Pt's Place,347 N Nellis Blvd,Pass
+Dickey's Barbecue Pit,"6584 N Decatur Blvd, Ste 100",Pass
+McDonalds,Nellis & Vegas Valley,Pass
+Cafe V,2450 Hampton Rd,Pass
+Oyster Bar,"Suncoast Hotel & Casino, 9090 Alta Dr",Pass
+Lappert's Ice Cream Shop,12 Ogden Ave,Pass
+Amorino Gelato,"3545 Las Vegas Blvd, Ste 3",Pass
+Edible Arrangements,8520 W Desert Inn Rd,Pass
+Domino's Pizza,6441 N Durango Dr Centennial Hills,Pass
+Pizza Forte,1301 W Sunset Rd,Pass
+Resnicks Grocery,"Soho Lofts, 900 S Las Vegas Blvd, Ste 120",Pass
+Wendy's,8900 W Charleston Blvd,Pass
+Rubio's,"7290 W Lake Mead Blvd, Ste 3",Pass
+I Love Burgers,"The Palazzo, 3327 Las Vegas Blvd S",Pass
+Dunkin' Donuts,"11710 W Charleston Blvd, Ste 170",Pass
+Tony Roma's,200 E Fremont St,Pass
+Pt's Pub,8584 W Lake Mead Blvd,Pass
+Port Of Subs,151 N Gibson Rd,Pass
+Agua El Manantial,1852 E Charleston Blvd,Pass
+Pyramid Cafe,3900 Las Vegas Blvd S,Pass
+Las Vegas Eagle,"3430 E Tropicana Ave, Ste 47",Pass
+Asmara Restaurant,4180 W Desert Inn Rd,Pass
+Starbucks,2667 E Windmill Pkwy,Pass
+Sonic Drive-In,6135 S Pecos,Pass
+Tasti D-lite,"591 College Dr, Ste B",Pass
+Gordon Biersch Brewery Restaurant,3987 Paradise Rd,Pass
+Viva Mercado's Mexican Bar & Grill,"9440 W Sahara Ave, Ste 165",Pass
+Sweets Raku,"5040 W Spring Mountain Rd, Ste 3",Pass
+Bonanza Gift Shop,2440 Las Vegas Blvd S,Pass
+U-Swirl Frozen Yogurt,305 N Nellis Blvd,Pass
+Cafe Belle Madeleine,3655 Las Vegas Blvd S,Pass
+Terrible Herbst,6915 Blue Diamond Rd,Pass
+Carve Prime Rib,2121 East Craig Rd,Pass
+Carl's Jr,4970 Blue Diamond Rd,Pass
+Burger King,3355 S Maryland Pkwy,Pass
+Cafelatte,100 N City Pkwy,Pass
+Gilcrease Orchard,7810 N Tenaya Way,Pass
+Smashburger,"7390 Las Vegas Blvd, Ste 100",Pass
+Little Darlings,1514 Western Ave,Pass
+Einstein Bros Bagels,8300 W Cheyenne Ave,Pass
+Rosati's Pizza,430 E Silverado Ranch Blvd,Pass
+JW Marriott Las Vegas Resort & Spa,221 N Rampart Blvd,Pass
+Applebee's Grill + Bar,3340 S Maryland,Pass
+Albertsons,5500 Boulder Hwy,Pass
+Hecho en Vegas,3799 Las Vegas Blvd S,Pass
+Applebee's Grill + Bar,500 N Nellis Blvd,Pass
+Omelet House,316 N Boulder Hwy,Pass
+CiCi's Pizza,6475 N Decatur Blvd,Pass
+Vanguard Lounge,516 Fremont St,Pass
+Jamba Juice,10830 W Charleston Blvd,Pass
+McDonald's,1980 Village Ctr,Pass
+Bogey's Bar & Grill,7770 W Ann Rd,Pass
+Saga Pastry + Sandwich,"10345 S Eastern Ave, Ste 100",Pass
+Carl's Jr.,4901 W Craig Rd,Pass
+Smith's,8180 S Las Vegas Blvd,Pass
+Parmezan Subs,10720 S Eastern Ave,Pass
+Pt's Gold,7200 W Lake Mead,Pass
+La Bonita Supermarket,6000 W Cheyenne Ave,Pass
+Roberto's Taco Shop,"5725 Losee Rd, Ste 100",Pass
+Real Donuts,2212 E Cheyenne Ave,Pass
+Burger King,550 S Boulder Hwy,Pass
+L & L Hawaiian Barbecue,7580 S Las Vegas Blvd,Pass
+Jimmy John's,"10870 W Charleston Blvd, Ste 180",Pass
+Roberto's Taco Shop,"193 N Gibson Rd, Ste 100",Pass
+Smith & Wollensky,3767 Las Vegas Blvd S,Pass
+7 Plus Water & Alkaline,4568 E Tropicana Ave,Pass
+Jimmy John's,495 S Main St,Pass
+Starbucks,"8780 West Charleston Blvd., 105",Pass
+Cold Stone Creamery,"1829 W Craig Rd, Ste 2",Pass
+Yellowtail by Chef Akira Back,3600 S Las Vegas Blvd,Pass
+The Restaurant At Los Prados,5150 Los Prados Cir,Pass
+Mansion Dining Room,3799 Las Vegas Blvd S,Pass
+Capriotti's Sandwich Shop,1146 W Sunset Rd,Pass
+El Pollo Loco,7205 S Eastern Ave,Pass
+Legends Sports Bar & Grill,5866 Boulder Hwy,Pass
+Grass Roots Juice Bar,"124 S 6th St, Ste 160",Pass
+Mothership Coffee Roasters,2708 N Green Valley Pkwy,Pass
+Billy's BBQ,"4115 S Grand Canyon Dr, Ste 100",Pass
+Burger King,7400 S Las Vegas Blvd,Pass
+Circus Buffet,2880 S Las Vegas Blvd,Pass
+Mangos Beach Bar,"6650 W Vegas Dr, Ste 104",Pass
+CREAM,"1980 Festival Plz Dr, Ste 165",Pass
+Carl's Jr Restaurants,6960 W Tropicana Ave,Pass
+Mary's Hash House,"2605 S Decatur Blvd, Ste 103",Pass
+Pizza Hut,2625 E. Tropicana Ave,Pass
+Winchell's Pub & Grill,199 E Warm Springs Rd,Pass
+Raising Cane's,3535 W Tropicana Ave,Pass
+Baccarat Lounge,"Bellagio, 3600 S Las Vegas Blvd",Pass
+Buffalo Wild Wings,65 Horizon Ridge Parkway,Pass
+Five Guys,"10271 S Eastern Ave, Ste 101",Pass
+7th & Carson,"616 E Carson Ave, Ste 110",Pass
+Pastry Palace,4523 W Sahara Ave,Pass
+Starbucks,5975 W. Tropicana Ave,Pass
+Vitality Bowls,"4870 Blue Diamond Rd, Ste 150",Pass
+Laurita's Taco Shop,"8880 S Maryland Pkwy, Ste 103",Pass
+El Pollo Loco,2375 E Sahara Ave,Pass
+Arby's,10365 S Eastern Ave,Pass
+Wienerschnitzel,2575 Windmill Pkwy,Pass
+Katsuya,2535 S Las Vegas Blvd,Pass
+Sweet Tomatoes,2080 N Rainbow Blvd,Pass
+Ohjah Japanese Steakhouse,"2051 N Rainbow Blvd, Ste 102",Pass
+Palms Race & Sports Book,4321 W Flamingo Rd,Pass
+Fabulous Freddy's,7155 Grand Montecito Pkwy,Pass
+The Cupcakery,"9680 S Eastern Ave, Ste 100",Pass
+tsp baking company,"6120 N Decatur Blvd, Ste 103",Pass
+Jolly Beans Cafe-Rainbow,2170 South Rainbow Blvd,Pass
+Peg's Glorified Ham n Eggs,8465 W Sahara Ave,Pass
+Starbucks,"6572 N Decatur Blvd, Ste 100",Pass
+Atomic Liquors,917 Fremont St,Pass
+I Love Yogurt,11700 W Charleston Blvd,Pass
+L'Atelier de Joël Robuchon,3799 Las Vegas Blvd S,Pass
+Panda Express,3999 Las Vegas Blvd S,Pass
+Pt's Gold,2890 Bicentennial Pkwy,Pass
+Starbucks,"3850 Las Vegas Blvd So, Excalibur Hotel & Casino",Pass
+Sicilian Ristorante,3520 E Tropicana Ave,Pass
+Irene's Cocktail Lounge,5480 Spring Mountain Rd,Pass
+In-N-Out Burger,4888 Dean Martin Dr,Pass
+Starbucks,7405 S Durango Dr,Pass
+Trader Joe's,5639 Centennial Ctr Blvd,Pass
+Bacon Bar,3520 N Rancho Dr,Pass
+Go Raw Cafe,2910 Lake E Dr,Pass
+Town Center Lounge II,2992 W Cheyenne Ave,Pass
+Subway,118 Boulder Hwy,Pass
+Cold Stone Creamery,"1311 W Sunset Rd, Ste 110",Pass
+Seafood City Supermarket,3890 S Maryland Pkwy,Pass
+The Front Row Lounge,4180 S Jones Blvd,Pass
+Subway,"3210 S Nellis Blvd, Ste 120",Pass
+Chili's,9051 W Charleston Blvd,Pass
+Jack in the Box,2970 E Desert Inn Rd,Pass
+Roberto's Taco Shop,"4955 E Craig Rd, Ste 2",Pass
+Jack in the Box,4595 W Ann Rd,Pass
+The Greens Gaming & Dining,2241 N Green Valley Pkwy,Pass
+Speakeasy Liquor & Market,1006 E Charleston Blvd,Pass
+McDonald's,3451 W Tropicana,Pass
+Jimmy John's,2204 W Charleston Blvd,Pass
+Salcianu Bistro,2110 E Flamingo Rd,Pass
+Starbucks,3960 S. Las Vegas Blvd,Pass
+Golden Spoon,"4870 Blue Diamond Rd, Ste 100",Pass
+Applebee's Grill + Bar,699 N Stephanie St,Pass
+Honey Baked Ham Company,6331 Centennial Ctr. Blvd.,Pass
+New York Pretzel,"MGM Hotel & Casino Food Court, 3799 Las Vegas Blvd. South",Pass
+Pizza Hut,1280 W. Warm Springs Rd,Pass
+Morton's The Steakhouse,400 E Flamingo Rd,Pass
+Circle K,5485 E Tropicana Ave,Pass
+Einstein Bros Bagels,"360 E Tropicana Ave, Ste A101",Pass
+Robertos Taco Shop,"5780 E Sahara, Ste 110",Pass
+THE Steak House,2880 S Las Vegas Blvd,Pass
+Timbers - Azure,7240 W Azure Dr,Pass
+Putter's Bar & Grill,6945 S Rainbow Blvd,Pass
+Starbucks,"7101 West Craig Road, 1",Pass
+Tropical Smoothie Cafe,"3390 Novat Street, #110",Pass
+Pt's Ranch,2430 E Pebble Rd,Pass
+Fatburger,1301 W Sunset Rd,Pass
+Snackers,3315 S Valley View Blvd,Pass
+McDonald's,5947 Spring Mountain Rd,Pass
+Napoli Pizzeria,"4760 W Sahara Ave, Ste 11",Pass
+Subway,6495 S Pecos Rd,Pass
+Outback Steakhouse,521 N Stephanie St,Pass
+Pineapple Park,"10550 Southern Highlands Pkwy, Ste 110",Pass
+Hop Nuts Brewing,"1120 S Main St, Ste 150",Pass
+Serenade,"7920 S Rainbow Blvd, Ste 100",Pass
+Samurai Sam's,"10300 W Charleston Blvd, Ste 7",Pass
+El Pollo Loco,6131 W Lake Mead Blvd,Pass
+Panda Express,"9795 W Charleston Blvd, Ste 103",Pass
+Subway,777 W Lake Mead Pkwy,Pass
+Farmer Boys,4833 W Charleston Blvd,Pass
+Boomer's Bar,3200 W Sirius Ave,Pass
+Tetsu,3730 Las Vegas Blvd S,Pass
+Firehouse Subs,4761 S Maryland Pkwy,Pass
+Raising Cane's,4655 W Charleston,Pass
+Tacos Huevos,"107 E Charleston Blvd, Ste 150",Pass
+Cha Garden,300 W Sahara Ave,Pass
+McDonald's,301 Fremont St,Pass
+The Butcher Block,1550 W Horizon Ridge Pkwy,Pass
+Little Caesars Pizza,1758 E. Charleston Blvd.,Pass
+Sierra Gold,6929 Aliante Pkwy,Pass
+Starbucks,4507 Flamingo Rd,Pass
+Popeyes Louisiana Kitchen,4950 W Flamingo Rd,Pass
+Pizza Hut,"3000 W. Ann Road, #104",Pass
+Starbucks,3799 Las Vegas Blvd S,Pass
+Starbucks,"3215 St. Rose Parkway, #100",Pass
+Maggiano's Little Italy,3200 Las Vegas Blvd S,Pass
+Chipotle Mexican Grill,3200 Las Vegas Blvd S,Pass
+Farmer Boys,4450 N Lamb Blvd,Pass
+McDonald's,9760 S Las Vegas Blvd,Pass
+Dunkin' Donuts,3481 S Durango Dr,Pass
+Famous Dave's Bar-B-Que,4390 Blue Diamond Rd,Pass
+Taco Bell Cantina,"3717 S Las Vegas Blvd, Ste 140-A",Pass
+Durango Lodge,3399 S Durango Dr,Pass
+Dairy Queen,2607 Windmill Pkwy,Pass
+Denny's,3411 S Las Vegas Blvd,Pass
+Subway,1750 N Buffalo Dr,Pass
+Subway,1040 E Flamingo Rd,Pass
+Tacos Tijuana,2930 Las Vegas Blvd N,Pass
+Le Central,3655 Las Vegas Blvd S,Pass
+Cilantro Tacos,"2300 N Rainbow Blvd, Ste 108",Pass
+Giada,"The Cromwell Las Vegas Resort & Casino, 3595 Las Vegas Blvd South",Pass
+PT's,4424 W Spring Mountain Rd,Pass
+Jerusalem Mediterranean Chef's Table,4825 W Flamingo Rd,Pass
+El Pollo Loco,5260 S Ft Apache,Pass
+Baja Bar & Grill,4755 S Maryland Pkwy,Pass
+Port of Subs,"5801 S Decatur Blvd, Ste 160",Pass
+McDonald's,3700 S Paradise Rd,Pass
+Burger King,2390 E Bonanza Rd,Pass
+Function Juicery,"4220 S Grand Canyon Dr, Ste 6",Pass
+Café Zupas,1381 W Sunset Rd,Pass
+Jack in the Box,3235 W Tropicana Ave,Pass
+Sababa Mediterranean Grill,3220 S Durango Dr,Pass
+Roberto's Taco Shop,1311 W Craig Rd,Pass
+Subway,10217 W Charleston Blvd,Pass
+Samurai Sam's,7620 Las Vegas Blvd S,Pass
+GlutenZero,"9500 S Eastern Ave, Ste 130",Pass
+In-N-Out Burger,4705 S Maryland Pkwy,Pass
+Excalibur Pool,"Excalibur Hotel And Casino, 3850 Las Vegas Blvd S",Pass
+Red Rock Chocolate Factory,"2025 Festival Plaza Dr, Ste 110",Pass
+Teddy's Bakery,5025 S Fort Apache Rd,Pass
+Woods Family Sandwiches,"931 American Pacific Dr, Ste 106",Pass
+Romano's Macaroni Grill,573 N Stephanie St,Pass
+Capriotti's Sandwich Shop,3820 E Craig Rd,Pass
+Park on Fremont,506 Fremont St,Pass
+Design & Dine,"7250 S Durango Dr, Ste 120",Pass
+IHOP,1401 S Decatur Blvd,Pass
+Casa Don Juan  - Summerlin,1780 N Buffalo Dr,Pass
+Giuseppe's Italian Grille,2630 W Horizon Ridge Pkwy,Pass
+The Golden Tiki,3939 W Spring Mountain Rd,Pass
+Subway,6648 N 5th St,Pass
+David Montes NY Pizzeria,"955 W Craig rd, Ste 105",Pass
+La favorita Market,573 E Twain Ave,Pass
+Subway,"9175 S Las Vegas Blvd, Ste 100-A",Pass
+Kopper Keg West,2257 S Rainbow Blvd,Pass
+Brooklyn's Restaurant,10 Via Brianza,Pass
+Claim Jumper Restaurant & Saloon,601 N Green Valley Pkwy,Pass
+Wingstop,903 S Rainbow Blvd,Pass
+Rocky Mountain Chocolate Factory,220 E Fremont St,Pass
+Smith's,10616 S Eastern Ave,Pass
+Pizza Hut,"10525 S Eastern Ave, Ste 130",Pass
+Sporting Life Bar,7770 S Jones Blvd,Pass
+Wienerschnitzel,4470 E Charleston,Pass
+Green Valley Grocery,6875 W Russell Rd,Pass
+Starbucks,"1300 West Sunset Road, #2625, Galleria Mall",Pass
+Golden Spoon Frozen Yogurt,"3370 S Hualapai Way, Ste 125",Pass
+House of Manchester Primal Brasserie -Organic Gluten-Free Fusion,"2256 Losee Rd, Ste E",Pass
+Pilot Travel Center,3812 E Craig Rd,Pass
+McDonald's,1406 W Craig Rd,Pass
+Twin Peaks,"9510 S Eastern Ave, Ste 100",Pass
+Cafe Moda,3400 S Jones Blvd,Pass
+Chef Marc's Trattoria,8615 W Sahara Ave,Pass
+Dragon Ass Coffee,2025 E Sahara,Pass
+Jack In the Box,4040 S Rainbow Blvd,Pass
+Wingstop,5045 W Tropicana Ave,Pass
+Strip View Cafe,"3225 S Rainbow Blvd, Ste 106",Pass
+Jack In The Box,"4161 St Rose Pkwy, Ste B",Pass
+Terra Rossa,"Red Rock Casino Resort & Spa, 11026 W Charleston Blvd",Pass
+Baja Fresh,"8780 W Charleston Blvd, Ste 100",Pass
+McDonald's,8480 Farm Rd,Pass
+Freakin' Frog,4700 S Maryland Pkwy,Pass
+Bell's BBQ,"10895 S Eastern Ave, Ste 130",Pass
+Paradise Pub,955 Grier Dr,Pass
+Burger King,3620 W Tropicana Ave,Pass
+Buffalo Wild Wings,"150 E Centennial Pkwy, Ste 101",Pass
+Little Caesars Pizza,"5020 E. Tropicana Ave A1, Ste 1",Pass
+Ciao Pizzeria,"3421 E Tropicana Ave, Ste F",Pass
+The Underground - The Mob Museum,300 Stewart Ave,Pass
+Burger King,5536 Boulder Hwy,Pass
+Soul Food Cafe,"7320 S Rainbow Blvd, Ste 112",Pass
+Tahiti Joe's,7200 Las Vegas Blvd S,Pass
+Beauty Bar,517 Fremont St,Pass
+Big Ern's BBQ,102 S 7th St,Pass
+Edible Arrangements,1291 S Decatur Blvd 140,Pass
+Ice Monster Cafe,"7729 S Rainbow Blvd, Ste 9B",Pass
+Timbers - Lake Mead,6330 E Lake Mead Blvd,Pass
+Victory's Bar & Grill,2121 E Craig Rd,Pass
+Jack In the Box,4860 S Decatur Blvd,Pass
+Starbucks,6080 W. Badura Avenue,Pass
+Annie's Kitchen,1212 D St,Pass
+Dylans Grill and Pub,4401 E Sunset Rd,Pass
+Frijoles & Frescas Grilled Tacos,4811 S Rainbow Blvd,Pass
+Charlie Palmer Steak,3960 S Las Vegas Blvd,Pass
+Zoozacrackers Deli,3131 Las Vegas Blvd S,Pass
+Zodie's,3055 E Flamingo Rd,Pass
+Khoury's Mediterranean Restaurant,"9340 W Sahara Ave, Ste 106",Pass
+Winder Farms,"6420 Cameron St, Ste 203",Pass
+Papa Murphy's,"10180 West Tropicana, Suite 133",Pass
+Del Taco,4449 E Sunset Rd,Pass
+Capriotti's Sandwich Shop,"90 S Stephanie St, Ste 140",Pass
+Sbarro,3150 Paradise Rd,Pass
+Jerry's Famous Coffee Shop,1821 N Las Vegas Blvd,Pass
+Rhythm Kitchen,6435 S Decatur Blvd,Pass
+West Wing Bar,3799 Las Vegas Blvd S,Pass
+Pinkberry,3752 Las Vegas Blvd,Pass
+Midtown,953 E Desert Inn Rd,Pass
+Eiffel Tower Wine & Spirits,3655 Las Vegas Blvd,Pass
+Rendezvous Cafe,2341 N Rainbow Blvd,Pass
+Five Guys,"9484 W Flamingo Rd, Ste 180",Pass
+Starbucks,10250 West Charleston Blvd,Pass
+Cheeburger Cheeburger,8390 S Rainbow Blvd,Pass
+Tropical Smoothie Cafe,"6360 Simmons Street, Suite 105",Pass
+Port of Subs,949 S Rainbow Blvd,Pass
+Village Pub & Poker,2610 Regatta Dr,Pass
+Dunkin' Donuts,4125 S Eastern Ave,Pass
+The Gourmet Cake Factory,1280 S Jones Blvd,Pass
+Bachi Burger,"9410 W Sahara Ave, Ste 150",Pass
+Ace Of Steaks,"5825 W Sahara Ave, Ste M",Pass
+Roberto's Taco Shop,114 S Boulder Hwy,Pass
+Subway,6500 Boulder Hwy,Pass
+Village Pub & Poker,10900 S Eastern Ave,Pass
+Don Chuy Mexican Grill,"7080 S Jones Blvd, Ste 102",Pass
+Slices Pizzeria,4111 Boulder Hwy,Pass
+Swirly Q Frozen Yogurt,"4632 S Maryland Pkwy, Ste 20",Pass
+Bunkhouse Saloon,124 S 11th St,Pass
+Pizza Hut,3101 Las Vegas Blvd N,Pass
+Aroma Coffee Roasters,"2960 Westwood Dr, Ste 17",Pass
+Wendy's,3995 S Durango Dr,Pass
+Las Vegas Kettle Corn and Special Events,"110 N Boulder Hwy, Ste 110",Pass
+Rubio's,"1500 N Green Valley Pkwy, Ste 210",Pass
+Chipotle Mexican Grill,2023 E Lake Mead Blvd,Pass
+TGI Fridays,4570 W Sahara Ave,Pass
+PT's,5355 S Decatur Blvd,Pass
+Dollar General Market,"3700 E Charleston Blvd, Ste 120",Pass
+Tasty Grill,4140 S Durango Dr,Pass
+Nutrition Rush,6050 N Decatur Blvd,Pass
+Golden Gate Hotel & Casino,1 Fremont St,Pass
+Green Valley Grocery,2599 Wigwam Pkwy,Pass
+Panera Bread,605 Mall Ring Cir,Pass
+Golden Spoon Frozen Yogurt,"10251 S Eastern Ave, Ste 120",Pass
+Short Line Express Market,8096 S Durango Dr,Pass
+Jack In The Box,2389 E Windmill Ln,Pass
+Salsa Loca Mexican Grill,"4130 S Sandhill Rd, Ste A3",Pass
+McDonald's,1501 W Lake Mead,Pass
+Zabas Mexican Grill,9905 S Eastern Ave,Pass
+Lady Luck Cafe & Catering,"35 E Basic Rd, Ste B",Pass
+Starbucks,North-East corner of South Rainbow Blvd.,Pass
+Golden Nugget Buffet,129 E Fremont St,Pass
+Enso Tea Bar,"9410 W Sahara Ave, Ste 130",Pass
+Drai's After Hours,3595 Las Vegas Blvd S,Pass
+Sapphire Gentlemen's Club,3025 Sammy Davis Jr Dr,Pass
+Cold Stone Creamery,"9350 W Sahara Ave, Ste 140",Pass
+Globe Cafe,"8545 S Eastern Ave, Ste 101",Pass
+Hearthstone Kitchen & Cellar,11011 W Charleston Blvd,Pass
+Pt's Gold,582 E Silverado Ranch Blvd,Pass
+Carl's Jr.,607 W Craig Rd,Pass
+La Islena Market,2405 N Rainbow Blvd,Pass
+Yummy Chinese restaurant,"4825 S Rainbow Blvd, Ste 205",Pass
+McDonald's,4855 S Maryland Pkwy,Pass
+Greens and Proteins,9809 W Flamingo Rd,Pass
+Pt's Pub,"4825 W Flamingo Ave, Ste 3",Pass
+Mimi's Cafe,7315 Arroyo Crossing Pkwy,Pass
+Starbucks,3799 Las Vegas Blvd. South,Pass
+Siena Italian Authentic Trattoria and Deli,9500 W Sahara Ave,Pass
+Del Taco,8471 W Sahara Ave,Pass
+barMASA,3730 Las Vegas Blvd S,Pass
+Tokyo Peking Asian Restaurant,"750 E Pyle Ave, Ste 108-109",Pass
+Chile Verde Express Mexican Grill,8095 S Rainbow Blvd,Pass
+Studio B Buffet,12300 Las Vegas Blvd S,Pass
+Blue Dogs Pub,"3430 E Tropicana Ave, Ste 29",Pass
+Joe Vicari's Andiamo Italian Steakhouse,301 Fremont St,Pass
+Yukon Grille,4575 Boulder Hwy,Pass
+The Chicken Shack,"10445 Spencer St, Ste 120",Pass
+SNS Diner,1100 E Colton Ave,Pass
+Pieology Pizzeria,"365 Hughes Center Dr, Ste 130",Pass
+Village Pub & Poker,4563 E Sunset Rd,Pass
+Fiesta Henderson,777 W Lake Mead Pkwy,Pass
+Albertsons,8350 W Cheyenne Ave,Pass
+Ventano Italian Grill & Seafood,191 S Arroyo Grande Blvd,Pass
+Joker's,1631 N Decatur Blvd,Pass
+Rigos Taco,3140 S Valley View Blvd,Pass
+Macayo Vegas,1741 E Charleston Blvd,Pass
+Big Ern's BBQ,707 E Fremont St,Pass
+Roberto's Taco Shop,"6320 Simmons St, Ste 130",Pass
+Pink Box Doughnuts,7155 Grand Montecito Pkwy,Pass
+Jack in the Box,6515 E Lake Mead Blvd,Pass
+Church's Chicken,1625 E Charleston Blvd,Pass
+Mariscos Playa Escondida,"1203 E Charleston Blvd, Ste 140",Pass
+Tower Pizzeria,2000 S Las Vegas Blvd,Pass
+IHOP,9480 W Sahara Ave,Pass
+Babes Cabaret,5901 Emerald Ave,Pass
+Spago by Wolfgang Puck,"The Forum Shops At Caesars, 3500 Las Vegas Blvd S, Ste G1",Pass
+Taco Bell,6520 N Buffalo,Pass
+Subway,8000 W Sahara Ave,Pass
+Jack in the Box,3311 S Nellis Blvd,Pass
+Panda Express,6630 N Durango Dr,Pass
+Jack in the Box,2301 S Decatur Blvd,Pass
+Applebee's Grill + Bar,820 E Warm Springs Rd,Pass
+Hash House A Go Go,3535 Las Vegas Blvd,Pass
+Carrabba's Italian Grill,8771 W Charleston Blvd,Pass
+Subway,3519 S Maryland Pkwy,Pass
+ChillSpot by SasaSweets,"707 E Fremont St, Ste 1300",Pass
+Fresh & Easy,600 S. Green Valley Pkwy,Pass
+Wolfgang Puck Bar & Grill Summerlin,"10955 Oval Park Dr, Ste D3",Pass
+Hash House A Go Go,"The M Resort, 12300 Las Vegas Blvd S",Pass
+Donut Tyme,4268 E Charleston Blvd,Pass
+Pita House,"1310 E Silverado Ranch Blvd, Ste 101",Pass
+World Beverage Company,7475 S Eastern Ave,Pass
+Five Guys,7290 W Lake Mead Blvd,Pass
+Casa Cocina,2121 East Craig Rd,Pass
+Redwood Bar and Grill,12 E Ogden Ave,Pass
+Del Taco,4470 N Rancho Dr,Pass
+Torrey Pines Pub,6374 W Lake Mead Blvd,Pass
+El Dorado Express,3755 S Las Vegas Blvd,Pass
+Carl's Jr.,5795 S Eastern Ave,Pass
+In-N-Out Burger,1051 W Sunset Rd,Pass
+Layers Bakery Cafe,6496 Medical Center St,Pass
+Cannery Row Buffet,2121 E Craig Rd,Pass
+Nacho Daddy Downtown,113 N 4th St,Pass
+Elixir - A Local Lounge,"2920 N Green Valley Pkwy, Ste 6",Pass
+iCheese Pizza & Sub,"4632 S Maryland Pkwy, Ste 12",Pass
+Sushi Tower & Steakhouse,"4145 S Grand Canyon Dr, Ste 104",Pass
+America's Mart,1797 E Cactus Ave,Pass
+Cocolini's,3355 Las Vegas Blvd S,Pass
+Putter's Bar & Grill,5025 S Eastern Ave,Pass
+The Commissary Latin Kitchen by Richard Sandoval,206 N. 3rd St.,Pass
+Church's Chicken,601 N Rancho Dr,Pass
+Centerfolds Cabaret LV,4416 Paradise Rd,Pass
+Olivia's Mexican Restaurant & Bar,3554 S Maryland Pkwy,Pass
+McDonald's,8120 S Eastern,Pass
+Raising Cane's,1120 E Flamingo Rd,Pass
+Hawaiian Marketplace,3743 Las Vegas Blvd S,Pass
+Wonderland Bakery,"2010 Festival Plaza Dr, Ste 150",Pass
+Carson Kitchen,"124 S 6th St, Ste 100",Pass
+Cafe Bellagio,3600 S Las Vegas Blvd,Pass
+Arby's,725 N Nellis Blvd,Pass
+Circle K,695 Valle Verde Dr,Pass
+Burger King,6091 N Decatur Blvd,Pass
+High Roller Pizzeria,"8174 S Las Vegas Blvd, Ste 101",Pass
+Firelight Buffet,5111 Boulder Hwy,Pass
+Carl's jr,758 S Boulder Hwy,Pass
+Farmer Boys,5847 S Decatur Blvd,Pass
+Starbucks,"591 N. Eastern Ave., 110",Pass
+Burger King,1709 W Craig Rd,Pass
+Capriotti's Sandwich Shop,11011 W Charleston Blvd,Pass
+Buffalo's Pizza,"4045 S Buffalo Dr, Ste 108",Pass
+The Piano Bar,3475 S Las Vegas Blvd,Pass
+Pita Pit,4680 S Maryland Pkwy,Pass
+Sambalatte,"6555 S Jones Blvd, Ste 100",Pass
+Subway,"175 N Stephanie St, Ste 110",Pass
+Mariscos El Puerto,1901 N Decatur Blvd,Pass
+Don Tortaco,1000 E Cheyenne Ave,Pass
+Liquor World,4503 Paradise Rd,Pass
+Three Angry Wives,"8820 W Charleston Blvd, Ste 105",Pass
+Subway,351 E Silverado Ranch Blvd,Pass
+Farmer Boys,2341 N Las Vegas Blvd,Pass
+Pizza Hut,"7450 W. Cheyenne Ave, #102",Pass
+PT's Ranch,6450 S Durango Dr,Pass
+Roadrunner Saloon,921 N Buffalo Dr,Pass
+Sonoma Cellar,1301 W Sunset Rd,Pass
+Denny's,7341 W Lake Mead Blvd,Pass
+Del Taco,7480 W Lake Mead Blvd,Pass
+Subway,4551 W Flamingo Rd,Pass
+Arizona Charlie's Boulder,4575 Boulder Hwy,Pass
+Starbucks,6381 Centennial Center Blvd.,Pass
+Mesa Grill,3570 Las Vegas Blvd S,Pass
+LaBella's Pizzeria,"6530 N Buffalo Dr, Ste 130",Pass
+Red Ribbon Bakeshop,3890 S Maryland Pkwy,Pass
+Subway,1795 Craig Rd,Pass
+Blue Ox Central,"6000 S Eastern Ave, Ste 4A",Pass
+Rivea,"3940 Las Vegas Blvd S, Fl 64",Pass
+Famous Dave's Bar-B-Que,1951 N Rainbow Blvd,Pass
+Garrett Popcorn Shops,"Miracle Mile Shops, 3663 Las Vegas Blvd S, Ste 50",Pass
+Pt's Place,532 E Sahara Ave,Pass
+Smashburger,"9460 S Eastern Ave, Ste 120",Pass
+The Chicken Shack,"4950 S Rainbow Blvd, Ste 130",Pass
+Jackson's Bar & Grill,6020 W Flamingo Rd,Pass
+Subway,"10090 S Eastern Ave, Ste 110",Pass
+The Perfect Scoop & Boba Tea,"7377 S Jones Blvd, Ste 115",Pass
+Oil & Vinegar,10975 Sage Park Dr,Pass
+Pisa Pizza,"3635 S Las Vegas Blvd, Ste 103",Pass
+Tower Suite Bar,3131 Las Vegas Blvd S,Pass
+Marco's Pizza,"9635 South Bermuda Rd, Ste 140",Pass
+TC's Rib Crib,3655 S Durango Dr,Pass
+The Nerd,"450 Fremont St, Ste 250",Pass
+Taco Bell,2033 E Charleston Blvd,Pass
+Pizzarelli,1288 S Nellis Blvd,Pass
+Hogs and Heifers,201 N 3rd St,Pass
+Big B's Texas BBQ,"3019 St Rose Pkwy, Ste 130",Pass
+Metro Diner,"7305 S Rainbow Blvd, Ste 100",Pass
+Chimera Golf Club,901 Olivia Pkwy,Pass
+Jack In The Box,3790 E Tropicana Ave,Pass
+Fat Boy,"1570 W Horizon Ridge, Ste 160",Pass
+Purple Penguin Snowcone Shack,1500 W Horizon Ridge Pkwy,Pass
+Holsteins,"3708 Las Vegas Blvd S, Level 2, Boulevard Tower",Pass
+Blueberry Hill Family Restaurant,4875 W Flamingo Rd,Pass
+Terrible Herbst,4070 Arville St,Pass
+Port of Subs,"5715 S Eastern Ave, Ste 102",Pass
+Pizza Hut,3850 S Las Vegas Blvd,Pass
+Wendy's,2601 S Eastern Ave,Pass
+Paina Cafe,"6870 Spring Mountain Rd, Ste G",Pass
+Sultan's Grill- Henderson,"72 W Horizon Ridge Pkwy, Ste 105",Pass
+Wendy's,8160 W Sahara Ave,Pass
+Pt's Pub,1089 E Tropicana Ave,Pass
+Sparrow + Wolf,"4480 Spring Mountain Rd, Ste 100",Pass
+Don Tortaco Mexican Grill,1513 W Craig Rd,Pass
+Taco Bell,4425 E Sunset Rd,Pass
+Rachel's Kitchen,3330 S Hualapai Way,Pass
+Crafted Buffet,2000 S Las Vegas Blvd,Pass
+PRESS Bar & Lounge,3960 Las Vegas Blvd S,Pass
+Shiftys Crows Nest,3805 W Sahara Ave,Pass
+Carmine's Pizza Kitchen,2211 Maryland Pkwy,Pass
+Subway,830 N Rancho Dr,Pass
+Popcorn Girl,"8550 W Charleston Blvd, Ste 109",Pass
+Dylans Sports Pub,40 N Nellis Blvd,Pass
+Starbucks,"8164 S. Las Vegas Blvd., #100",Pass
