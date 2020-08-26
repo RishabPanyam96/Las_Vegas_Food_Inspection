@@ -1,6 +1,5 @@
-<p align="center">
+
   <img src="FlaskDeployment/templates/Logo.png" alt="drawing" width="400"/>
-</p>
 <hr>
 Final Project Repository for CSP-571: Data Preparation and Analysis
 
