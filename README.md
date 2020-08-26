@@ -1,5 +1,5 @@
-# DPA-Final-Project
-
+<img src="FlaskDeployment/templates/Logo.png" alt="drawing" width="400"/>
+<hr>
 Final Project Repository for CSP-571: Data Preparation and Analysis
 
 Project Goal: Find relationship between (inspection data and Yelp reviews) and whether or not a restaurant needs a food inspection.
